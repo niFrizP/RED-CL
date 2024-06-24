@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conocer Recorrido</title>
+  </head>
+  <body>
+    <div id="content"></div>
+
+    <script>
+      // Función para obtener parámetros de la URL
+      function getQueryParams() {
+        const params = new URLSearchParams(window.location.search);
+        return {
+          codsint: params.get("codsint"),
+        };
+      }
+
+      // Función para cargar el contenido JSON
+      async function loadContent() {
+        const { codsint } = getQueryParams();
+        if (codsint) {
+          try {
+            const response = await fetch(`./${codsint}.json`);
+            if (response.ok) {
+              const data = await response.json();
+              document.getElementById("content").innerText = JSON.stringify(
+                data,
+                null,
+                2
+              );
+            } else {
+              document.getElementById("content").innerText =
+                "Error: No se pudo cargar el contenido.";
+            }
+          } catch (error) {
+            document.getElementById("content").innerText =
+              "Error: " + error.message;
+          }
+        } else {
+          document.getElementById("content").innerText =
+            "Error: Parámetro codsint no especificado.";
+        }
+      }
+
+      // Cargar el contenido cuando la página se carga
+      window.onload = loadContent;
+    </script>
+  </body>
+</html>
