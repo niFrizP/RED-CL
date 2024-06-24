@@ -1,0 +1,4195 @@
+{
+    "negocio": {
+        "id": 3,
+        "nombre": "Buses Vule S.A.",
+        "color": "#00A77E",
+        "url": "http://www.transantiago.cl/es/empresas/vule.html"
+    },
+    "ida": {
+        "id": 674,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "05:30",
+                "fin": "23:05"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "05:30",
+                "fin": "23:05"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "05:30",
+                "fin": "23:05"
+            }
+        ],
+        "path": [
+            [
+                -33.4955680005,
+                -70.7794070001
+            ],
+            [
+                -33.4958450005,
+                -70.7806900001
+            ],
+            [
+                -33.4961830005,
+                -70.7822600001
+            ],
+            [
+                -33.4964500005,
+                -70.7834840001
+            ],
+            [
+                -33.4964860005,
+                -70.7836690001
+            ],
+            [
+                -33.4964150005,
+                -70.7836430001
+            ],
+            [
+                -33.4959070005,
+                -70.7838160001
+            ],
+            [
+                -33.4953760005,
+                -70.7839630001
+            ],
+            [
+                -33.4951460005,
+                -70.7839840001
+            ],
+            [
+                -33.4950030005,
+                -70.7840050001
+            ],
+            [
+                -33.4948000005,
+                -70.7840440001
+            ],
+            [
+                -33.4947680005,
+                -70.7840530001
+            ],
+            [
+                -33.4946370005,
+                -70.7840890001
+            ],
+            [
+                -33.4945050005,
+                -70.7841250001
+            ],
+            [
+                -33.4943470005,
+                -70.7841750001
+            ],
+            [
+                -33.4942790005,
+                -70.7841950001
+            ],
+            [
+                -33.4941740005,
+                -70.7842280001
+            ],
+            [
+                -33.4938250005,
+                -70.7843320001
+            ],
+            [
+                -33.4935110005,
+                -70.7843930001
+            ],
+            [
+                -33.4933090005,
+                -70.7844090001
+            ],
+            [
+                -33.4930860005,
+                -70.7844100001
+            ],
+            [
+                -33.4929780005,
+                -70.7844080001
+            ],
+            [
+                -33.4928470005,
+                -70.7843970001
+            ],
+            [
+                -33.4927120005,
+                -70.7843770001
+            ],
+            [
+                -33.4925820005,
+                -70.7843510001
+            ],
+            [
+                -33.4924420005,
+                -70.7843210001
+            ],
+            [
+                -33.4923070005,
+                -70.7842870001
+            ],
+            [
+                -33.4921730005,
+                -70.7842510001
+            ],
+            [
+                -33.4919750005,
+                -70.7841890001
+            ],
+            [
+                -33.4918360005,
+                -70.7841430001
+            ],
+            [
+                -33.4917020005,
+                -70.7840920001
+            ],
+            [
+                -33.4915630005,
+                -70.7840370001
+            ],
+            [
+                -33.4914330005,
+                -70.7839800001
+            ],
+            [
+                -33.4913250005,
+                -70.7839220001
+            ],
+            [
+                -33.4912310005,
+                -70.7838640001
+            ],
+            [
+                -33.4910960005,
+                -70.7837710001
+            ],
+            [
+                -33.4909550005,
+                -70.7836550001
+            ],
+            [
+                -33.4907600005,
+                -70.7834330001
+            ],
+            [
+                -33.4906010005,
+                -70.7831940001
+            ],
+            [
+                -33.4904720005,
+                -70.7829550001
+            ],
+            [
+                -33.4904600005,
+                -70.7829310001
+            ],
+            [
+                -33.4902840005,
+                -70.7826120001
+            ],
+            [
+                -33.4902190005,
+                -70.7824880001
+            ],
+            [
+                -33.4901020005,
+                -70.7822710001
+            ],
+            [
+                -33.4899150005,
+                -70.7819120001
+            ],
+            [
+                -33.4898870005,
+                -70.7818450001
+            ],
+            [
+                -33.4898700005,
+                -70.7817990001
+            ],
+            [
+                -33.4898510005,
+                -70.7817390001
+            ],
+            [
+                -33.4898350005,
+                -70.7816730001
+            ],
+            [
+                -33.4898230005,
+                -70.7816040001
+            ],
+            [
+                -33.4898140005,
+                -70.7815330001
+            ],
+            [
+                -33.4898130005,
+                -70.7814650001
+            ],
+            [
+                -33.4898130005,
+                -70.7813900001
+            ],
+            [
+                -33.4898190005,
+                -70.7813180001
+            ],
+            [
+                -33.4898350005,
+                -70.7812410001
+            ],
+            [
+                -33.4898500005,
+                -70.7811730001
+            ],
+            [
+                -33.4898750005,
+                -70.7810810001
+            ],
+            [
+                -33.4901490005,
+                -70.7802380001
+            ],
+            [
+                -33.4901640005,
+                -70.7801760001
+            ],
+            [
+                -33.4909420005,
+                -70.7777370001
+            ],
+            [
+                -33.4909240005,
+                -70.7776210001
+            ],
+            [
+                -33.4908440005,
+                -70.7774810001
+            ],
+            [
+                -33.4908590005,
+                -70.7774480001
+            ],
+            [
+                -33.4908920005,
+                -70.7771610001
+            ],
+            [
+                -33.4908820005,
+                -70.7770400001
+            ],
+            [
+                -33.4907890005,
+                -70.7768460001
+            ],
+            [
+                -33.4900500005,
+                -70.7755000001
+            ],
+            [
+                -33.4894300005,
+                -70.7743360001
+            ],
+            [
+                -33.4896040005,
+                -70.7737870001
+            ],
+            [
+                -33.4896700005,
+                -70.7735110001
+            ],
+            [
+                -33.4896700005,
+                -70.7734440001
+            ],
+            [
+                -33.4897120005,
+                -70.7732940001
+            ],
+            [
+                -33.4900770005,
+                -70.7720440001
+            ],
+            [
+                -33.4901000005,
+                -70.7719730001
+            ],
+            [
+                -33.4899430005,
+                -70.7717910001
+            ],
+            [
+                -33.4899130005,
+                -70.7717240001
+            ],
+            [
+                -33.4898840005,
+                -70.7716640001
+            ],
+            [
+                -33.4897740005,
+                -70.7714920001
+            ],
+            [
+                -33.4896870005,
+                -70.7713430001
+            ],
+            [
+                -33.4895410005,
+                -70.7710980001
+            ],
+            [
+                -33.4894600005,
+                -70.7709580001
+            ],
+            [
+                -33.4894590005,
+                -70.7709560001
+            ],
+            [
+                -33.4893430005,
+                -70.7707620001
+            ],
+            [
+                -33.4892400005,
+                -70.7705850001
+            ],
+            [
+                -33.4889710005,
+                -70.7701240001
+            ],
+            [
+                -33.4887220005,
+                -70.7696920001
+            ],
+            [
+                -33.4883150005,
+                -70.7689990001
+            ],
+            [
+                -33.4879920005,
+                -70.7684560001
+            ],
+            [
+                -33.4876480005,
+                -70.7678430001
+            ],
+            [
+                -33.4871670005,
+                -70.7670240001
+            ],
+            [
+                -33.4866480005,
+                -70.7661260001
+            ],
+            [
+                -33.4863880005,
+                -70.7656920001
+            ],
+            [
+                -33.4861520005,
+                -70.7652910001
+            ],
+            [
+                -33.4860050005,
+                -70.7650240001
+            ],
+            [
+                -33.4859190005,
+                -70.7648930001
+            ],
+            [
+                -33.4857040005,
+                -70.7645260001
+            ],
+            [
+                -33.4855240005,
+                -70.7642230001
+            ],
+            [
+                -33.4853060005,
+                -70.7638300001
+            ],
+            [
+                -33.4851030005,
+                -70.7634810001
+            ],
+            [
+                -33.4849820005,
+                -70.7632720001
+            ],
+            [
+                -33.4849680005,
+                -70.7632380001
+            ],
+            [
+                -33.4849630005,
+                -70.7632060001
+            ],
+            [
+                -33.4849630005,
+                -70.7632030001
+            ],
+            [
+                -33.4849630005,
+                -70.7632000001
+            ],
+            [
+                -33.4849640005,
+                -70.7631660001
+            ],
+            [
+                -33.4849940005,
+                -70.7628630001
+            ],
+            [
+                -33.4849860005,
+                -70.7628040001
+            ],
+            [
+                -33.4852210005,
+                -70.7627980001
+            ],
+            [
+                -33.4853670005,
+                -70.7627890001
+            ],
+            [
+                -33.4856520005,
+                -70.7627780001
+            ],
+            [
+                -33.4862890005,
+                -70.7627520001
+            ],
+            [
+                -33.4866490005,
+                -70.7627330001
+            ],
+            [
+                -33.4867160005,
+                -70.7627300001
+            ],
+            [
+                -33.4872010005,
+                -70.7627090001
+            ],
+            [
+                -33.4872530005,
+                -70.7627390001
+            ],
+            [
+                -33.4880170005,
+                -70.7627130001
+            ],
+            [
+                -33.4882150005,
+                -70.7627060001
+            ],
+            [
+                -33.4889930005,
+                -70.7626640001
+            ],
+            [
+                -33.4891190005,
+                -70.7625910001
+            ],
+            [
+                -33.4890500005,
+                -70.7622570001
+            ],
+            [
+                -33.4890400005,
+                -70.7622030001
+            ],
+            [
+                -33.4890180005,
+                -70.7620810001
+            ],
+            [
+                -33.4890450005,
+                -70.7618570001
+            ],
+            [
+                -33.4890990005,
+                -70.7615600001
+            ],
+            [
+                -33.4891780005,
+                -70.7611240001
+            ],
+            [
+                -33.4892750005,
+                -70.7605600001
+            ],
+            [
+                -33.4894850005,
+                -70.7593590001
+            ],
+            [
+                -33.4896570005,
+                -70.7584130001
+            ],
+            [
+                -33.4897850005,
+                -70.7576970001
+            ],
+            [
+                -33.4897260005,
+                -70.7575630001
+            ],
+            [
+                -33.4897040005,
+                -70.7575310001
+            ],
+            [
+                -33.4896650005,
+                -70.7574700001
+            ],
+            [
+                -33.4895120005,
+                -70.7571420001
+            ],
+            [
+                -33.4893240005,
+                -70.7567350001
+            ],
+            [
+                -33.4891220005,
+                -70.7562910001
+            ],
+            [
+                -33.4889400005,
+                -70.7559030001
+            ],
+            [
+                -33.4887640005,
+                -70.7555190001
+            ],
+            [
+                -33.4885680005,
+                -70.7550950001
+            ],
+            [
+                -33.4883670005,
+                -70.7546670001
+            ],
+            [
+                -33.4881960005,
+                -70.7542980001
+            ],
+            [
+                -33.4880000005,
+                -70.7538820001
+            ],
+            [
+                -33.4877960005,
+                -70.7534340001
+            ],
+            [
+                -33.4876200005,
+                -70.7530650001
+            ],
+            [
+                -33.4876820005,
+                -70.7525970001
+            ],
+            [
+                -33.4877700005,
+                -70.7520340001
+            ],
+            [
+                -33.4880770005,
+                -70.7521050001
+            ],
+            [
+                -33.4882020005,
+                -70.7520930001
+            ],
+            [
+                -33.4885760005,
+                -70.7519170001
+            ],
+            [
+                -33.4888730005,
+                -70.7520800001
+            ],
+            [
+                -33.4890860005,
+                -70.7522520001
+            ],
+            [
+                -33.4891780005,
+                -70.7522980001
+            ],
+            [
+                -33.4892690005,
+                -70.7523130001
+            ],
+            [
+                -33.4893720005,
+                -70.7523180001
+            ],
+            [
+                -33.4894530005,
+                -70.7522930001
+            ],
+            [
+                -33.4895430005,
+                -70.7522910001
+            ],
+            [
+                -33.4897200005,
+                -70.7523760001
+            ],
+            [
+                -33.4900010005,
+                -70.7525580001
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 11463,
+                "cod": "PI1126",
+                "num": 0,
+                "pos": [
+                    -33.4964029,
+                    -70.7834675
+                ],
+                "name": "Isabel Riquelme esq. Ing. Edo. Dom\u00ednguez",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 658,
+                        "cod": "I12",
+                        "destino": "Mall Plaza Oeste",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Plaza Oeste"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992926,
+                    "stopCoordenadaX": "-33.4964029",
+                    "stopCoordenadaY": "-70.7834675"
+                },
+                "eje": "Isabel Riquelme",
+                "codSimt": "PI1126",
+                "distancia": 0.0
+            },
+            {
+                "id": 11439,
+                "cod": "PI1127",
+                "num": 0,
+                "pos": [
+                    -33.4942427,
+                    -70.7841628
+                ],
+                "name": "Ing. Eduardo Dom\u00ednguez esq. Llanquilef",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 3,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993167,
+                    "stopCoordenadaX": "-33.4942427",
+                    "stopCoordenadaY": "-70.7841628"
+                },
+                "eje": "Ing. Eduardo Dom\u00ednguez",
+                "codSimt": "PI1127",
+                "distancia": 0.0
+            },
+            {
+                "id": 11441,
+                "cod": "PI1128",
+                "num": 0,
+                "pos": [
+                    -33.4899949,
+                    -70.782015
+                ],
+                "name": "Ing. Eduardo Dom\u00ednguez esq. Lican-Ray",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 4,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 658,
+                        "cod": "I12",
+                        "destino": "Mall Plaza Oeste",
+                        "orden": 10,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Plaza Oeste"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992928,
+                    "stopCoordenadaX": "-33.4899949",
+                    "stopCoordenadaY": "-70.7820150"
+                },
+                "eje": "Ing. Eduardo Dom\u00ednguez",
+                "codSimt": "PI1128",
+                "distancia": 0.0
+            },
+            {
+                "id": 11444,
+                "cod": "PI1129",
+                "num": 0,
+                "pos": [
+                    -33.4909497,
+                    -70.7777851
+                ],
+                "name": "Ing. Eduardo Dom\u00ednguez esq. Avenida El Rosal",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 658,
+                        "cod": "I12",
+                        "destino": "Mall Plaza Oeste",
+                        "orden": 12,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Plaza Oeste"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 5,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992931,
+                    "stopCoordenadaX": "-33.4909497",
+                    "stopCoordenadaY": "-70.7777851"
+                },
+                "eje": "Ing. Eduardo Dom\u00ednguez",
+                "codSimt": "PI1129",
+                "distancia": 0.0
+            },
+            {
+                "id": 11036,
+                "cod": "PI1554",
+                "num": 0,
+                "pos": [
+                    -33.4896354,
+                    -70.7746308
+                ],
+                "name": "Avenida El Rosal esq. Camino La Farfana",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 659,
+                        "cod": "I12",
+                        "destino": "Pueblito La Farfana",
+                        "orden": 43,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Pueblito La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 658,
+                        "cod": "I12",
+                        "destino": "Mall Plaza Oeste",
+                        "orden": 13,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Plaza Oeste"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 739,
+                        "cod": "I08n",
+                        "destino": "Alameda",
+                        "orden": 12,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Alameda"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 6,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 645,
+                        "cod": "I08",
+                        "destino": "(M) San Alberto Hurtado",
+                        "orden": 12,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Alberto Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 631,
+                        "cod": "I02",
+                        "destino": "Rinconada",
+                        "orden": 30,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Rinconada"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992448,
+                    "stopCoordenadaX": "-33.4896354",
+                    "stopCoordenadaY": "-70.7746308"
+                },
+                "eje": "Avenida El Rosal",
+                "codSimt": "PI1554",
+                "distancia": 0.0
+            },
+            {
+                "id": 11379,
+                "cod": "PI780",
+                "num": 0,
+                "pos": [
+                    -33.4895471,
+                    -70.771044
+                ],
+                "name": "Cord. de los Andes esq. Yerbas Buenas",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 7,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993168,
+                    "stopCoordenadaX": "-33.4895471",
+                    "stopCoordenadaY": "-70.7710440"
+                },
+                "eje": "Cord. de los Andes",
+                "codSimt": "PI780",
+                "distancia": 0.0
+            },
+            {
+                "id": 11374,
+                "cod": "PI1051",
+                "num": 0,
+                "pos": [
+                    -33.4881852,
+                    -70.768716
+                ],
+                "name": "Cord. de los Andes esq. Victoria de Abril",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993169,
+                    "stopCoordenadaX": "-33.4881852",
+                    "stopCoordenadaY": "-70.7687160"
+                },
+                "eje": "Cord. de los Andes",
+                "codSimt": "PI1051",
+                "distancia": 0.0
+            },
+            {
+                "id": 11376,
+                "cod": "PI1052",
+                "num": 0,
+                "pos": [
+                    -33.4865522,
+                    -70.7658969
+                ],
+                "name": "Cord. de los Andes esq. Fiestas Patrias",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 9,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993170,
+                    "stopCoordenadaX": "-33.4865522",
+                    "stopCoordenadaY": "-70.7658969"
+                },
+                "eje": "Cord. de los Andes",
+                "codSimt": "PI1052",
+                "distancia": 0.0
+            },
+            {
+                "id": 11377,
+                "cod": "PI1516",
+                "num": 0,
+                "pos": [
+                    -33.4851794,
+                    -70.763529
+                ],
+                "name": "Cord. de los Andes esq. Cdlla. de La Costa",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 10,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993171,
+                    "stopCoordenadaX": "-33.4851794",
+                    "stopCoordenadaY": "-70.7635290"
+                },
+                "eje": "Cord. de los Andes",
+                "codSimt": "PI1516",
+                "distancia": 0.0
+            },
+            {
+                "id": 11637,
+                "cod": "PI1499",
+                "num": 0,
+                "pos": [
+                    -33.4869192,
+                    -70.7627915
+                ],
+                "name": "Jorge Alessandri esq. El Molino",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 647,
+                        "cod": "I08c",
+                        "destino": "(M) Del Sol",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 11,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992847,
+                    "stopCoordenadaX": "-33.4869192",
+                    "stopCoordenadaY": "-70.7627915"
+                },
+                "eje": "Jorge Alessandri",
+                "codSimt": "PI1499",
+                "distancia": 0.0
+            },
+            {
+                "id": 11639,
+                "cod": "PI1417",
+                "num": 0,
+                "pos": [
+                    -33.4888375,
+                    -70.7626983
+                ],
+                "name": "Jorge Alessandri esq. La Sinfon\u00eda",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 647,
+                        "cod": "I08c",
+                        "destino": "(M) Del Sol",
+                        "orden": 3,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 12,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992848,
+                    "stopCoordenadaX": "-33.4888375",
+                    "stopCoordenadaY": "-70.7626983"
+                },
+                "eje": "Jorge Alessandri",
+                "codSimt": "PI1417",
+                "distancia": 0.0
+            },
+            {
+                "id": 11523,
+                "cod": "PI1523",
+                "num": 0,
+                "pos": [
+                    -33.4894453,
+                    -70.7597421
+                ],
+                "name": "La Sinfon\u00eda esq. La Opera",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 739,
+                        "cod": "I08n",
+                        "destino": "Alameda",
+                        "orden": 16,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Alameda"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 645,
+                        "cod": "I08",
+                        "destino": "(M) San Alberto Hurtado",
+                        "orden": 16,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Alberto Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 647,
+                        "cod": "I08c",
+                        "destino": "(M) Del Sol",
+                        "orden": 4,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 13,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992806,
+                    "stopCoordenadaX": "-33.4894453",
+                    "stopCoordenadaY": "-70.7597421"
+                },
+                "eje": "La Sinfon\u00eda",
+                "codSimt": "PI1523",
+                "distancia": 0.0
+            },
+            {
+                "id": 11525,
+                "cod": "PI1524",
+                "num": 0,
+                "pos": [
+                    -33.4897881,
+                    -70.7578246
+                ],
+                "name": "La Sinfon\u00eda esq. Volc\u00e1n Maipo",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 14,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993172,
+                    "stopCoordenadaX": "-33.4897881",
+                    "stopCoordenadaY": "-70.7578246"
+                },
+                "eje": "La Sinfon\u00eda",
+                "codSimt": "PI1524",
+                "distancia": 0.0
+            },
+            {
+                "id": 11751,
+                "cod": "PI1509",
+                "num": 0,
+                "pos": [
+                    -33.4887134,
+                    -70.7553527
+                ],
+                "name": "Volc\u00e1n Maipo esq. Juan Jos\u00e9 Rivera",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 15,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993173,
+                    "stopCoordenadaX": "-33.4887134",
+                    "stopCoordenadaY": "-70.7553527"
+                },
+                "eje": "Volc\u00e1n Maipo",
+                "codSimt": "PI1509",
+                "distancia": 0.0
+            },
+            {
+                "id": 11750,
+                "cod": "PI1508",
+                "num": 0,
+                "pos": [
+                    -33.4876888,
+                    -70.7531522
+                ],
+                "name": "Volc\u00e1n Maipo esq. El Manzano",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "(M) Del Sol",
+                        "orden": 16,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Del Sol"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993174,
+                    "stopCoordenadaX": "-33.4876888",
+                    "stopCoordenadaY": "-70.7531522"
+                },
+                "eje": "Volc\u00e1n Maipo",
+                "codSimt": "PI1508",
+                "distancia": 0.0
+            },
+            {
+                "id": 11137,
+                "cod": "PI254",
+                "num": 1,
+                "pos": [
+                    -33.4892557,
+                    -70.7526052
+                ],
+                "name": "Avenida Los Pajaritos esq. Rio Colorado",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 646,
+                        "cod": "I08",
+                        "destino": "Mall Arauco Maip\u00fa",
+                        "orden": 18,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Arauco Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1382,
+                        "cod": "I35",
+                        "destino": "Fin de recorrido",
+                        "orden": 45,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1381,
+                        "cod": "I35",
+                        "destino": "Padre Hurtado",
+                        "orden": 1,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Padre Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "Fin de recorrido",
+                        "orden": 17,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 740,
+                        "cod": "I08n",
+                        "destino": "La Farfana",
+                        "orden": 32,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992845,
+                    "stopCoordenadaX": "-33.4892557",
+                    "stopCoordenadaY": "-70.7526052"
+                },
+                "eje": "Avenida Los Pajaritos",
+                "codSimt": "PI254",
+                "distancia": 0.0
+            },
+            {
+                "id": 11117,
+                "cod": "PI1788",
+                "num": 0,
+                "pos": [
+                    -33.4895366,
+                    -70.7527341
+                ],
+                "name": "Avenida Los Pajaritos esq. Juan Jos\u00e9 Rivera",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 647,
+                        "cod": "I08c",
+                        "destino": "Fin de recorrido",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 646,
+                        "cod": "I08",
+                        "destino": "Mall Arauco Maip\u00fa",
+                        "orden": 18,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Arauco Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1382,
+                        "cod": "I35",
+                        "destino": "Fin de recorrido",
+                        "orden": 45,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 644,
+                        "cod": "I07",
+                        "destino": "Rinconada",
+                        "orden": 10,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Rinconada"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1381,
+                        "cod": "I35",
+                        "destino": "Padre Hurtado",
+                        "orden": 1,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Padre Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 653,
+                        "cod": "I09e",
+                        "destino": "Rinconada",
+                        "orden": 13,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Rinconada"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "Fin de recorrido",
+                        "orden": 17,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 645,
+                        "cod": "I08",
+                        "destino": "(M) San Alberto Hurtado",
+                        "orden": 20,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Alberto Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992782,
+                    "stopCoordenadaX": "-33.4895366",
+                    "stopCoordenadaY": "-70.7527341"
+                },
+                "eje": "Avenida Los Pajaritos",
+                "codSimt": "PI1788",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "(M) Del Sol",
+        "itinerario": false
+    },
+    "regreso": {
+        "id": 675,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "05:30",
+                "fin": "23:40"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "05:30",
+                "fin": "23:40"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "05:30",
+                "fin": "23:40"
+            }
+        ],
+        "path": [
+            [
+                -33.4900010005,
+                -70.7525580001
+            ],
+            [
+                -33.4901810005,
+                -70.7526850001
+            ],
+            [
+                -33.4902600005,
+                -70.7527780001
+            ],
+            [
+                -33.4903290005,
+                -70.7528930001
+            ],
+            [
+                -33.4904300005,
+                -70.7531120001
+            ],
+            [
+                -33.4905100005,
+                -70.7533320001
+            ],
+            [
+                -33.4905670005,
+                -70.7535410001
+            ],
+            [
+                -33.4906110005,
+                -70.7536990001
+            ],
+            [
+                -33.4906240005,
+                -70.7538330001
+            ],
+            [
+                -33.4907420005,
+                -70.7540520001
+            ],
+            [
+                -33.4908690005,
+                -70.7543250001
+            ],
+            [
+                -33.4909750005,
+                -70.7546800001
+            ],
+            [
+                -33.4910400005,
+                -70.7549720001
+            ],
+            [
+                -33.4912730005,
+                -70.7554560001
+            ],
+            [
+                -33.4914730005,
+                -70.7559370001
+            ],
+            [
+                -33.4916630005,
+                -70.7563660001
+            ],
+            [
+                -33.4917630005,
+                -70.7565780001
+            ],
+            [
+                -33.4917710005,
+                -70.7565990001
+            ],
+            [
+                -33.4917910005,
+                -70.7566620001
+            ],
+            [
+                -33.4918020005,
+                -70.7567050001
+            ],
+            [
+                -33.4918120005,
+                -70.7567460001
+            ],
+            [
+                -33.4918150005,
+                -70.7567680001
+            ],
+            [
+                -33.4918150005,
+                -70.7567850001
+            ],
+            [
+                -33.4918150005,
+                -70.7570910001
+            ],
+            [
+                -33.4918370005,
+                -70.7572800001
+            ],
+            [
+                -33.4918590005,
+                -70.7573910001
+            ],
+            [
+                -33.4918750005,
+                -70.7574870001
+            ],
+            [
+                -33.4918900005,
+                -70.7575620001
+            ],
+            [
+                -33.4919140005,
+                -70.7577170001
+            ],
+            [
+                -33.4919310005,
+                -70.7578950001
+            ],
+            [
+                -33.4919400005,
+                -70.7579950001
+            ],
+            [
+                -33.4919720005,
+                -70.7582990001
+            ],
+            [
+                -33.4919960005,
+                -70.7584910001
+            ],
+            [
+                -33.4920160005,
+                -70.7587040001
+            ],
+            [
+                -33.4920530005,
+                -70.7590110001
+            ],
+            [
+                -33.4920700005,
+                -70.7591330001
+            ],
+            [
+                -33.4921030005,
+                -70.7593480001
+            ],
+            [
+                -33.4921310005,
+                -70.7595540001
+            ],
+            [
+                -33.4921730005,
+                -70.7597730001
+            ],
+            [
+                -33.4921970005,
+                -70.7599580001
+            ],
+            [
+                -33.4922270005,
+                -70.7601680001
+            ],
+            [
+                -33.4922540005,
+                -70.7603720001
+            ],
+            [
+                -33.4922740005,
+                -70.7605530001
+            ],
+            [
+                -33.4922840005,
+                -70.7606210001
+            ],
+            [
+                -33.4922910005,
+                -70.7607640001
+            ],
+            [
+                -33.4923280005,
+                -70.7611760001
+            ],
+            [
+                -33.4923750005,
+                -70.7614410001
+            ],
+            [
+                -33.4923970005,
+                -70.7615840001
+            ],
+            [
+                -33.4924580005,
+                -70.7619660001
+            ],
+            [
+                -33.4924880005,
+                -70.7621650001
+            ],
+            [
+                -33.4925080005,
+                -70.7623790001
+            ],
+            [
+                -33.4925270005,
+                -70.7626090001
+            ],
+            [
+                -33.4925150005,
+                -70.7629100001
+            ],
+            [
+                -33.4925070005,
+                -70.7631080001
+            ],
+            [
+                -33.4922380005,
+                -70.7630690001
+            ],
+            [
+                -33.4920250005,
+                -70.7630360001
+            ],
+            [
+                -33.4918140005,
+                -70.7630030001
+            ],
+            [
+                -33.4915670005,
+                -70.7629660001
+            ],
+            [
+                -33.4913770005,
+                -70.7629360001
+            ],
+            [
+                -33.4913240005,
+                -70.7629260001
+            ],
+            [
+                -33.4910980005,
+                -70.7628840001
+            ],
+            [
+                -33.4908850005,
+                -70.7628460001
+            ],
+            [
+                -33.4906550005,
+                -70.7628060001
+            ],
+            [
+                -33.4904750005,
+                -70.7627800001
+            ],
+            [
+                -33.4901900005,
+                -70.7627350001
+            ],
+            [
+                -33.4899940005,
+                -70.7627090001
+            ],
+            [
+                -33.4897930005,
+                -70.7626850001
+            ],
+            [
+                -33.4895610005,
+                -70.7626480001
+            ],
+            [
+                -33.4891190005,
+                -70.7625910001
+            ],
+            [
+                -33.4889840005,
+                -70.7625910001
+            ],
+            [
+                -33.4886870005,
+                -70.7626190001
+            ],
+            [
+                -33.4880150005,
+                -70.7626500001
+            ],
+            [
+                -33.4872480005,
+                -70.7626800001
+            ],
+            [
+                -33.4872010005,
+                -70.7627090001
+            ],
+            [
+                -33.4867160005,
+                -70.7627300001
+            ],
+            [
+                -33.4866490005,
+                -70.7627330001
+            ],
+            [
+                -33.4862890005,
+                -70.7627520001
+            ],
+            [
+                -33.4856520005,
+                -70.7627780001
+            ],
+            [
+                -33.4853670005,
+                -70.7627890001
+            ],
+            [
+                -33.4852210005,
+                -70.7627980001
+            ],
+            [
+                -33.4849860005,
+                -70.7628040001
+            ],
+            [
+                -33.4849940005,
+                -70.7628630001
+            ],
+            [
+                -33.4849640005,
+                -70.7631660001
+            ],
+            [
+                -33.4849630005,
+                -70.7632000001
+            ],
+            [
+                -33.4849630005,
+                -70.7632030001
+            ],
+            [
+                -33.4849630005,
+                -70.7632060001
+            ],
+            [
+                -33.4849680005,
+                -70.7632380001
+            ],
+            [
+                -33.4849820005,
+                -70.7632720001
+            ],
+            [
+                -33.4851030005,
+                -70.7634810001
+            ],
+            [
+                -33.4853060005,
+                -70.7638300001
+            ],
+            [
+                -33.4855240005,
+                -70.7642230001
+            ],
+            [
+                -33.4857040005,
+                -70.7645260001
+            ],
+            [
+                -33.4859190005,
+                -70.7648930001
+            ],
+            [
+                -33.4860050005,
+                -70.7650240001
+            ],
+            [
+                -33.4861520005,
+                -70.7652910001
+            ],
+            [
+                -33.4863880005,
+                -70.7656920001
+            ],
+            [
+                -33.4866480005,
+                -70.7661260001
+            ],
+            [
+                -33.4871670005,
+                -70.7670240001
+            ],
+            [
+                -33.4876480005,
+                -70.7678430001
+            ],
+            [
+                -33.4879920005,
+                -70.7684560001
+            ],
+            [
+                -33.4883150005,
+                -70.7689990001
+            ],
+            [
+                -33.4887220005,
+                -70.7696920001
+            ],
+            [
+                -33.4889710005,
+                -70.7701240001
+            ],
+            [
+                -33.4892400005,
+                -70.7705850001
+            ],
+            [
+                -33.4893430005,
+                -70.7707620001
+            ],
+            [
+                -33.4894590005,
+                -70.7709560001
+            ],
+            [
+                -33.4894600005,
+                -70.7709580001
+            ],
+            [
+                -33.4895410005,
+                -70.7710980001
+            ],
+            [
+                -33.4896870005,
+                -70.7713430001
+            ],
+            [
+                -33.4897740005,
+                -70.7714920001
+            ],
+            [
+                -33.4898840005,
+                -70.7716640001
+            ],
+            [
+                -33.4899130005,
+                -70.7717240001
+            ],
+            [
+                -33.4899430005,
+                -70.7717910001
+            ],
+            [
+                -33.4898570005,
+                -70.7720650001
+            ],
+            [
+                -33.4897690005,
+                -70.7723510001
+            ],
+            [
+                -33.4896210005,
+                -70.7728300001
+            ],
+            [
+                -33.4894750005,
+                -70.7733030001
+            ],
+            [
+                -33.4893140005,
+                -70.7738230001
+            ],
+            [
+                -33.4892430005,
+                -70.7740100001
+            ],
+            [
+                -33.4890330005,
+                -70.7736250001
+            ],
+            [
+                -33.4889620005,
+                -70.7734840001
+            ],
+            [
+                -33.4886630005,
+                -70.7737170001
+            ],
+            [
+                -33.4887880005,
+                -70.7739690001
+            ],
+            [
+                -33.4891380005,
+                -70.7745910001
+            ],
+            [
+                -33.4892250005,
+                -70.7747170001
+            ],
+            [
+                -33.4892710005,
+                -70.7748600001
+            ],
+            [
+                -33.4897490005,
+                -70.7757140001
+            ],
+            [
+                -33.4906460005,
+                -70.7773700001
+            ],
+            [
+                -33.4906590005,
+                -70.7773880001
+            ],
+            [
+                -33.4906750005,
+                -70.7774040001
+            ],
+            [
+                -33.4907070005,
+                -70.7774530001
+            ],
+            [
+                -33.4907820005,
+                -70.7774930001
+            ],
+            [
+                -33.4908440005,
+                -70.7774810001
+            ],
+            [
+                -33.4909240005,
+                -70.7776210001
+            ],
+            [
+                -33.4908540005,
+                -70.7776640001
+            ],
+            [
+                -33.4908000005,
+                -70.7779150001
+            ],
+            [
+                -33.4906630005,
+                -70.7783570001
+            ],
+            [
+                -33.4905300005,
+                -70.7787810001
+            ],
+            [
+                -33.4903700005,
+                -70.7792820001
+            ],
+            [
+                -33.4901820005,
+                -70.7798760001
+            ],
+            [
+                -33.4900870005,
+                -70.7801360001
+            ],
+            [
+                -33.4900380005,
+                -70.7803180001
+            ],
+            [
+                -33.4897960005,
+                -70.7810540001
+            ],
+            [
+                -33.4897810005,
+                -70.7811070001
+            ],
+            [
+                -33.4897690005,
+                -70.7811530001
+            ],
+            [
+                -33.4897600005,
+                -70.7811990001
+            ],
+            [
+                -33.4897510005,
+                -70.7812570001
+            ],
+            [
+                -33.4897440005,
+                -70.7813220001
+            ],
+            [
+                -33.4897440005,
+                -70.7813270001
+            ],
+            [
+                -33.4897390005,
+                -70.7813980001
+            ],
+            [
+                -33.4897390005,
+                -70.7814710001
+            ],
+            [
+                -33.4897420005,
+                -70.7815470001
+            ],
+            [
+                -33.4897510005,
+                -70.7816140001
+            ],
+            [
+                -33.4897630005,
+                -70.7816840001
+            ],
+            [
+                -33.4897790005,
+                -70.7817520001
+            ],
+            [
+                -33.4897990005,
+                -70.7818180001
+            ],
+            [
+                -33.4898240005,
+                -70.7818850001
+            ],
+            [
+                -33.4898570005,
+                -70.7819560001
+            ],
+            [
+                -33.4905240005,
+                -70.7831970001
+            ],
+            [
+                -33.4905750005,
+                -70.7832850001
+            ],
+            [
+                -33.4906290005,
+                -70.7833700001
+            ],
+            [
+                -33.4906870005,
+                -70.7834500001
+            ],
+            [
+                -33.4907450005,
+                -70.7835240001
+            ],
+            [
+                -33.4908340005,
+                -70.7836270001
+            ],
+            [
+                -33.4908940005,
+                -70.7836930001
+            ],
+            [
+                -33.4910590005,
+                -70.7838450001
+            ],
+            [
+                -33.4913550005,
+                -70.7840260001
+            ],
+            [
+                -33.4914400005,
+                -70.7840640001
+            ],
+            [
+                -33.4915390005,
+                -70.7841090001
+            ],
+            [
+                -33.4916600005,
+                -70.7841560001
+            ],
+            [
+                -33.4917810005,
+                -70.7842010001
+            ],
+            [
+                -33.4919070005,
+                -70.7842450001
+            ],
+            [
+                -33.4920370005,
+                -70.7842880001
+            ],
+            [
+                -33.4921670005,
+                -70.7843300001
+            ],
+            [
+                -33.4923020005,
+                -70.7843690001
+            ],
+            [
+                -33.4924320005,
+                -70.7844030001
+            ],
+            [
+                -33.4925580005,
+                -70.7844310001
+            ],
+            [
+                -33.4926700005,
+                -70.7844550001
+            ],
+            [
+                -33.4927740005,
+                -70.7844740001
+            ],
+            [
+                -33.4928730005,
+                -70.7844870001
+            ],
+            [
+                -33.4930860005,
+                -70.7845070001
+            ],
+            [
+                -33.4931680005,
+                -70.7845050001
+            ],
+            [
+                -33.4933060005,
+                -70.7845020001
+            ],
+            [
+                -33.4934120005,
+                -70.7844930001
+            ],
+            [
+                -33.4935380005,
+                -70.7844840001
+            ],
+            [
+                -33.4936650005,
+                -70.7844600001
+            ],
+            [
+                -33.4938070005,
+                -70.7844260001
+            ],
+            [
+                -33.4939330005,
+                -70.7843960001
+            ],
+            [
+                -33.4940860005,
+                -70.7843540001
+            ],
+            [
+                -33.4942180005,
+                -70.7843080001
+            ],
+            [
+                -33.4943340005,
+                -70.7842780001
+            ],
+            [
+                -33.4944590005,
+                -70.7842390001
+            ],
+            [
+                -33.4945940005,
+                -70.7841980001
+            ],
+            [
+                -33.4946950005,
+                -70.7841690001
+            ],
+            [
+                -33.4947890005,
+                -70.7841440001
+            ],
+            [
+                -33.4950440005,
+                -70.7840870001
+            ],
+            [
+                -33.4951150005,
+                -70.7840730001
+            ],
+            [
+                -33.4952010005,
+                -70.7840660001
+            ],
+            [
+                -33.4952820005,
+                -70.7840550001
+            ],
+            [
+                -33.4953680005,
+                -70.7840410001
+            ],
+            [
+                -33.4954540005,
+                -70.7840290001
+            ],
+            [
+                -33.4955320005,
+                -70.7840120001
+            ],
+            [
+                -33.4956040005,
+                -70.7839940001
+            ],
+            [
+                -33.4956640005,
+                -70.7839800001
+            ],
+            [
+                -33.4957400005,
+                -70.7839590001
+            ],
+            [
+                -33.4959380005,
+                -70.7838960001
+            ],
+            [
+                -33.4964420005,
+                -70.7837330001
+            ],
+            [
+                -33.4964860005,
+                -70.7836690001
+            ],
+            [
+                -33.4964500005,
+                -70.7834840001
+            ],
+            [
+                -33.4961830005,
+                -70.7822600001
+            ],
+            [
+                -33.4958450005,
+                -70.7806900001
+            ],
+            [
+                -33.4955680005,
+                -70.7794070001
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 11117,
+                "cod": "PI1788",
+                "num": 0,
+                "pos": [
+                    -33.4895366,
+                    -70.7527341
+                ],
+                "name": "Avenida Los Pajaritos esq. Juan Jos\u00e9 Rivera",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 647,
+                        "cod": "I08c",
+                        "destino": "Fin de recorrido",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 646,
+                        "cod": "I08",
+                        "destino": "Mall Arauco Maip\u00fa",
+                        "orden": 18,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Arauco Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1382,
+                        "cod": "I35",
+                        "destino": "Fin de recorrido",
+                        "orden": 45,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 644,
+                        "cod": "I07",
+                        "destino": "Rinconada",
+                        "orden": 10,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Rinconada"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1381,
+                        "cod": "I35",
+                        "destino": "Padre Hurtado",
+                        "orden": 1,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Padre Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 653,
+                        "cod": "I09e",
+                        "destino": "Rinconada",
+                        "orden": 13,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Rinconada"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "Fin de recorrido",
+                        "orden": 17,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 645,
+                        "cod": "I08",
+                        "destino": "(M) San Alberto Hurtado",
+                        "orden": 20,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Alberto Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992782,
+                    "stopCoordenadaX": "-33.4895366",
+                    "stopCoordenadaY": "-70.7527341"
+                },
+                "eje": "Avenida Los Pajaritos",
+                "codSimt": "PI1788",
+                "distancia": 0.0
+            },
+            {
+                "id": 11137,
+                "cod": "PI254",
+                "num": 1,
+                "pos": [
+                    -33.4892557,
+                    -70.7526052
+                ],
+                "name": "Avenida Los Pajaritos esq. Rio Colorado",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 646,
+                        "cod": "I08",
+                        "destino": "Mall Arauco Maip\u00fa",
+                        "orden": 18,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Arauco Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1382,
+                        "cod": "I35",
+                        "destino": "Fin de recorrido",
+                        "orden": 45,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1381,
+                        "cod": "I35",
+                        "destino": "Padre Hurtado",
+                        "orden": 1,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Padre Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 674,
+                        "cod": "I22",
+                        "destino": "Fin de recorrido",
+                        "orden": 17,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 740,
+                        "cod": "I08n",
+                        "destino": "La Farfana",
+                        "orden": 32,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992845,
+                    "stopCoordenadaX": "-33.4892557",
+                    "stopCoordenadaY": "-70.7526052"
+                },
+                "eje": "Avenida Los Pajaritos",
+                "codSimt": "PI254",
+                "distancia": 0.0
+            },
+            {
+                "id": 11459,
+                "cod": "PI1361",
+                "num": 0,
+                "pos": [
+                    -33.4917934,
+                    -70.7573189
+                ],
+                "name": "Isabel Riquelme esq. Cascanueces",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 740,
+                        "cod": "I08n",
+                        "destino": "La Farfana",
+                        "orden": 33,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 646,
+                        "cod": "I08",
+                        "destino": "Mall Arauco Maip\u00fa",
+                        "orden": 19,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Arauco Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992839,
+                    "stopCoordenadaX": "-33.4917934",
+                    "stopCoordenadaY": "-70.7573189"
+                },
+                "eje": "Isabel Riquelme",
+                "codSimt": "PI1361",
+                "distancia": 0.0
+            },
+            {
+                "id": 11460,
+                "cod": "PI1360",
+                "num": 0,
+                "pos": [
+                    -33.4920683,
+                    -70.7594029
+                ],
+                "name": "Isabel Riquelme esq. El Viol\u00edn",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 646,
+                        "cod": "I08",
+                        "destino": "Mall Arauco Maip\u00fa",
+                        "orden": 20,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Arauco Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 3,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 740,
+                        "cod": "I08n",
+                        "destino": "La Farfana",
+                        "orden": 34,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992840,
+                    "stopCoordenadaX": "-33.4920683",
+                    "stopCoordenadaY": "-70.7594029"
+                },
+                "eje": "Isabel Riquelme",
+                "codSimt": "PI1360",
+                "distancia": 0.0
+            },
+            {
+                "id": 11461,
+                "cod": "PI1359",
+                "num": 0,
+                "pos": [
+                    -33.4924096,
+                    -70.762865
+                ],
+                "name": "Isabel Riquelme esq. Jorge Alessandri",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 4,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 740,
+                        "cod": "I08n",
+                        "destino": "La Farfana",
+                        "orden": 35,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 646,
+                        "cod": "I08",
+                        "destino": "Mall Arauco Maip\u00fa",
+                        "orden": 21,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Arauco Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992841,
+                    "stopCoordenadaX": "-33.4924096",
+                    "stopCoordenadaY": "-70.7628650"
+                },
+                "eje": "Isabel Riquelme",
+                "codSimt": "PI1359",
+                "distancia": 0.0
+            },
+            {
+                "id": 11638,
+                "cod": "PI1364",
+                "num": 0,
+                "pos": [
+                    -33.4892993,
+                    -70.76255
+                ],
+                "name": "Jorge Alessandri esq. La Sinfon\u00eda",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 646,
+                        "cod": "I08",
+                        "destino": "Mall Arauco Maip\u00fa",
+                        "orden": 22,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Arauco Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 5,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 740,
+                        "cod": "I08n",
+                        "destino": "La Farfana",
+                        "orden": 36,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992842,
+                    "stopCoordenadaX": "-33.4892993",
+                    "stopCoordenadaY": "-70.7625500"
+                },
+                "eje": "Jorge Alessandri",
+                "codSimt": "PI1364",
+                "distancia": 0.0
+            },
+            {
+                "id": 11640,
+                "cod": "PI1500",
+                "num": 0,
+                "pos": [
+                    -33.4868156,
+                    -70.7626642
+                ],
+                "name": "Jorge Alessandri esq. Av. Alto Jahuel",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 6,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993175,
+                    "stopCoordenadaX": "-33.4868156",
+                    "stopCoordenadaY": "-70.7626642"
+                },
+                "eje": "Jorge Alessandri",
+                "codSimt": "PI1500",
+                "distancia": 0.0
+            },
+            {
+                "id": 11375,
+                "cod": "PI1035",
+                "num": 0,
+                "pos": [
+                    -33.4872958,
+                    -70.7673429
+                ],
+                "name": "Cord. de los Andes esq. G\u00e9nesis",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 7,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993176,
+                    "stopCoordenadaX": "-33.4872958",
+                    "stopCoordenadaY": "-70.7673429"
+                },
+                "eje": "Cord. de los Andes",
+                "codSimt": "PI1035",
+                "distancia": 0.0
+            },
+            {
+                "id": 11380,
+                "cod": "PI1036",
+                "num": 0,
+                "pos": [
+                    -33.4883002,
+                    -70.769061
+                ],
+                "name": "Cord. de los Andes esq. Campo de Batalla",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993177,
+                    "stopCoordenadaX": "-33.4883002",
+                    "stopCoordenadaY": "-70.7690610"
+                },
+                "eje": "Cord. de los Andes",
+                "codSimt": "PI1036",
+                "distancia": 0.0
+            },
+            {
+                "id": 11378,
+                "cod": "PI1515",
+                "num": 0,
+                "pos": [
+                    -33.4897439,
+                    -70.7715216
+                ],
+                "name": "Cord. de los Andes esq. Teatro Municipal",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 9,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 993178,
+                    "stopCoordenadaX": "-33.4897439",
+                    "stopCoordenadaY": "-70.7715216"
+                },
+                "eje": "Cord. de los Andes",
+                "codSimt": "PI1515",
+                "distancia": 0.0
+            },
+            {
+                "id": 11037,
+                "cod": "PI779",
+                "num": 0,
+                "pos": [
+                    -33.4890348,
+                    -70.7745153
+                ],
+                "name": "Avenida El Rosal esq. Camino La Farfana",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 631,
+                        "cod": "I02",
+                        "destino": "Rinconada",
+                        "orden": 29,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Rinconada"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 645,
+                        "cod": "I08",
+                        "destino": "(M) San Alberto Hurtado",
+                        "orden": 11,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Alberto Hurtado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 10,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 739,
+                        "cod": "I08n",
+                        "destino": "Alameda",
+                        "orden": 11,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Alameda"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992447,
+                    "stopCoordenadaX": "-33.4890348",
+                    "stopCoordenadaY": "-70.7745153"
+                },
+                "eje": "Avenida El Rosal",
+                "codSimt": "PI779",
+                "distancia": 0.0
+            },
+            {
+                "id": 11035,
+                "cod": "PI1124",
+                "num": 0,
+                "pos": [
+                    -33.4905412,
+                    -70.7773736
+                ],
+                "name": "Avenida El Rosal esq. Ing. Edo. Dom\u00ednguez",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 658,
+                        "cod": "I12",
+                        "destino": "Mall Plaza Oeste",
+                        "orden": 5,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mall Plaza Oeste"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 11,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 659,
+                        "cod": "I12",
+                        "destino": "Pueblito La Farfana",
+                        "orden": 31,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Pueblito La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992922,
+                    "stopCoordenadaX": "-33.4905412",
+                    "stopCoordenadaY": "-70.7773736"
+                },
+                "eje": "Avenida El Rosal",
+                "codSimt": "PI1124",
+                "distancia": 0.0
+            },
+            {
+                "id": 11443,
+                "cod": "PI1105",
+                "num": 0,
+                "pos": [
+                    -33.4901129,
+                    -70.7799494
+                ],
+                "name": "Ing. Eduardo Dom\u00ednguez esq. Aylin",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 659,
+                        "cod": "I12",
+                        "destino": "Pueblito La Farfana",
+                        "orden": 32,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Pueblito La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 12,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992950,
+                    "stopCoordenadaX": "-33.4901129",
+                    "stopCoordenadaY": "-70.7799494"
+                },
+                "eje": "Ing. Eduardo Dom\u00ednguez",
+                "codSimt": "PI1105",
+                "distancia": 0.0
+            },
+            {
+                "id": 11442,
+                "cod": "PI1106",
+                "num": 0,
+                "pos": [
+                    -33.4897579,
+                    -70.7818076
+                ],
+                "name": "Ing. Eduardo Dom\u00ednguez esq. Lican-Ray",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 13,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 659,
+                        "cod": "I12",
+                        "destino": "Pueblito La Farfana",
+                        "orden": 33,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Pueblito La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992951,
+                    "stopCoordenadaX": "-33.4897579",
+                    "stopCoordenadaY": "-70.7818076"
+                },
+                "eje": "Ing. Eduardo Dom\u00ednguez",
+                "codSimt": "PI1106",
+                "distancia": 0.0
+            },
+            {
+                "id": 11449,
+                "cod": "PI1107",
+                "num": 0,
+                "pos": [
+                    -33.4909139,
+                    -70.783764
+                ],
+                "name": "Ing. Eduardo Dom\u00ednguez esq. Ilihue",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 659,
+                        "cod": "I12",
+                        "destino": "Pueblito La Farfana",
+                        "orden": 34,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Pueblito La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 14,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992952,
+                    "stopCoordenadaX": "-33.4909139",
+                    "stopCoordenadaY": "-70.7837640"
+                },
+                "eje": "Ing. Eduardo Dom\u00ednguez",
+                "codSimt": "PI1107",
+                "distancia": 0.0
+            },
+            {
+                "id": 11454,
+                "cod": "PI1496",
+                "num": 0,
+                "pos": [
+                    -33.4933748,
+                    -70.7845316
+                ],
+                "name": "Ing. Eduardo Dom\u00ednguez esq. Llanquilef",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 659,
+                        "cod": "I12",
+                        "destino": "Pueblito La Farfana",
+                        "orden": 35,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Pueblito La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "La Farfana",
+                        "orden": 15,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992953,
+                    "stopCoordenadaX": "-33.4933748",
+                    "stopCoordenadaY": "-70.7845316"
+                },
+                "eje": "Ing. Eduardo Dom\u00ednguez",
+                "codSimt": "PI1496",
+                "distancia": 0.0
+            },
+            {
+                "id": 11438,
+                "cod": "PI1108",
+                "num": 0,
+                "pos": [
+                    -33.4963481,
+                    -70.7838058
+                ],
+                "name": "Ing. Eduardo Dom\u00ednguez esq. Isabel Riquelme",
+                "comuna": "MAIP\u00da",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 675,
+                        "cod": "I22",
+                        "destino": "Fin de recorrido",
+                        "orden": 16,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 659,
+                        "cod": "I12",
+                        "destino": "Pueblito La Farfana",
+                        "orden": 37,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Pueblito La Farfana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 992954,
+                    "stopCoordenadaX": "-33.4963481",
+                    "stopCoordenadaY": "-70.7838058"
+                },
+                "eje": "Ing. Eduardo Dom\u00ednguez",
+                "codSimt": "PI1108",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "La Farfana",
+        "itinerario": false
+    }
+}

@@ -1,0 +1,4996 @@
+{
+    "negocio": {
+        "id": 3,
+        "nombre": "Buses Vule S.A.",
+        "color": "#00A77E",
+        "url": "http://www.transantiago.cl/es/empresas/vule.html"
+    },
+    "ida": {
+        "id": 1391,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "05:00",
+                "fin": "09:25"
+            },
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "17:30",
+                "fin": "22:40"
+            }
+        ],
+        "path": [
+            [
+                -33.5860380005,
+                -70.6555940001
+            ],
+            [
+                -33.5860410005,
+                -70.6559680001
+            ],
+            [
+                -33.5860450005,
+                -70.6565010001
+            ],
+            [
+                -33.5860380005,
+                -70.6566750001
+            ],
+            [
+                -33.5860130005,
+                -70.6568440001
+            ],
+            [
+                -33.5859210005,
+                -70.6574990001
+            ],
+            [
+                -33.5857850005,
+                -70.6584400001
+            ],
+            [
+                -33.5856280005,
+                -70.6596390001
+            ],
+            [
+                -33.5855460005,
+                -70.6602430001
+            ],
+            [
+                -33.5854650005,
+                -70.6608070001
+            ],
+            [
+                -33.5852950005,
+                -70.6620850001
+            ],
+            [
+                -33.5852350005,
+                -70.6625700001
+            ],
+            [
+                -33.5851570005,
+                -70.6631270001
+            ],
+            [
+                -33.5851780005,
+                -70.6632690001
+            ],
+            [
+                -33.5851080005,
+                -70.6634080001
+            ],
+            [
+                -33.5849170005,
+                -70.6644080001
+            ],
+            [
+                -33.5849130005,
+                -70.6644310001
+            ],
+            [
+                -33.5848900005,
+                -70.6645500001
+            ],
+            [
+                -33.5847130005,
+                -70.6653890001
+            ],
+            [
+                -33.5846990005,
+                -70.6654520001
+            ],
+            [
+                -33.5846880005,
+                -70.6655260001
+            ],
+            [
+                -33.5846200005,
+                -70.6658630001
+            ],
+            [
+                -33.5845330005,
+                -70.6662970001
+            ],
+            [
+                -33.5844650005,
+                -70.6666640001
+            ],
+            [
+                -33.5843960005,
+                -70.6670350001
+            ],
+            [
+                -33.5843800005,
+                -70.6671190001
+            ],
+            [
+                -33.5843600005,
+                -70.6672430001
+            ],
+            [
+                -33.5843290005,
+                -70.6673790001
+            ],
+            [
+                -33.5842330005,
+                -70.6678270001
+            ],
+            [
+                -33.5841070005,
+                -70.6684930001
+            ],
+            [
+                -33.5840010005,
+                -70.6689850001
+            ],
+            [
+                -33.5839040005,
+                -70.6694700001
+            ],
+            [
+                -33.5836910005,
+                -70.6705220001
+            ],
+            [
+                -33.5836340005,
+                -70.6708020001
+            ],
+            [
+                -33.5834890005,
+                -70.6714920001
+            ],
+            [
+                -33.5833150005,
+                -70.6723580001
+            ],
+            [
+                -33.5832180005,
+                -70.6728380001
+            ],
+            [
+                -33.5831220005,
+                -70.6732870001
+            ],
+            [
+                -33.5830350005,
+                -70.6737390001
+            ],
+            [
+                -33.5829480005,
+                -70.6741580001
+            ],
+            [
+                -33.5828610005,
+                -70.6745880001
+            ],
+            [
+                -33.5827740005,
+                -70.6750230001
+            ],
+            [
+                -33.5826830005,
+                -70.6754690001
+            ],
+            [
+                -33.5825270005,
+                -70.6762580001
+            ],
+            [
+                -33.5824600005,
+                -70.6766190001
+            ],
+            [
+                -33.5824370005,
+                -70.6767370001
+            ],
+            [
+                -33.5818000005,
+                -70.6783540001
+            ],
+            [
+                -33.5818820005,
+                -70.6784010001
+            ],
+            [
+                -33.5827840005,
+                -70.6789150001
+            ],
+            [
+                -33.5834910005,
+                -70.6793110001
+            ],
+            [
+                -33.5842790005,
+                -70.6797510001
+            ],
+            [
+                -33.5846830005,
+                -70.6799700001
+            ],
+            [
+                -33.5847800005,
+                -70.6800380001
+            ],
+            [
+                -33.5856480005,
+                -70.6805240001
+            ],
+            [
+                -33.5859350005,
+                -70.6806860001
+            ],
+            [
+                -33.5863550005,
+                -70.6809220001
+            ],
+            [
+                -33.5867580005,
+                -70.6811420001
+            ],
+            [
+                -33.5867940005,
+                -70.6811630001
+            ],
+            [
+                -33.5875210005,
+                -70.6815690001
+            ],
+            [
+                -33.5883360005,
+                -70.6820180001
+            ],
+            [
+                -33.5883780005,
+                -70.6820530001
+            ],
+            [
+                -33.5886910005,
+                -70.6822260001
+            ],
+            [
+                -33.5887720005,
+                -70.6822710001
+            ],
+            [
+                -33.5888340005,
+                -70.6823200001
+            ],
+            [
+                -33.5889140005,
+                -70.6823880001
+            ],
+            [
+                -33.5889590005,
+                -70.6824470001
+            ],
+            [
+                -33.5890120005,
+                -70.6825400001
+            ],
+            [
+                -33.5890460005,
+                -70.6826240001
+            ],
+            [
+                -33.5890990005,
+                -70.6827390001
+            ],
+            [
+                -33.5891520005,
+                -70.6828200001
+            ],
+            [
+                -33.5892140005,
+                -70.6829000001
+            ],
+            [
+                -33.5892940005,
+                -70.6829890001
+            ],
+            [
+                -33.5896070005,
+                -70.6831930001
+            ],
+            [
+                -33.5899790005,
+                -70.6834250001
+            ],
+            [
+                -33.5901730005,
+                -70.6835620001
+            ],
+            [
+                -33.5905280005,
+                -70.6837830001
+            ],
+            [
+                -33.5905470005,
+                -70.6837920001
+            ],
+            [
+                -33.5913710005,
+                -70.6843260001
+            ],
+            [
+                -33.5914520005,
+                -70.6843990001
+            ],
+            [
+                -33.5919850005,
+                -70.6847210001
+            ],
+            [
+                -33.5920560005,
+                -70.6847610001
+            ],
+            [
+                -33.5925430005,
+                -70.6849920001
+            ],
+            [
+                -33.5927640005,
+                -70.6850980001
+            ],
+            [
+                -33.5931590005,
+                -70.6852760001
+            ],
+            [
+                -33.5932300005,
+                -70.6853150001
+            ],
+            [
+                -33.5940230005,
+                -70.6857060001
+            ],
+            [
+                -33.5942340005,
+                -70.6858010001
+            ],
+            [
+                -33.5943600005,
+                -70.6857850001
+            ],
+            [
+                -33.5944500005,
+                -70.6858120001
+            ],
+            [
+                -33.5947440005,
+                -70.6859340001
+            ],
+            [
+                -33.5950780005,
+                -70.6860740001
+            ],
+            [
+                -33.5954000005,
+                -70.6862170001
+            ],
+            [
+                -33.5957320005,
+                -70.6863530001
+            ],
+            [
+                -33.5959920005,
+                -70.6864630001
+            ],
+            [
+                -33.5963260005,
+                -70.6866130001
+            ],
+            [
+                -33.5966470005,
+                -70.6867500001
+            ],
+            [
+                -33.5969600005,
+                -70.6868840001
+            ],
+            [
+                -33.5972830005,
+                -70.6870220001
+            ],
+            [
+                -33.5973450005,
+                -70.6870840001
+            ],
+            [
+                -33.5973960005,
+                -70.6871060001
+            ],
+            [
+                -33.5977400005,
+                -70.6872520001
+            ],
+            [
+                -33.5981750005,
+                -70.6874410001
+            ],
+            [
+                -33.5982810005,
+                -70.6874830001
+            ],
+            [
+                -33.5984370005,
+                -70.6875530001
+            ],
+            [
+                -33.5987960005,
+                -70.6876990001
+            ],
+            [
+                -33.5991020005,
+                -70.6878290001
+            ],
+            [
+                -33.5991730005,
+                -70.6878710001
+            ],
+            [
+                -33.5992280005,
+                -70.6878960001
+            ],
+            [
+                -33.5993030005,
+                -70.6879320001
+            ],
+            [
+                -33.5994020005,
+                -70.6879750001
+            ],
+            [
+                -33.5995350005,
+                -70.6880500001
+            ],
+            [
+                -33.6001110005,
+                -70.6884700001
+            ],
+            [
+                -33.6002190005,
+                -70.6885430001
+            ],
+            [
+                -33.6004930005,
+                -70.6887390001
+            ],
+            [
+                -33.6005630005,
+                -70.6887940001
+            ],
+            [
+                -33.6006130005,
+                -70.6888300001
+            ],
+            [
+                -33.6012260005,
+                -70.6892700001
+            ],
+            [
+                -33.6013720005,
+                -70.6893690001
+            ],
+            [
+                -33.6017160005,
+                -70.6886320001
+            ],
+            [
+                -33.6017810005,
+                -70.6884930001
+            ],
+            [
+                -33.6018650005,
+                -70.6883170001
+            ],
+            [
+                -33.6019480005,
+                -70.6881670001
+            ],
+            [
+                -33.6020680005,
+                -70.6879460001
+            ],
+            [
+                -33.6028160005,
+                -70.6865310001
+            ],
+            [
+                -33.6029660005,
+                -70.6862480001
+            ],
+            [
+                -33.6031270005,
+                -70.6859440001
+            ],
+            [
+                -33.6031610005,
+                -70.6858670001
+            ],
+            [
+                -33.6030380005,
+                -70.6857760001
+            ],
+            [
+                -33.6023480005,
+                -70.6852710001
+            ],
+            [
+                -33.6021760005,
+                -70.6851490001
+            ],
+            [
+                -33.6021150005,
+                -70.6851610001
+            ],
+            [
+                -33.6020190005,
+                -70.6851350001
+            ],
+            [
+                -33.6019530005,
+                -70.6851220001
+            ],
+            [
+                -33.6018640005,
+                -70.6850860001
+            ],
+            [
+                -33.6017920005,
+                -70.6850550001
+            ],
+            [
+                -33.6008660005,
+                -70.6848310001
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 7419,
+                "cod": "PG864",
+                "num": 0,
+                "pos": [
+                    -33.5860052,
+                    -70.6563529
+                ],
+                "name": "Avenida Lo Blanco esq. J. Edwards Bello",
+                "comuna": "LA PINTANA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1389,
+                        "cod": "G35",
+                        "destino": "(M) Copa Lo Mart\u00ednez",
+                        "orden": 18,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Copa Lo Mart\u00ednez"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1112,
+                        "cod": "G05",
+                        "destino": "(M) La Cisterna",
+                        "orden": 22,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 90,
+                        "cod": "302",
+                        "destino": "(M) Santa Ana",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Santa Ana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 744,
+                        "cod": "302n",
+                        "destino": "Alameda",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Alameda"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 990678,
+                    "stopCoordenadaX": "-33.5860052",
+                    "stopCoordenadaY": "-70.6563529"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG864",
+                "distancia": 0.0
+            },
+            {
+                "id": 7417,
+                "cod": "PG1691",
+                "num": 0,
+                "pos": [
+                    -33.5857782,
+                    -70.6582645
+                ],
+                "name": "Avenida Lo Blanco esq. Julio Ch\u00e1vez",
+                "comuna": "LA PINTANA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 744,
+                        "cod": "302n",
+                        "destino": "Alameda",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Alameda"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 90,
+                        "cod": "302",
+                        "destino": "(M) Santa Ana",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Santa Ana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 990679,
+                    "stopCoordenadaX": "-33.5857782",
+                    "stopCoordenadaY": "-70.6582645"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG1691",
+                "distancia": 0.0
+            },
+            {
+                "id": 7414,
+                "cod": "PG157",
+                "num": 0,
+                "pos": [
+                    -33.5855161,
+                    -70.660213
+                ],
+                "name": "Avenida Lo Blanco esq. Tte. L. Cruz Mart\u00ednez",
+                "comuna": "LA PINTANA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 24,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 3,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1389,
+                        "cod": "G35",
+                        "destino": "(M) Copa Lo Mart\u00ednez",
+                        "orden": 19,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Copa Lo Mart\u00ednez"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1112,
+                        "cod": "G05",
+                        "destino": "(M) La Cisterna",
+                        "orden": 23,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 784,
+                        "cod": "G23",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 28,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 990015,
+                    "stopCoordenadaX": "-33.5855161",
+                    "stopCoordenadaY": "-70.6602130"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG157",
+                "distancia": 0.0
+            },
+            {
+                "id": 7426,
+                "cod": "PG158",
+                "num": 0,
+                "pos": [
+                    -33.5851502,
+                    -70.662924
+                ],
+                "name": "Avenida Lo Blanco esq. Av. San Francisco",
+                "comuna": "LA PINTANA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 4,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1389,
+                        "cod": "G35",
+                        "destino": "(M) Copa Lo Mart\u00ednez",
+                        "orden": 20,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Copa Lo Mart\u00ednez"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 784,
+                        "cod": "G23",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 29,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1112,
+                        "cod": "G05",
+                        "destino": "(M) La Cisterna",
+                        "orden": 24,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 25,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 990016,
+                    "stopCoordenadaX": "-33.5851502",
+                    "stopCoordenadaY": "-70.6629240"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG158",
+                "distancia": 0.0
+            },
+            {
+                "id": 8299,
+                "cod": "PG1000",
+                "num": 0,
+                "pos": [
+                    -33.5848418,
+                    -70.6645296
+                ],
+                "name": "Avenida Lo Blanco esq. General Silva",
+                "comuna": "EL BOSQUE",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 5,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 784,
+                        "cod": "G23",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 30,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1119,
+                        "cod": "G16",
+                        "destino": "(M) La Cisterna",
+                        "orden": 21,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 585,
+                        "cod": "G08v",
+                        "destino": "Nos",
+                        "orden": 25,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Nos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989673,
+                    "stopCoordenadaX": "-33.5848418",
+                    "stopCoordenadaY": "-70.6645296"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG1000",
+                "distancia": 0.0
+            },
+            {
+                "id": 8298,
+                "cod": "PG1001",
+                "num": 0,
+                "pos": [
+                    -33.5844442,
+                    -70.6665288
+                ],
+                "name": "Avenida Lo Blanco esq. Pablo VI",
+                "comuna": "EL BOSQUE",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 585,
+                        "cod": "G08v",
+                        "destino": "Nos",
+                        "orden": 26,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Nos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 784,
+                        "cod": "G23",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 31,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1119,
+                        "cod": "G16",
+                        "destino": "(M) La Cisterna",
+                        "orden": 22,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 6,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989674,
+                    "stopCoordenadaX": "-33.5844442",
+                    "stopCoordenadaY": "-70.6665288"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG1001",
+                "distancia": 0.0
+            },
+            {
+                "id": 8297,
+                "cod": "PG1002",
+                "num": 0,
+                "pos": [
+                    -33.58369,
+                    -70.6703319
+                ],
+                "name": "Avenida Lo Blanco esq. Las Quintas",
+                "comuna": "EL BOSQUE",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 7,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 585,
+                        "cod": "G08v",
+                        "destino": "Nos",
+                        "orden": 27,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Nos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1119,
+                        "cod": "G16",
+                        "destino": "(M) La Cisterna",
+                        "orden": 23,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 784,
+                        "cod": "G23",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 32,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989675,
+                    "stopCoordenadaX": "-33.5836900",
+                    "stopCoordenadaY": "-70.6703319"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG1002",
+                "distancia": 0.0
+            },
+            {
+                "id": 8296,
+                "cod": "PG1439",
+                "num": 0,
+                "pos": [
+                    -33.5831149,
+                    -70.6731599
+                ],
+                "name": "Avenida Lo Blanco esq. Pe\u00f1ablanca",
+                "comuna": "EL BOSQUE",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 784,
+                        "cod": "G23",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 33,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 585,
+                        "cod": "G08v",
+                        "destino": "Nos",
+                        "orden": 28,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Nos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989676,
+                    "stopCoordenadaX": "-33.5831149",
+                    "stopCoordenadaY": "-70.6731599"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG1439",
+                "distancia": 0.0
+            },
+            {
+                "id": 8295,
+                "cod": "PG1282",
+                "num": 3,
+                "pos": [
+                    -33.5824559,
+                    -70.6764179
+                ],
+                "name": "Avenida Lo Blanco esq. Av. Padre Hurtado",
+                "comuna": "EL BOSQUE",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 9,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1119,
+                        "cod": "G16",
+                        "destino": "(M) La Cisterna",
+                        "orden": 24,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 784,
+                        "cod": "G23",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 34,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 585,
+                        "cod": "G08v",
+                        "destino": "Nos",
+                        "orden": 29,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Nos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989677,
+                    "stopCoordenadaX": "-33.5824559",
+                    "stopCoordenadaY": "-70.6764179"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG1282",
+                "distancia": 0.0
+            },
+            {
+                "id": 14065,
+                "cod": "PG2049",
+                "num": 6,
+                "pos": [
+                    -33.5819493,
+                    -70.6778455
+                ],
+                "name": "Avenida Lo Blanco esq. Mart\u00edn de Sol\u00eds",
+                "comuna": "EL BOSQUE",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 585,
+                        "cod": "G08v",
+                        "destino": "Nos",
+                        "orden": 30,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Nos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 784,
+                        "cod": "G23",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 35,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 10,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989678,
+                    "stopCoordenadaX": "-33.5819493",
+                    "stopCoordenadaY": "-70.6778455"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG2049",
+                "distancia": 0.0
+            },
+            {
+                "id": 14098,
+                "cod": "PG2079",
+                "num": 0,
+                "pos": [
+                    -33.5833634,
+                    -70.6792951
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Mart\u00edn de Robledo",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 11,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 581,
+                        "cod": "G07",
+                        "destino": "San Francisco",
+                        "orden": 52,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "San Francisco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998190,
+                    "stopCoordenadaX": "-33.5833634",
+                    "stopCoordenadaY": "-70.6792951"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG2079",
+                "distancia": 0.0
+            },
+            {
+                "id": 8947,
+                "cod": "PG1857",
+                "num": 0,
+                "pos": [
+                    -33.5891207,
+                    -70.6828352
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Santa Marta",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 13,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998403,
+                    "stopCoordenadaX": "-33.5891207",
+                    "stopCoordenadaY": "-70.6828352"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG1857",
+                "distancia": 0.0
+            },
+            {
+                "id": 8938,
+                "cod": "PG970",
+                "num": 0,
+                "pos": [
+                    -33.5916797,
+                    -70.6845929
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Eloisa D\u00edaz",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 81,
+                        "cod": "228",
+                        "destino": "Angelm\u00f3",
+                        "orden": 34,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 14,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998202,
+                    "stopCoordenadaX": "-33.5916797",
+                    "stopCoordenadaY": "-70.6845929"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG970",
+                "distancia": 0.0
+            },
+            {
+                "id": 8940,
+                "cod": "PG971",
+                "num": 0,
+                "pos": [
+                    -33.5938304,
+                    -70.6856673
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Av. Col\u00f3n-Norte",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 15,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 81,
+                        "cod": "228",
+                        "destino": "Angelm\u00f3",
+                        "orden": 35,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998203,
+                    "stopCoordenadaX": "-33.5938304",
+                    "stopCoordenadaY": "-70.6856673"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG971",
+                "distancia": 0.0
+            },
+            {
+                "id": 8942,
+                "cod": "PG536",
+                "num": 0,
+                "pos": [
+                    -33.5971067,
+                    -70.686998
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Carlos Condell",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 16,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 81,
+                        "cod": "228",
+                        "destino": "Angelm\u00f3",
+                        "orden": 36,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1257,
+                        "cod": "F03",
+                        "destino": "(M) Plaza Puente Alto",
+                        "orden": 17,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US3",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Plaza Puente Alto"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U10"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998204,
+                    "stopCoordenadaX": "-33.5971067",
+                    "stopCoordenadaY": "-70.6869980"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG536",
+                "distancia": 0.0
+            },
+            {
+                "id": 8944,
+                "cod": "PG537",
+                "num": 0,
+                "pos": [
+                    -33.5989757,
+                    -70.6878809
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Antonio Varas",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1257,
+                        "cod": "F03",
+                        "destino": "(M) Plaza Puente Alto",
+                        "orden": 18,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US3",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Plaza Puente Alto"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U10"
+                    },
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 17,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1393,
+                        "cod": "G28",
+                        "destino": "Muni. La Pintana",
+                        "orden": 4,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998401,
+                    "stopCoordenadaX": "-33.5989757",
+                    "stopCoordenadaY": "-70.6878809"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG537",
+                "distancia": 0.0
+            },
+            {
+                "id": 8946,
+                "cod": "PG538",
+                "num": 0,
+                "pos": [
+                    -33.6010839,
+                    -70.6892773
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. San Jos\u00e9",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Angelm\u00f3",
+                        "orden": 18,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Angelm\u00f3"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1257,
+                        "cod": "F03",
+                        "destino": "(M) Plaza Puente Alto",
+                        "orden": 19,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US3",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Plaza Puente Alto"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U10"
+                    },
+                    {
+                        "id": 1393,
+                        "cod": "G28",
+                        "destino": "Muni. La Pintana",
+                        "orden": 5,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998402,
+                    "stopCoordenadaX": "-33.6010839",
+                    "stopCoordenadaY": "-70.6892773"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG538",
+                "distancia": 0.0
+            },
+            {
+                "id": 13859,
+                "cod": "PG1993",
+                "num": 0,
+                "pos": [
+                    -33.6029819,
+                    -70.6862601
+                ],
+                "name": "Avenida San Jos\u00e9 esq. Ducaud",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1391,
+                        "cod": "G31",
+                        "destino": "Fin de recorrido",
+                        "orden": 19,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 594,
+                        "cod": "G14",
+                        "destino": "Pob. Valle Nevado",
+                        "orden": 31,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Pob. Valle Nevado"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1368,
+                        "cod": "G32",
+                        "destino": "Santa In\u00e9s",
+                        "orden": 8,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Santa In\u00e9s"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989872,
+                    "stopCoordenadaX": "-33.6029819",
+                    "stopCoordenadaY": "-70.6862601"
+                },
+                "eje": "Avenida San Jos\u00e9",
+                "codSimt": "PG1993",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "Angelm\u00f3",
+        "itinerario": false
+    },
+    "regreso": {
+        "id": 1392,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "17:30",
+                "fin": "22:40"
+            },
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "05:30",
+                "fin": "09:20"
+            }
+        ],
+        "path": [
+            [
+                -33.6008660005,
+                -70.6848310001
+            ],
+            [
+                -33.6004800005,
+                -70.6847330001
+            ],
+            [
+                -33.6000930005,
+                -70.6846290001
+            ],
+            [
+                -33.5997250005,
+                -70.6845390001
+            ],
+            [
+                -33.5991590005,
+                -70.6843830001
+            ],
+            [
+                -33.5986010005,
+                -70.6842460001
+            ],
+            [
+                -33.5984490005,
+                -70.6841970001
+            ],
+            [
+                -33.5982730005,
+                -70.6841610001
+            ],
+            [
+                -33.5982340005,
+                -70.6840490001
+            ],
+            [
+                -33.5981690005,
+                -70.6842170001
+            ],
+            [
+                -33.5979230005,
+                -70.6850620001
+            ],
+            [
+                -33.5978190005,
+                -70.6854530001
+            ],
+            [
+                -33.5976960005,
+                -70.6858340001
+            ],
+            [
+                -33.5976020005,
+                -70.6861500001
+            ],
+            [
+                -33.5974690005,
+                -70.6866210001
+            ],
+            [
+                -33.5973560005,
+                -70.6869810001
+            ],
+            [
+                -33.5973450005,
+                -70.6870840001
+            ],
+            [
+                -33.5972830005,
+                -70.6870220001
+            ],
+            [
+                -33.5969600005,
+                -70.6868840001
+            ],
+            [
+                -33.5966470005,
+                -70.6867500001
+            ],
+            [
+                -33.5963260005,
+                -70.6866130001
+            ],
+            [
+                -33.5959920005,
+                -70.6864630001
+            ],
+            [
+                -33.5957320005,
+                -70.6863530001
+            ],
+            [
+                -33.5954000005,
+                -70.6862170001
+            ],
+            [
+                -33.5950780005,
+                -70.6860740001
+            ],
+            [
+                -33.5947440005,
+                -70.6859340001
+            ],
+            [
+                -33.5944500005,
+                -70.6858120001
+            ],
+            [
+                -33.5943600005,
+                -70.6857850001
+            ],
+            [
+                -33.5942710005,
+                -70.6857150001
+            ],
+            [
+                -33.5940470005,
+                -70.6856110001
+            ],
+            [
+                -33.5939590005,
+                -70.6855670001
+            ],
+            [
+                -33.5932040005,
+                -70.6852250001
+            ],
+            [
+                -33.5930880005,
+                -70.6851690001
+            ],
+            [
+                -33.5925310005,
+                -70.6849040001
+            ],
+            [
+                -33.5921380005,
+                -70.6847180001
+            ],
+            [
+                -33.5920040005,
+                -70.6846430001
+            ],
+            [
+                -33.5915050005,
+                -70.6843250001
+            ],
+            [
+                -33.5914110005,
+                -70.6842510001
+            ],
+            [
+                -33.5905440005,
+                -70.6837080001
+            ],
+            [
+                -33.5905290005,
+                -70.6836980001
+            ],
+            [
+                -33.5902110005,
+                -70.6834910001
+            ],
+            [
+                -33.5893220005,
+                -70.6829230001
+            ],
+            [
+                -33.5892140005,
+                -70.6829000001
+            ],
+            [
+                -33.5891520005,
+                -70.6828200001
+            ],
+            [
+                -33.5890990005,
+                -70.6827390001
+            ],
+            [
+                -33.5890460005,
+                -70.6826240001
+            ],
+            [
+                -33.5890120005,
+                -70.6825400001
+            ],
+            [
+                -33.5889590005,
+                -70.6824470001
+            ],
+            [
+                -33.5889140005,
+                -70.6823880001
+            ],
+            [
+                -33.5888340005,
+                -70.6823200001
+            ],
+            [
+                -33.5887720005,
+                -70.6822710001
+            ],
+            [
+                -33.5886910005,
+                -70.6822260001
+            ],
+            [
+                -33.5883780005,
+                -70.6820530001
+            ],
+            [
+                -33.5883360005,
+                -70.6820180001
+            ],
+            [
+                -33.5875210005,
+                -70.6815690001
+            ],
+            [
+                -33.5867940005,
+                -70.6811630001
+            ],
+            [
+                -33.5867580005,
+                -70.6811420001
+            ],
+            [
+                -33.5863550005,
+                -70.6809220001
+            ],
+            [
+                -33.5859350005,
+                -70.6806860001
+            ],
+            [
+                -33.5856480005,
+                -70.6805240001
+            ],
+            [
+                -33.5847800005,
+                -70.6800380001
+            ],
+            [
+                -33.5855740005,
+                -70.6780320001
+            ],
+            [
+                -33.5855930005,
+                -70.6779460001
+            ],
+            [
+                -33.5856510005,
+                -70.6776130001
+            ],
+            [
+                -33.5856810005,
+                -70.6775260001
+            ],
+            [
+                -33.5855800005,
+                -70.6774980001
+            ],
+            [
+                -33.5854130005,
+                -70.6774530001
+            ],
+            [
+                -33.5847390005,
+                -70.6772670001
+            ],
+            [
+                -33.5842920005,
+                -70.6771550001
+            ],
+            [
+                -33.5839840005,
+                -70.6770650001
+            ],
+            [
+                -33.5836130005,
+                -70.6769640001
+            ],
+            [
+                -33.5835450005,
+                -70.6769240001
+            ],
+            [
+                -33.5833620005,
+                -70.6768830001
+            ],
+            [
+                -33.5829680005,
+                -70.6767940001
+            ],
+            [
+                -33.5825350005,
+                -70.6766900001
+            ],
+            [
+                -33.5836740005,
+                -70.6711360001
+            ],
+            [
+                -33.5837410005,
+                -70.6708390001
+            ],
+            [
+                -33.5837560005,
+                -70.6707280001
+            ],
+            [
+                -33.5839860005,
+                -70.6695860001
+            ],
+            [
+                -33.5840090005,
+                -70.6694720001
+            ],
+            [
+                -33.5841760005,
+                -70.6686310001
+            ],
+            [
+                -33.5843510005,
+                -70.6677820001
+            ],
+            [
+                -33.5844220005,
+                -70.6674060001
+            ],
+            [
+                -33.5844770005,
+                -70.6671080001
+            ],
+            [
+                -33.5846030005,
+                -70.6664830001
+            ],
+            [
+                -33.5846800005,
+                -70.6661120001
+            ],
+            [
+                -33.5847660005,
+                -70.6657080001
+            ],
+            [
+                -33.5847880005,
+                -70.6655860001
+            ],
+            [
+                -33.5848050005,
+                -70.6655000001
+            ],
+            [
+                -33.5848150005,
+                -70.6654480001
+            ],
+            [
+                -33.5849120005,
+                -70.6649390001
+            ],
+            [
+                -33.5849890005,
+                -70.6645780001
+            ],
+            [
+                -33.5850030005,
+                -70.6645170001
+            ],
+            [
+                -33.5850090005,
+                -70.6644630001
+            ],
+            [
+                -33.5850850005,
+                -70.6641170001
+            ],
+            [
+                -33.5852310005,
+                -70.6633760001
+            ],
+            [
+                -33.5851780005,
+                -70.6632690001
+            ],
+            [
+                -33.5851570005,
+                -70.6631270001
+            ],
+            [
+                -33.5852350005,
+                -70.6625700001
+            ],
+            [
+                -33.5852950005,
+                -70.6620850001
+            ],
+            [
+                -33.5854650005,
+                -70.6608070001
+            ],
+            [
+                -33.5855460005,
+                -70.6602430001
+            ],
+            [
+                -33.5856280005,
+                -70.6596390001
+            ],
+            [
+                -33.5857850005,
+                -70.6584400001
+            ],
+            [
+                -33.5859210005,
+                -70.6574990001
+            ],
+            [
+                -33.5860130005,
+                -70.6568440001
+            ],
+            [
+                -33.5860380005,
+                -70.6566750001
+            ],
+            [
+                -33.5860450005,
+                -70.6565010001
+            ],
+            [
+                -33.5860410005,
+                -70.6559680001
+            ],
+            [
+                -33.5860380005,
+                -70.6555940001
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 8808,
+                "cod": "PG367",
+                "num": 0,
+                "pos": [
+                    -33.6005533,
+                    -70.6847008
+                ],
+                "name": "Ducaud esq. Lago Huilipil\u00fan",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1393,
+                        "cod": "G28",
+                        "destino": "Muni. La Pintana",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 82,
+                        "cod": "228",
+                        "destino": "(M) La Cisterna",
+                        "orden": 10,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 88,
+                        "cod": "301",
+                        "destino": "Juan Antonio R\u00edos",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Juan Antonio R\u00edos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 248,
+                        "cod": "301c",
+                        "destino": "(M) La Cisterna",
+                        "orden": 1,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 990624,
+                    "stopCoordenadaX": "-33.6005533",
+                    "stopCoordenadaY": "-70.6847008"
+                },
+                "eje": "Ducaud",
+                "codSimt": "PG367",
+                "distancia": 0.0
+            },
+            {
+                "id": 8806,
+                "cod": "PG1642",
+                "num": 0,
+                "pos": [
+                    -33.5984057,
+                    -70.684146
+                ],
+                "name": "Ducaud esq. Carlos Condell",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1393,
+                        "cod": "G28",
+                        "destino": "Muni. La Pintana",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 88,
+                        "cod": "301",
+                        "destino": "Juan Antonio R\u00edos",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Juan Antonio R\u00edos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 248,
+                        "cod": "301c",
+                        "destino": "(M) La Cisterna",
+                        "orden": 2,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 82,
+                        "cod": "228",
+                        "destino": "(M) La Cisterna",
+                        "orden": 11,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 990625,
+                    "stopCoordenadaX": "-33.5984057",
+                    "stopCoordenadaY": "-70.6841460"
+                },
+                "eje": "Ducaud",
+                "codSimt": "PG1642",
+                "distancia": 0.0
+            },
+            {
+                "id": 8791,
+                "cod": "PG1024",
+                "num": 0,
+                "pos": [
+                    -33.5973557,
+                    -70.686776
+                ],
+                "name": "Carlos Condell esq. Mart\u00edn de Solis",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 82,
+                        "cod": "228",
+                        "destino": "(M) La Cisterna",
+                        "orden": 12,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1393,
+                        "cod": "G28",
+                        "destino": "Muni. La Pintana",
+                        "orden": 3,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 586,
+                        "cod": "G09",
+                        "destino": "Santa Margarita",
+                        "orden": 21,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Santa Margarita"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 3,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989722,
+                    "stopCoordenadaX": "-33.5973557",
+                    "stopCoordenadaY": "-70.6867760"
+                },
+                "eje": "Carlos Condell",
+                "codSimt": "PG1024",
+                "distancia": 0.0
+            },
+            {
+                "id": 8941,
+                "cod": "PG521",
+                "num": 0,
+                "pos": [
+                    -33.5941212,
+                    -70.6856039
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Av. Col\u00f3n-Sur",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 514,
+                        "cod": "F03",
+                        "destino": "Plaza San Bernardo",
+                        "orden": 52,
+                        "color": "#FFD400",
+                        "negocio": {
+                            "nombre": "Servicio de Transportes de Personas",
+                            "color": "#FFD400"
+                        },
+                        "recorrido": {
+                            "destino": "Plaza San Bernardo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U7"
+                    },
+                    {
+                        "id": 82,
+                        "cod": "228",
+                        "destino": "(M) La Cisterna",
+                        "orden": 13,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 4,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998210,
+                    "stopCoordenadaX": "-33.5941212",
+                    "stopCoordenadaY": "-70.6856039"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG521",
+                "distancia": 0.0
+            },
+            {
+                "id": 8939,
+                "cod": "PG1287",
+                "num": 0,
+                "pos": [
+                    -33.5916396,
+                    -70.6843519
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Av. J.M. Balmaceda",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 82,
+                        "cod": "228",
+                        "destino": "(M) La Cisterna",
+                        "orden": 14,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 5,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998211,
+                    "stopCoordenadaX": "-33.5916396",
+                    "stopCoordenadaY": "-70.6843519"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG1287",
+                "distancia": 0.0
+            },
+            {
+                "id": 8937,
+                "cod": "PG1288",
+                "num": 0,
+                "pos": [
+                    -33.5894477,
+                    -70.682948
+                ],
+                "name": "Mart\u00edn de Sol\u00eds esq. Santa Marta",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 82,
+                        "cod": "228",
+                        "destino": "(M) La Cisterna",
+                        "orden": 15,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 6,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998212,
+                    "stopCoordenadaX": "-33.5894477",
+                    "stopCoordenadaY": "-70.6829480"
+                },
+                "eje": "Mart\u00edn de Sol\u00eds",
+                "codSimt": "PG1288",
+                "distancia": 0.0
+            },
+            {
+                "id": 8669,
+                "cod": "PG1372",
+                "num": 0,
+                "pos": [
+                    -33.5856128,
+                    -70.677917
+                ],
+                "name": "Calder\u00f3n de La Barca esq. Av. Padre Hurtado",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 581,
+                        "cod": "G07",
+                        "destino": "San Francisco",
+                        "orden": 53,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "San Francisco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 584,
+                        "cod": "G08v",
+                        "destino": "(M) La Cisterna",
+                        "orden": 38,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 9,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989643,
+                    "stopCoordenadaX": "-33.5856128",
+                    "stopCoordenadaY": "-70.6779170"
+                },
+                "eje": "Calder\u00f3n de La Barca",
+                "codSimt": "PG1372",
+                "distancia": 0.0
+            },
+            {
+                "id": 8771,
+                "cod": "PG374",
+                "num": 1,
+                "pos": [
+                    -33.583073,
+                    -70.6767791
+                ],
+                "name": "Av. Padre Hurtado esq. R\u00edo Maipo",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 581,
+                        "cod": "G07",
+                        "destino": "San Francisco",
+                        "orden": 54,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "San Francisco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 10,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1356,
+                        "cod": "G43",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 15,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1380,
+                        "cod": "G38",
+                        "destino": "Fin de recorrido",
+                        "orden": 28,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 248,
+                        "cod": "301c",
+                        "destino": "(M) La Cisterna",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 584,
+                        "cod": "G08v",
+                        "destino": "(M) La Cisterna",
+                        "orden": 39,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 88,
+                        "cod": "301",
+                        "destino": "Juan Antonio R\u00edos",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Juan Antonio R\u00edos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1378,
+                        "cod": "G24",
+                        "destino": "San Francisco",
+                        "orden": 25,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "San Francisco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1393,
+                        "cod": "G28",
+                        "destino": "Muni. La Pintana",
+                        "orden": 22,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 595,
+                        "cod": "G14",
+                        "destino": "Estaci\u00f3n Lo Blanco",
+                        "orden": 40,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Estaci\u00f3n Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989644,
+                    "stopCoordenadaX": "-33.5830730",
+                    "stopCoordenadaY": "-70.6767791"
+                },
+                "eje": "Av. Padre Hurtado",
+                "codSimt": "PG374",
+                "distancia": 0.0
+            },
+            {
+                "id": 14097,
+                "cod": "PG2048",
+                "num": 2,
+                "pos": [
+                    -33.5826737,
+                    -70.6762973
+                ],
+                "name": "Avenida Lo Blanco esq. Pasaje Peuma",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 783,
+                        "cod": "G23",
+                        "destino": "Santa Rosa Parad. 43",
+                        "orden": 11,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Santa Rosa Parad. 43"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 584,
+                        "cod": "G08v",
+                        "destino": "(M) La Cisterna",
+                        "orden": 40,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 598,
+                        "cod": "G16",
+                        "destino": "Lo Blanco",
+                        "orden": 31,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 11,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989645,
+                    "stopCoordenadaX": "-33.5826737",
+                    "stopCoordenadaY": "-70.6762973"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG2048",
+                "distancia": 0.0
+            },
+            {
+                "id": 8598,
+                "cod": "PG996",
+                "num": 0,
+                "pos": [
+                    -33.5833863,
+                    -70.6727958
+                ],
+                "name": "Avenida Lo Blanco esq. San Juan de Dios",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 584,
+                        "cod": "G08v",
+                        "destino": "(M) La Cisterna",
+                        "orden": 41,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 12,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 598,
+                        "cod": "G16",
+                        "destino": "Lo Blanco",
+                        "orden": 32,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 783,
+                        "cod": "G23",
+                        "destino": "Santa Rosa Parad. 43",
+                        "orden": 12,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Santa Rosa Parad. 43"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989646,
+                    "stopCoordenadaX": "-33.5833863",
+                    "stopCoordenadaY": "-70.6727958"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG996",
+                "distancia": 0.0
+            },
+            {
+                "id": 8600,
+                "cod": "PG997",
+                "num": 0,
+                "pos": [
+                    -33.5841964,
+                    -70.6687384
+                ],
+                "name": "Avenida Lo Blanco esq. Cerro Sn.Crist\u00f3bal",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 584,
+                        "cod": "G08v",
+                        "destino": "(M) La Cisterna",
+                        "orden": 42,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 783,
+                        "cod": "G23",
+                        "destino": "Santa Rosa Parad. 43",
+                        "orden": 13,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Santa Rosa Parad. 43"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 13,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 598,
+                        "cod": "G16",
+                        "destino": "Lo Blanco",
+                        "orden": 33,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989647,
+                    "stopCoordenadaX": "-33.5841964",
+                    "stopCoordenadaY": "-70.6687384"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG997",
+                "distancia": 0.0
+            },
+            {
+                "id": 8601,
+                "cod": "PG998",
+                "num": 0,
+                "pos": [
+                    -33.5845151,
+                    -70.6671047
+                ],
+                "name": "Avenida Lo Blanco esq. Cerro Sta. Luc\u00eda",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 598,
+                        "cod": "G16",
+                        "destino": "Lo Blanco",
+                        "orden": 34,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 14,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 584,
+                        "cod": "G08v",
+                        "destino": "(M) La Cisterna",
+                        "orden": 43,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 783,
+                        "cod": "G23",
+                        "destino": "Santa Rosa Parad. 43",
+                        "orden": 14,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Santa Rosa Parad. 43"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989648,
+                    "stopCoordenadaX": "-33.5845151",
+                    "stopCoordenadaY": "-70.6671047"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG998",
+                "distancia": 0.0
+            },
+            {
+                "id": 8602,
+                "cod": "PG999",
+                "num": 0,
+                "pos": [
+                    -33.585241,
+                    -70.663574
+                ],
+                "name": "Avenida Lo Blanco esq. San Francisco",
+                "comuna": "SAN BERNARDO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 15,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 584,
+                        "cod": "G08v",
+                        "destino": "(M) La Cisterna",
+                        "orden": 44,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) La Cisterna"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 598,
+                        "cod": "G16",
+                        "destino": "Lo Blanco",
+                        "orden": 35,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 783,
+                        "cod": "G23",
+                        "destino": "Santa Rosa Parad. 43",
+                        "orden": 15,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Santa Rosa Parad. 43"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989649,
+                    "stopCoordenadaX": "-33.5852410",
+                    "stopCoordenadaY": "-70.6635740"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG999",
+                "distancia": 0.0
+            },
+            {
+                "id": 7427,
+                "cod": "PG1757",
+                "num": 0,
+                "pos": [
+                    -33.5852581,
+                    -70.6626589
+                ],
+                "name": "Avenida Lo Blanco esq. V. P\u00e9rez Rosales",
+                "comuna": "LA PINTANA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 83,
+                        "cod": "229",
+                        "destino": "La Pintana",
+                        "orden": 61,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 49,
+                        "cod": "203",
+                        "destino": "La Pintana",
+                        "orden": 85,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1103,
+                        "cod": "G11",
+                        "destino": "Lo Blanco",
+                        "orden": 67,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 579,
+                        "cod": "G05",
+                        "destino": "El Castillo",
+                        "orden": 26,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "El Castillo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 55,
+                        "cod": "206",
+                        "destino": "La Pintana",
+                        "orden": 61,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 207,
+                        "cod": "203e",
+                        "destino": "La Pintana",
+                        "orden": 29,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 581,
+                        "cod": "G07",
+                        "destino": "Fin de recorrido",
+                        "orden": 66,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 951,
+                        "cod": "203c",
+                        "destino": "La Pintana",
+                        "orden": 34,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 785,
+                        "cod": "206c",
+                        "destino": "La Pintana",
+                        "orden": 47,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 93,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 67,
+                        "cod": "212",
+                        "destino": "La Pintana",
+                        "orden": 85,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 70,
+                        "cod": "216",
+                        "destino": "Pablo De Rokha",
+                        "orden": 64,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Pablo De Rokha"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1378,
+                        "cod": "G24",
+                        "destino": "Fin de recorrido",
+                        "orden": 37,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 16,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987831,
+                    "stopCoordenadaX": "-33.5852581",
+                    "stopCoordenadaY": "-70.6626589"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG1757",
+                "distancia": 0.0
+            },
+            {
+                "id": 7415,
+                "cod": "PG1756",
+                "num": 0,
+                "pos": [
+                    -33.5854881,
+                    -70.660968
+                ],
+                "name": "Avenida Lo Blanco esq. Tte. L. Cruz Mart\u00ednez",
+                "comuna": "LA PINTANA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 783,
+                        "cod": "G23",
+                        "destino": "Santa Rosa Parad. 43",
+                        "orden": 16,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Santa Rosa Parad. 43"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 786,
+                        "cod": "206c",
+                        "destino": "(M) B\u00edo B\u00edo",
+                        "orden": 3,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) B\u00edo B\u00edo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 785,
+                        "cod": "206c",
+                        "destino": "Fin de recorrido",
+                        "orden": 48,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 207,
+                        "cod": "203e",
+                        "destino": "Fin de recorrido",
+                        "orden": 30,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 56,
+                        "cod": "206",
+                        "destino": "Centro",
+                        "orden": 3,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 951,
+                        "cod": "203c",
+                        "destino": "Fin de recorrido",
+                        "orden": 35,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 17,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1101,
+                        "cod": "G09",
+                        "destino": "Fin de recorrido",
+                        "orden": 61,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 49,
+                        "cod": "203",
+                        "destino": "Fin de recorrido",
+                        "orden": 86,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 94,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 586,
+                        "cod": "G09",
+                        "destino": "Santa Margarita",
+                        "orden": 1,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Santa Margarita"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 579,
+                        "cod": "G05",
+                        "destino": "El Castillo",
+                        "orden": 27,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "El Castillo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 83,
+                        "cod": "229",
+                        "destino": "Fin de recorrido",
+                        "orden": 62,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 67,
+                        "cod": "212",
+                        "destino": "Fin de recorrido",
+                        "orden": 86,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 70,
+                        "cod": "216",
+                        "destino": "Fin de recorrido",
+                        "orden": 65,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1103,
+                        "cod": "G11",
+                        "destino": "Fin de recorrido",
+                        "orden": 68,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 55,
+                        "cod": "206",
+                        "destino": "Fin de recorrido",
+                        "orden": 62,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987832,
+                    "stopCoordenadaX": "-33.5854881",
+                    "stopCoordenadaY": "-70.6609680"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG1756",
+                "distancia": 0.0
+            },
+            {
+                "id": 7416,
+                "cod": "PG888",
+                "num": 0,
+                "pos": [
+                    -33.5857831,
+                    -70.6586869
+                ],
+                "name": "Avenida Lo Blanco esq. Julio Ch\u00e1vez",
+                "comuna": "LA PINTANA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 579,
+                        "cod": "G05",
+                        "destino": "El Castillo",
+                        "orden": 28,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "El Castillo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 69,
+                        "cod": "216",
+                        "destino": "Vitacura",
+                        "orden": 1,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Vitacura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Lo Blanco",
+                        "orden": 18,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Blanco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988747,
+                    "stopCoordenadaX": "-33.5857831",
+                    "stopCoordenadaY": "-70.6586869"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG888",
+                "distancia": 0.0
+            },
+            {
+                "id": 7418,
+                "cod": "PG889",
+                "num": 0,
+                "pos": [
+                    -33.5860812,
+                    -70.6565429
+                ],
+                "name": "Avenida Lo Blanco esq. J. Edwards Bello",
+                "comuna": "LA PINTANA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 579,
+                        "cod": "G05",
+                        "destino": "El Castillo",
+                        "orden": 29,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "El Castillo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1392,
+                        "cod": "G31",
+                        "destino": "Fin de recorrido",
+                        "orden": 19,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 89,
+                        "cod": "302",
+                        "destino": "Fin de recorrido",
+                        "orden": 70,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 69,
+                        "cod": "216",
+                        "destino": "Vitacura",
+                        "orden": 2,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Vitacura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 743,
+                        "cod": "302n",
+                        "destino": "Fin de recorrido",
+                        "orden": 69,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988748,
+                    "stopCoordenadaX": "-33.5860812",
+                    "stopCoordenadaY": "-70.6565429"
+                },
+                "eje": "Avenida Lo Blanco",
+                "codSimt": "PG889",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "Lo Blanco",
+        "itinerario": false
+    }
+}

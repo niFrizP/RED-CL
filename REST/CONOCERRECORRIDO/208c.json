@@ -1,0 +1,4387 @@
+{
+    "negocio": {
+        "id": 2,
+        "nombre": "SU-BUS Chile S.A.",
+        "color": "#0077bb",
+        "url": "http://www.transantiago.cl/es/empresas/subus.html"
+    },
+    "ida": {
+        "id": 219,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "05:30",
+                "fin": "22:53"
+            }
+        ],
+        "path": [
+            [
+                -33.3610220005,
+                -70.63133
+            ],
+            [
+                -33.3614160005,
+                -70.6315
+            ],
+            [
+                -33.3617750005,
+                -70.631653
+            ],
+            [
+                -33.3621250005,
+                -70.631808
+            ],
+            [
+                -33.3624830005,
+                -70.631959
+            ],
+            [
+                -33.3628690005,
+                -70.632118
+            ],
+            [
+                -33.3636670005,
+                -70.632462
+            ],
+            [
+                -33.3640260005,
+                -70.632611
+            ],
+            [
+                -33.3643850005,
+                -70.632766
+            ],
+            [
+                -33.3647620005,
+                -70.632916
+            ],
+            [
+                -33.3650120005,
+                -70.633043
+            ],
+            [
+                -33.3654880005,
+                -70.633243
+            ],
+            [
+                -33.3657480005,
+                -70.633354
+            ],
+            [
+                -33.3658460005,
+                -70.633396
+            ],
+            [
+                -33.3662230005,
+                -70.633566
+            ],
+            [
+                -33.3665910005,
+                -70.63373
+            ],
+            [
+                -33.3670030005,
+                -70.633887
+            ],
+            [
+                -33.3674070005,
+                -70.634056
+            ],
+            [
+                -33.3677930005,
+                -70.634205
+            ],
+            [
+                -33.3682050005,
+                -70.634383
+            ],
+            [
+                -33.3686630005,
+                -70.634564
+            ],
+            [
+                -33.3691560005,
+                -70.634772
+            ],
+            [
+                -33.3695240005,
+                -70.634916
+            ],
+            [
+                -33.3699010005,
+                -70.635066
+            ],
+            [
+                -33.3702510005,
+                -70.63521
+            ],
+            [
+                -33.3706090005,
+                -70.635353
+            ],
+            [
+                -33.3711030005,
+                -70.635553
+            ],
+            [
+                -33.3715780005,
+                -70.635748
+            ],
+            [
+                -33.3719280005,
+                -70.63589
+            ],
+            [
+                -33.3723140005,
+                -70.636032
+            ],
+            [
+                -33.3729510005,
+                -70.636283
+            ],
+            [
+                -33.3741260005,
+                -70.636771
+            ],
+            [
+                -33.3742250005,
+                -70.636767
+            ],
+            [
+                -33.3742880005,
+                -70.636829
+            ],
+            [
+                -33.3745110005,
+                -70.63695
+            ],
+            [
+                -33.3747710005,
+                -70.637065
+            ],
+            [
+                -33.3748790005,
+                -70.6371
+            ],
+            [
+                -33.3753520005,
+                -70.637282
+            ],
+            [
+                -33.3755160005,
+                -70.637352
+            ],
+            [
+                -33.3757140005,
+                -70.637427
+            ],
+            [
+                -33.3761260005,
+                -70.637596
+            ],
+            [
+                -33.3766120005,
+                -70.637792
+            ],
+            [
+                -33.3770910005,
+                -70.637987
+            ],
+            [
+                -33.3782160005,
+                -70.638441
+            ],
+            [
+                -33.3785840005,
+                -70.638602
+            ],
+            [
+                -33.3787370005,
+                -70.638673
+            ],
+            [
+                -33.3791190005,
+                -70.638851
+            ],
+            [
+                -33.3802520005,
+                -70.639305
+            ],
+            [
+                -33.3809970005,
+                -70.639599
+            ],
+            [
+                -33.3821840005,
+                -70.640051
+            ],
+            [
+                -33.3823350005,
+                -70.640144
+            ],
+            [
+                -33.3825850005,
+                -70.640277
+            ],
+            [
+                -33.3826930005,
+                -70.640379
+            ],
+            [
+                -33.3827770005,
+                -70.640435
+            ],
+            [
+                -33.3829010005,
+                -70.640519
+            ],
+            [
+                -33.3829690005,
+                -70.640557
+            ],
+            [
+                -33.3830370005,
+                -70.640592
+            ],
+            [
+                -33.3830650005,
+                -70.640606
+            ],
+            [
+                -33.3831650005,
+                -70.640641
+            ],
+            [
+                -33.3832370005,
+                -70.640661
+            ],
+            [
+                -33.3833490005,
+                -70.640691
+            ],
+            [
+                -33.3834480005,
+                -70.640714
+            ],
+            [
+                -33.3835900005,
+                -70.640735
+            ],
+            [
+                -33.3836500005,
+                -70.640744
+            ],
+            [
+                -33.3837890005,
+                -70.640772
+            ],
+            [
+                -33.3839390005,
+                -70.640811
+            ],
+            [
+                -33.3842370005,
+                -70.640914
+            ],
+            [
+                -33.3842720005,
+                -70.640896
+            ],
+            [
+                -33.3843430005,
+                -70.640932
+            ],
+            [
+                -33.3847560005,
+                -70.641101
+            ],
+            [
+                -33.3850960005,
+                -70.641239
+            ],
+            [
+                -33.3857870005,
+                -70.641534
+            ],
+            [
+                -33.3859930005,
+                -70.641613
+            ],
+            [
+                -33.3861210005,
+                -70.641664
+            ],
+            [
+                -33.3867430005,
+                -70.641922
+            ],
+            [
+                -33.3873830005,
+                -70.642196
+            ],
+            [
+                -33.3874820005,
+                -70.642221
+            ],
+            [
+                -33.3876980005,
+                -70.642269
+            ],
+            [
+                -33.3878780005,
+                -70.642282
+            ],
+            [
+                -33.3881760005,
+                -70.6423
+            ],
+            [
+                -33.3886350005,
+                -70.642327
+            ],
+            [
+                -33.3894920005,
+                -70.642357
+            ],
+            [
+                -33.3899780005,
+                -70.64239
+            ],
+            [
+                -33.3904560005,
+                -70.642411
+            ],
+            [
+                -33.3909220005,
+                -70.642438
+            ],
+            [
+                -33.3910220005,
+                -70.642447
+            ],
+            [
+                -33.3913720005,
+                -70.642472
+            ],
+            [
+                -33.3918400005,
+                -70.642486
+            ],
+            [
+                -33.3920150005,
+                -70.642481
+            ],
+            [
+                -33.3923930005,
+                -70.642534
+            ],
+            [
+                -33.3924650005,
+                -70.642577
+            ],
+            [
+                -33.3927500005,
+                -70.642594
+            ],
+            [
+                -33.3930160005,
+                -70.642605
+            ],
+            [
+                -33.3938860005,
+                -70.642655
+            ],
+            [
+                -33.3939140005,
+                -70.642561
+            ],
+            [
+                -33.3941780005,
+                -70.641513
+            ],
+            [
+                -33.3941720005,
+                -70.641479
+            ],
+            [
+                -33.3943550005,
+                -70.640779
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 1369,
+                "cod": "PB1607",
+                "num": 0,
+                "pos": [
+                    -33.3626663,
+                    -70.6321233
+                ],
+                "name": "Avenida Recoleta esq. Jacarand\u00e1",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 1,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 1,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 1,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988250,
+                    "stopCoordenadaX": "-33.3626663",
+                    "stopCoordenadaY": "-70.6321233"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB1607",
+                "distancia": 0.0
+            },
+            {
+                "id": 1361,
+                "cod": "PB292",
+                "num": 0,
+                "pos": [
+                    -33.3648475,
+                    -70.6330209
+                ],
+                "name": "Avenida Recoleta esq. Los Nogales",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 2,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 2,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 2,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988251,
+                    "stopCoordenadaX": "-33.3648475",
+                    "stopCoordenadaY": "-70.6330209"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB292",
+                "distancia": 0.0
+            },
+            {
+                "id": 1362,
+                "cod": "PB293",
+                "num": 0,
+                "pos": [
+                    -33.3664566,
+                    -70.6337105
+                ],
+                "name": "Avenida Recoleta esq. Los Cerezos",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 3,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 3,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 3,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988252,
+                    "stopCoordenadaX": "-33.3664566",
+                    "stopCoordenadaY": "-70.6337105"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB293",
+                "distancia": 0.0
+            },
+            {
+                "id": 1363,
+                "cod": "PB294",
+                "num": 0,
+                "pos": [
+                    -33.3683185,
+                    -70.6344979
+                ],
+                "name": "Avenida Recoleta esq. Del Pincoy",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 4,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 4,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 4,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988253,
+                    "stopCoordenadaX": "-33.3683185",
+                    "stopCoordenadaY": "-70.6344979"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB294",
+                "distancia": 0.0
+            },
+            {
+                "id": 1364,
+                "cod": "PB295",
+                "num": 0,
+                "pos": [
+                    -33.3708655,
+                    -70.635519
+                ],
+                "name": "Avenida Recoleta esq. Avenida La Pincoya",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 5,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 5,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 5,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1226,
+                        "cod": "C18",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 25,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988254,
+                    "stopCoordenadaX": "-33.3708655",
+                    "stopCoordenadaY": "-70.6355190"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB295",
+                "distancia": 0.0
+            },
+            {
+                "id": 1365,
+                "cod": "PB296",
+                "num": 0,
+                "pos": [
+                    -33.3734835,
+                    -70.6365622
+                ],
+                "name": "Avenida Recoleta esq. Guillermo Lasera",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 6,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 6,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1226,
+                        "cod": "C18",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 26,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 319,
+                        "cod": "B02",
+                        "destino": "Camino Punta Mocha",
+                        "orden": 44,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "Camino Punta Mocha"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1222,
+                        "cod": "B02n",
+                        "destino": "El Barrero",
+                        "orden": 46,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "El Barrero"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": true,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 6,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988255,
+                    "stopCoordenadaX": "-33.3734835",
+                    "stopCoordenadaY": "-70.6365622"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB296",
+                "distancia": 0.0
+            },
+            {
+                "id": 1366,
+                "cod": "PB297",
+                "num": 0,
+                "pos": [
+                    -33.3753615,
+                    -70.6373719
+                ],
+                "name": "Avenida Recoleta esq. C. Aguirre Luco",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 849,
+                        "cod": "116",
+                        "destino": "Huechuraba",
+                        "orden": 40,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 7,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 853,
+                        "cod": "117c",
+                        "destino": "Huechuraba",
+                        "orden": 18,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1210,
+                        "cod": "B05",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 18,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 7,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 34,
+                        "cod": "117",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 66,
+                        "color": "#00A1E4",
+                        "negocio": {
+                            "nombre": "Inversiones Alsacia S.A.",
+                            "color": "#00A1E4"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U1"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 7,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988256,
+                    "stopCoordenadaX": "-33.3753615",
+                    "stopCoordenadaY": "-70.6373719"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB297",
+                "distancia": 0.0
+            },
+            {
+                "id": 1367,
+                "cod": "PB298",
+                "num": 0,
+                "pos": [
+                    -33.3777625,
+                    -70.6383259
+                ],
+                "name": "Avenida Recoleta esq. J. J. Aguirre Luco",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 8,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 8,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1210,
+                        "cod": "B05",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 19,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 849,
+                        "cod": "116",
+                        "destino": "Huechuraba",
+                        "orden": 41,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 853,
+                        "cod": "117c",
+                        "destino": "Fin de recorrido",
+                        "orden": 19,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 34,
+                        "cod": "117",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 67,
+                        "color": "#00A1E4",
+                        "negocio": {
+                            "nombre": "Inversiones Alsacia S.A.",
+                            "color": "#00A1E4"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U1"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 8,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988257,
+                    "stopCoordenadaX": "-33.3777625",
+                    "stopCoordenadaY": "-70.6383259"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB298",
+                "distancia": 0.0
+            },
+            {
+                "id": 1368,
+                "cod": "PB299",
+                "num": 0,
+                "pos": [
+                    -33.3807715,
+                    -70.639574
+                ],
+                "name": "Avenida Recoleta esq. Industrial",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 9,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 34,
+                        "cod": "117",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 68,
+                        "color": "#00A1E4",
+                        "negocio": {
+                            "nombre": "Inversiones Alsacia S.A.",
+                            "color": "#00A1E4"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U1"
+                    },
+                    {
+                        "id": 49,
+                        "cod": "203",
+                        "destino": "La Pintana",
+                        "orden": 1,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1210,
+                        "cod": "B05",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 20,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 9,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 9,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1225,
+                        "cod": "C18",
+                        "destino": "(M) Dorsal",
+                        "orden": 41,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Dorsal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987747,
+                    "stopCoordenadaX": "-33.3807715",
+                    "stopCoordenadaY": "-70.6395740"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB299",
+                "distancia": 0.0
+            },
+            {
+                "id": 1370,
+                "cod": "PB300",
+                "num": 0,
+                "pos": [
+                    -33.3824695,
+                    -70.640274
+                ],
+                "name": "Avenida Recoleta esq. Av. A. Vespucio",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 10,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 49,
+                        "cod": "203",
+                        "destino": "La Pintana",
+                        "orden": 2,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 10,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 10,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1210,
+                        "cod": "B05",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 21,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 34,
+                        "cod": "117",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 69,
+                        "color": "#00A1E4",
+                        "negocio": {
+                            "nombre": "Inversiones Alsacia S.A.",
+                            "color": "#00A1E4"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U1"
+                    },
+                    {
+                        "id": 1225,
+                        "cod": "C18",
+                        "destino": "(M) Dorsal",
+                        "orden": 42,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Dorsal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987748,
+                    "stopCoordenadaX": "-33.3824695",
+                    "stopCoordenadaY": "-70.6402740"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB300",
+                "distancia": 0.0
+            },
+            {
+                "id": 1698,
+                "cod": "PB1369",
+                "num": 0,
+                "pos": [
+                    -33.3845654,
+                    -70.641079
+                ],
+                "name": "Avenida Recoleta esq. Oscar Castro",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 49,
+                        "cod": "203",
+                        "destino": "La Pintana",
+                        "orden": 3,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1225,
+                        "cod": "C18",
+                        "destino": "(M) Dorsal",
+                        "orden": 43,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Dorsal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 11,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 11,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 11,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987749,
+                    "stopCoordenadaX": "-33.3845654",
+                    "stopCoordenadaY": "-70.6410790"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB1369",
+                "distancia": 0.0
+            },
+            {
+                "id": 1699,
+                "cod": "PB301",
+                "num": 0,
+                "pos": [
+                    -33.3860004,
+                    -70.6416939
+                ],
+                "name": "Avenida Recoleta esq. M. Luisa Bombal",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 12,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 12,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 12,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1225,
+                        "cod": "C18",
+                        "destino": "(M) Dorsal",
+                        "orden": 44,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Dorsal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 49,
+                        "cod": "203",
+                        "destino": "La Pintana",
+                        "orden": 4,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987750,
+                    "stopCoordenadaX": "-33.3860004",
+                    "stopCoordenadaY": "-70.6416939"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB301",
+                "distancia": 0.0
+            },
+            {
+                "id": 1701,
+                "cod": "PB302",
+                "num": 0,
+                "pos": [
+                    -33.3883391,
+                    -70.6423639
+                ],
+                "name": "Avenida Recoleta esq. Alfredo Rosende",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 13,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1215,
+                        "cod": "B22",
+                        "destino": "Urmeneta",
+                        "orden": 10,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Urmeneta"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1225,
+                        "cod": "C18",
+                        "destino": "(M) Dorsal",
+                        "orden": 45,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Dorsal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 49,
+                        "cod": "203",
+                        "destino": "La Pintana",
+                        "orden": 5,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 13,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 13,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987751,
+                    "stopCoordenadaX": "-33.3883391",
+                    "stopCoordenadaY": "-70.6423639"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB302",
+                "distancia": 0.0
+            },
+            {
+                "id": 1691,
+                "cod": "PB303",
+                "num": 3,
+                "pos": [
+                    -33.3914964,
+                    -70.6425349
+                ],
+                "name": "Avenida Recoleta esq. Dr. Amador Neghme",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "(M) Zapadores",
+                        "orden": 14,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Zapadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 955,
+                        "cod": "203n",
+                        "destino": "La Pintana",
+                        "orden": 14,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1225,
+                        "cod": "C18",
+                        "destino": "(M) Dorsal",
+                        "orden": 46,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Dorsal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 49,
+                        "cod": "203",
+                        "destino": "La Pintana",
+                        "orden": 6,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "La Pintana"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 348,
+                        "cod": "B15",
+                        "destino": "Mapocho",
+                        "orden": 9,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "Mapocho"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 57,
+                        "cod": "208",
+                        "destino": "Centro",
+                        "orden": 14,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987752,
+                    "stopCoordenadaX": "-33.3914964",
+                    "stopCoordenadaY": "-70.6425349"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB303",
+                "distancia": 0.0
+            },
+            {
+                "id": 1835,
+                "cod": "PB1639",
+                "num": 0,
+                "pos": [
+                    -33.3943754,
+                    -70.640873
+                ],
+                "name": "Ortiz de Rosas esq. Hern\u00e1n Mery",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 348,
+                        "cod": "B15",
+                        "destino": "Mapocho",
+                        "orden": 10,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "Mapocho"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 219,
+                        "cod": "208c",
+                        "destino": "Fin de recorrido",
+                        "orden": 15,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989412,
+                    "stopCoordenadaX": "-33.3943754",
+                    "stopCoordenadaY": "-70.6408730"
+                },
+                "eje": "Ortiz de Rosas",
+                "codSimt": "PB1639",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "(M) Zapadores",
+        "itinerario": false
+    },
+    "regreso": {
+        "id": 220,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "17:30",
+                "fin": "22:51"
+            },
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "06:30",
+                "fin": "09:21"
+            }
+        ],
+        "path": [
+            [
+                -33.3943820005,
+                -70.640671
+            ],
+            [
+                -33.3940010005,
+                -70.640645
+            ],
+            [
+                -33.3936360005,
+                -70.640622
+            ],
+            [
+                -33.3932580005,
+                -70.640591
+            ],
+            [
+                -33.3928430005,
+                -70.640553
+            ],
+            [
+                -33.3928220005,
+                -70.641054
+            ],
+            [
+                -33.3928020005,
+                -70.641477
+            ],
+            [
+                -33.3927880005,
+                -70.641921
+            ],
+            [
+                -33.3927660005,
+                -70.6425
+            ],
+            [
+                -33.3924380005,
+                -70.642487
+            ],
+            [
+                -33.3923930005,
+                -70.642534
+            ],
+            [
+                -33.3920150005,
+                -70.642481
+            ],
+            [
+                -33.3918400005,
+                -70.642486
+            ],
+            [
+                -33.3913720005,
+                -70.642472
+            ],
+            [
+                -33.3910220005,
+                -70.642447
+            ],
+            [
+                -33.3909220005,
+                -70.642438
+            ],
+            [
+                -33.3904560005,
+                -70.642411
+            ],
+            [
+                -33.3899780005,
+                -70.64239
+            ],
+            [
+                -33.3894920005,
+                -70.642357
+            ],
+            [
+                -33.3886350005,
+                -70.642327
+            ],
+            [
+                -33.3881760005,
+                -70.6423
+            ],
+            [
+                -33.3878780005,
+                -70.642282
+            ],
+            [
+                -33.3876980005,
+                -70.642269
+            ],
+            [
+                -33.3874820005,
+                -70.642221
+            ],
+            [
+                -33.3873830005,
+                -70.642196
+            ],
+            [
+                -33.3867430005,
+                -70.641922
+            ],
+            [
+                -33.3861210005,
+                -70.641664
+            ],
+            [
+                -33.3859930005,
+                -70.641613
+            ],
+            [
+                -33.3857870005,
+                -70.641534
+            ],
+            [
+                -33.3850960005,
+                -70.641239
+            ],
+            [
+                -33.3847560005,
+                -70.641101
+            ],
+            [
+                -33.3843430005,
+                -70.640932
+            ],
+            [
+                -33.3842720005,
+                -70.640896
+            ],
+            [
+                -33.3842560005,
+                -70.640849
+            ],
+            [
+                -33.3840310005,
+                -70.640689
+            ],
+            [
+                -33.3839440005,
+                -70.640613
+            ],
+            [
+                -33.3838790005,
+                -70.640544
+            ],
+            [
+                -33.3836550005,
+                -70.640286
+            ],
+            [
+                -33.3835350005,
+                -70.64022
+            ],
+            [
+                -33.3834730005,
+                -70.64018
+            ],
+            [
+                -33.3833660005,
+                -70.64013
+            ],
+            [
+                -33.3833480005,
+                -70.640124
+            ],
+            [
+                -33.3832220005,
+                -70.640082
+            ],
+            [
+                -33.3832040005,
+                -70.640072
+            ],
+            [
+                -33.3831000005,
+                -70.640087
+            ],
+            [
+                -33.3829990005,
+                -70.640088
+            ],
+            [
+                -33.3827540005,
+                -70.640121
+            ],
+            [
+                -33.3826380005,
+                -70.640135
+            ],
+            [
+                -33.3825070005,
+                -70.640125
+            ],
+            [
+                -33.3821840005,
+                -70.640051
+            ],
+            [
+                -33.3809970005,
+                -70.639599
+            ],
+            [
+                -33.3802520005,
+                -70.639305
+            ],
+            [
+                -33.3791190005,
+                -70.638851
+            ],
+            [
+                -33.3787370005,
+                -70.638673
+            ],
+            [
+                -33.3785840005,
+                -70.638602
+            ],
+            [
+                -33.3782160005,
+                -70.638441
+            ],
+            [
+                -33.3770910005,
+                -70.637987
+            ],
+            [
+                -33.3766120005,
+                -70.637792
+            ],
+            [
+                -33.3761260005,
+                -70.637596
+            ],
+            [
+                -33.3757140005,
+                -70.637427
+            ],
+            [
+                -33.3755160005,
+                -70.637352
+            ],
+            [
+                -33.3753520005,
+                -70.637282
+            ],
+            [
+                -33.3748790005,
+                -70.6371
+            ],
+            [
+                -33.3747710005,
+                -70.637065
+            ],
+            [
+                -33.3745110005,
+                -70.63695
+            ],
+            [
+                -33.3742880005,
+                -70.636829
+            ],
+            [
+                -33.3742250005,
+                -70.636767
+            ],
+            [
+                -33.3741260005,
+                -70.636771
+            ],
+            [
+                -33.3729510005,
+                -70.636283
+            ],
+            [
+                -33.3723140005,
+                -70.636032
+            ],
+            [
+                -33.3719280005,
+                -70.63589
+            ],
+            [
+                -33.3715780005,
+                -70.635748
+            ],
+            [
+                -33.3711030005,
+                -70.635553
+            ],
+            [
+                -33.3706090005,
+                -70.635353
+            ],
+            [
+                -33.3702510005,
+                -70.63521
+            ],
+            [
+                -33.3699010005,
+                -70.635066
+            ],
+            [
+                -33.3695240005,
+                -70.634916
+            ],
+            [
+                -33.3691560005,
+                -70.634772
+            ],
+            [
+                -33.3686630005,
+                -70.634564
+            ],
+            [
+                -33.3682050005,
+                -70.634383
+            ],
+            [
+                -33.3677930005,
+                -70.634205
+            ],
+            [
+                -33.3674070005,
+                -70.634056
+            ],
+            [
+                -33.3670030005,
+                -70.633887
+            ],
+            [
+                -33.3665910005,
+                -70.63373
+            ],
+            [
+                -33.3662230005,
+                -70.633566
+            ],
+            [
+                -33.3658460005,
+                -70.633396
+            ],
+            [
+                -33.3657480005,
+                -70.633354
+            ],
+            [
+                -33.3654880005,
+                -70.633243
+            ],
+            [
+                -33.3650120005,
+                -70.633043
+            ],
+            [
+                -33.3647620005,
+                -70.632916
+            ],
+            [
+                -33.3643850005,
+                -70.632766
+            ],
+            [
+                -33.3640260005,
+                -70.632611
+            ],
+            [
+                -33.3636670005,
+                -70.632462
+            ],
+            [
+                -33.3628690005,
+                -70.632118
+            ],
+            [
+                -33.3624830005,
+                -70.631959
+            ],
+            [
+                -33.3621250005,
+                -70.631808
+            ],
+            [
+                -33.3617750005,
+                -70.631653
+            ],
+            [
+                -33.3614160005,
+                -70.6315
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 1792,
+                "cod": "PB1548",
+                "num": 0,
+                "pos": [
+                    -33.3934604,
+                    -70.640569
+                ],
+                "name": "Hern\u00e1n Mery esq. Bismuto",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 1,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 989413,
+                    "stopCoordenadaX": "-33.3934604",
+                    "stopCoordenadaY": "-70.6405690"
+                },
+                "eje": "Hern\u00e1n Mery",
+                "codSimt": "PB1548",
+                "distancia": 0.0
+            },
+            {
+                "id": 1696,
+                "cod": "PB330",
+                "num": 2,
+                "pos": [
+                    -33.3915346,
+                    -70.6423479
+                ],
+                "name": "Avenida Recoleta esq. Av. Zapadores",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1226,
+                        "cod": "C18",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 5,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 2,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 21,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 105,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 50,
+                        "cod": "203",
+                        "destino": "Av. Recoleta",
+                        "orden": 83,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Av. Recoleta"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987915,
+                    "stopCoordenadaX": "-33.3915346",
+                    "stopCoordenadaY": "-70.6423479"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB330",
+                "distancia": 0.0
+            },
+            {
+                "id": 1731,
+                "cod": "PB331",
+                "num": 0,
+                "pos": [
+                    -33.3888634,
+                    -70.642255
+                ],
+                "name": "Avenida Recoleta esq. Alfredo Rosende",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 22,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 3,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 50,
+                        "cod": "203",
+                        "destino": "Av. Recoleta",
+                        "orden": 84,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Av. Recoleta"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1216,
+                        "cod": "B22",
+                        "destino": "Palacio Riesco",
+                        "orden": 44,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Palacio Riesco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 106,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1226,
+                        "cod": "C18",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 6,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987916,
+                    "stopCoordenadaX": "-33.3888634",
+                    "stopCoordenadaY": "-70.6422550"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB331",
+                "distancia": 0.0
+            },
+            {
+                "id": 1732,
+                "cod": "PB332",
+                "num": 0,
+                "pos": [
+                    -33.3862919,
+                    -70.6416408
+                ],
+                "name": "Avenida Recoleta esq. Adela Mart\u00ednez",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1226,
+                        "cod": "C18",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 7,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 23,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1216,
+                        "cod": "B22",
+                        "destino": "Palacio Riesco",
+                        "orden": 45,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Palacio Riesco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 4,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 50,
+                        "cod": "203",
+                        "destino": "Av. Recoleta",
+                        "orden": 85,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Av. Recoleta"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 107,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987917,
+                    "stopCoordenadaX": "-33.3862919",
+                    "stopCoordenadaY": "-70.6416408"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB332",
+                "distancia": 0.0
+            },
+            {
+                "id": 1733,
+                "cod": "PB333",
+                "num": 0,
+                "pos": [
+                    -33.3839694,
+                    -70.640565
+                ],
+                "name": "Avenida Recoleta esq. Los Cardenales",
+                "comuna": "RECOLETA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 24,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 50,
+                        "cod": "203",
+                        "destino": "Av. Recoleta",
+                        "orden": 86,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Av. Recoleta"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 108,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1226,
+                        "cod": "C18",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 8,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 5,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987918,
+                    "stopCoordenadaX": "-33.3839694",
+                    "stopCoordenadaY": "-70.6405650"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB333",
+                "distancia": 0.0
+            },
+            {
+                "id": 1380,
+                "cod": "PB334",
+                "num": 0,
+                "pos": [
+                    -33.3809135,
+                    -70.639449
+                ],
+                "name": "Avenida Recoleta esq. Av.Pdte. S.Allende",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 50,
+                        "cod": "203",
+                        "destino": "Fin de recorrido",
+                        "orden": 87,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1183,
+                        "cod": "117",
+                        "destino": "San Joaqu\u00edn",
+                        "orden": 2,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US5",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Joaqu\u00edn"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U12"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 6,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 109,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 25,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1209,
+                        "cod": "B05",
+                        "destino": "Ciudad Empresarial",
+                        "orden": 18,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Ciudad Empresarial"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 987919,
+                    "stopCoordenadaX": "-33.3809135",
+                    "stopCoordenadaY": "-70.6394490"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB334",
+                "distancia": 0.0
+            },
+            {
+                "id": 1371,
+                "cod": "PB335",
+                "num": 0,
+                "pos": [
+                    -33.3778725,
+                    -70.6382159
+                ],
+                "name": "Avenida Recoleta esq. Astro Rey",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1209,
+                        "cod": "B05",
+                        "destino": "Ciudad Empresarial",
+                        "orden": 19,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Ciudad Empresarial"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1147,
+                        "cod": "116",
+                        "destino": "Centro",
+                        "orden": 2,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US3",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U10"
+                    },
+                    {
+                        "id": 1183,
+                        "cod": "117",
+                        "destino": "San Joaqu\u00edn",
+                        "orden": 3,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US5",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Joaqu\u00edn"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U12"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 26,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 110,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1185,
+                        "cod": "117c",
+                        "destino": "Providencia",
+                        "orden": 1,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US5",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Providencia"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U12"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 7,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988258,
+                    "stopCoordenadaX": "-33.3778725",
+                    "stopCoordenadaY": "-70.6382159"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB335",
+                "distancia": 0.0
+            },
+            {
+                "id": 1372,
+                "cod": "PB336",
+                "num": 0,
+                "pos": [
+                    -33.375449,
+                    -70.6372408
+                ],
+                "name": "Avenida Recoleta esq. Premio Nobel",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1147,
+                        "cod": "116",
+                        "destino": "Centro",
+                        "orden": 3,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US3",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Centro"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U10"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 8,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1185,
+                        "cod": "117c",
+                        "destino": "Providencia",
+                        "orden": 2,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US5",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Providencia"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U12"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 27,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1209,
+                        "cod": "B05",
+                        "destino": "Ciudad Empresarial",
+                        "orden": 20,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Ciudad Empresarial"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 111,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 1183,
+                        "cod": "117",
+                        "destino": "San Joaqu\u00edn",
+                        "orden": 4,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "STU US5",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Joaqu\u00edn"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U12"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988259,
+                    "stopCoordenadaX": "-33.3754490",
+                    "stopCoordenadaY": "-70.6372408"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB336",
+                "distancia": 0.0
+            },
+            {
+                "id": 1373,
+                "cod": "PB337",
+                "num": 0,
+                "pos": [
+                    -33.3735221,
+                    -70.6364335
+                ],
+                "name": "Avenida Recoleta esq. El Pueblo",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 112,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 28,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 9,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988260,
+                    "stopCoordenadaX": "-33.3735221",
+                    "stopCoordenadaY": "-70.6364335"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB337",
+                "distancia": 0.0
+            },
+            {
+                "id": 1374,
+                "cod": "PB338",
+                "num": 0,
+                "pos": [
+                    -33.3712862,
+                    -70.6355649
+                ],
+                "name": "Avenida Recoleta esq. Avenida La Pincoya",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 113,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 10,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 29,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988261,
+                    "stopCoordenadaX": "-33.3712862",
+                    "stopCoordenadaY": "-70.6355649"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB338",
+                "distancia": 0.0
+            },
+            {
+                "id": 1375,
+                "cod": "PB339",
+                "num": 0,
+                "pos": [
+                    -33.3688745,
+                    -70.6346009
+                ],
+                "name": "Avenida Recoleta esq. Del Pincoy",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 114,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 30,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 11,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988262,
+                    "stopCoordenadaX": "-33.3688745",
+                    "stopCoordenadaY": "-70.6346009"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB339",
+                "distancia": 0.0
+            },
+            {
+                "id": 1376,
+                "cod": "PB340",
+                "num": 0,
+                "pos": [
+                    -33.3666784,
+                    -70.6336734
+                ],
+                "name": "Avenida Recoleta esq. Los Cerezos",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 115,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 12,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 31,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988263,
+                    "stopCoordenadaX": "-33.3666784",
+                    "stopCoordenadaY": "-70.6336734"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB340",
+                "distancia": 0.0
+            },
+            {
+                "id": 1377,
+                "cod": "PB1605",
+                "num": 0,
+                "pos": [
+                    -33.3648625,
+                    -70.632877
+                ],
+                "name": "Avenida Recoleta esq. Los Nogales",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 116,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 32,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 13,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988264,
+                    "stopCoordenadaX": "-33.3648625",
+                    "stopCoordenadaY": "-70.6328770"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB1605",
+                "distancia": 0.0
+            },
+            {
+                "id": 1378,
+                "cod": "PB341",
+                "num": 0,
+                "pos": [
+                    -33.3635241,
+                    -70.6323184
+                ],
+                "name": "Avenida Recoleta esq. Jacarand\u00e1",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Huechuraba",
+                        "orden": 117,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Huechuraba",
+                        "orden": 33,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Huechuraba",
+                        "orden": 14,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Huechuraba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988265,
+                    "stopCoordenadaX": "-33.3635241",
+                    "stopCoordenadaY": "-70.6323184"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB341",
+                "distancia": 0.0
+            },
+            {
+                "id": 1379,
+                "cod": "PB1558",
+                "num": 0,
+                "pos": [
+                    -33.3621975,
+                    -70.6317593
+                ],
+                "name": "Avenida Recoleta esq. Los helechos",
+                "comuna": "HUECHURABA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 220,
+                        "cod": "208c",
+                        "destino": "Fin de recorrido",
+                        "orden": 15,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 956,
+                        "cod": "203n",
+                        "destino": "Fin de recorrido",
+                        "orden": 118,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    },
+                    {
+                        "id": 58,
+                        "cod": "208",
+                        "destino": "Fin de recorrido",
+                        "orden": 34,
+                        "color": "#0077bb",
+                        "negocio": {
+                            "nombre": "SU-BUS Chile S.A.",
+                            "color": "#0077bb"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U2"
+                    }
+                ],
+                "stop": {
+                    "stopId": 988266,
+                    "stopCoordenadaX": "-33.3621975",
+                    "stopCoordenadaY": "-70.6317593"
+                },
+                "eje": "Avenida Recoleta",
+                "codSimt": "PB1558",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "Huechuraba",
+        "itinerario": false
+    }
+}

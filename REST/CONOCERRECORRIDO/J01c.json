@@ -1,0 +1,4189 @@
+{
+    "negocio": {
+        "id": 5,
+        "nombre": "Buses Metropolitana S.A.",
+        "color": "#0093B3",
+        "url": "http://www.transantiago.cl/es/empresas/metbus.html"
+    },
+    "ida": {
+        "id": 1023,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "16:30",
+                "fin": "19:59"
+            }
+        ],
+        "path": [
+            [
+                -33.4456670005,
+                -70.7233780001
+            ],
+            [
+                -33.4456320005,
+                -70.7232800001
+            ],
+            [
+                -33.4456210005,
+                -70.7229510001
+            ],
+            [
+                -33.4456170005,
+                -70.7227950001
+            ],
+            [
+                -33.4455290005,
+                -70.7227950001
+            ],
+            [
+                -33.4453000005,
+                -70.7228180001
+            ],
+            [
+                -33.4451660005,
+                -70.7228500001
+            ],
+            [
+                -33.4450400005,
+                -70.7228920001
+            ],
+            [
+                -33.4448250005,
+                -70.7229860001
+            ],
+            [
+                -33.4447250005,
+                -70.7230410001
+            ],
+            [
+                -33.4445520005,
+                -70.7231120001
+            ],
+            [
+                -33.4444800005,
+                -70.7231250001
+            ],
+            [
+                -33.4442290005,
+                -70.7231590001
+            ],
+            [
+                -33.4434420005,
+                -70.7232230001
+            ],
+            [
+                -33.4433850005,
+                -70.7232680001
+            ],
+            [
+                -33.4430130005,
+                -70.7232320001
+            ],
+            [
+                -33.4426200005,
+                -70.7231790001
+            ],
+            [
+                -33.4425500005,
+                -70.7232020001
+            ],
+            [
+                -33.4416940005,
+                -70.7231060001
+            ],
+            [
+                -33.4414330005,
+                -70.7230790001
+            ],
+            [
+                -33.4404240005,
+                -70.7229480001
+            ],
+            [
+                -33.4400900005,
+                -70.7229230001
+            ],
+            [
+                -33.4400410005,
+                -70.7228750001
+            ],
+            [
+                -33.4397470005,
+                -70.7227480001
+            ],
+            [
+                -33.4389370005,
+                -70.7224150001
+            ],
+            [
+                -33.4387380005,
+                -70.7223350001
+            ],
+            [
+                -33.4385850005,
+                -70.7222840001
+            ],
+            [
+                -33.4384590005,
+                -70.7222260001
+            ],
+            [
+                -33.4379300005,
+                -70.7220130001
+            ],
+            [
+                -33.4375900005,
+                -70.7218740001
+            ],
+            [
+                -33.4371770005,
+                -70.7217050001
+            ],
+            [
+                -33.4369410005,
+                -70.7216180001
+            ],
+            [
+                -33.4367050005,
+                -70.7215420001
+            ],
+            [
+                -33.4366290005,
+                -70.7215460001
+            ],
+            [
+                -33.4352140005,
+                -70.7212440001
+            ],
+            [
+                -33.4352090005,
+                -70.7212420001
+            ],
+            [
+                -33.4341570005,
+                -70.7210190001
+            ],
+            [
+                -33.4336620005,
+                -70.7209090001
+            ],
+            [
+                -33.4330780005,
+                -70.7207780001
+            ],
+            [
+                -33.4326510005,
+                -70.7206920001
+            ],
+            [
+                -33.4325380005,
+                -70.7206690001
+            ],
+            [
+                -33.4322050005,
+                -70.7206000001
+            ],
+            [
+                -33.4322040005,
+                -70.7206000001
+            ],
+            [
+                -33.4318890005,
+                -70.7205260001
+            ],
+            [
+                -33.4318240005,
+                -70.7205150001
+            ],
+            [
+                -33.4317330005,
+                -70.7205000001
+            ],
+            [
+                -33.4306850005,
+                -70.7202720001
+            ],
+            [
+                -33.4306180005,
+                -70.7202550001
+            ],
+            [
+                -33.4304630005,
+                -70.7202180001
+            ],
+            [
+                -33.4296290005,
+                -70.7200090001
+            ],
+            [
+                -33.4286150005,
+                -70.7197420001
+            ],
+            [
+                -33.4277070005,
+                -70.7195050001
+            ],
+            [
+                -33.4276350005,
+                -70.7194870001
+            ],
+            [
+                -33.4268130005,
+                -70.7192700001
+            ],
+            [
+                -33.4267220005,
+                -70.7192470001
+            ],
+            [
+                -33.4255970005,
+                -70.7189530001
+            ],
+            [
+                -33.4248520005,
+                -70.7187550001
+            ],
+            [
+                -33.4242460005,
+                -70.7185980001
+            ],
+            [
+                -33.4240770005,
+                -70.7185410001
+            ],
+            [
+                -33.4239940005,
+                -70.7184930001
+            ],
+            [
+                -33.4224270005,
+                -70.7181080001
+            ],
+            [
+                -33.4223650005,
+                -70.7181030001
+            ],
+            [
+                -33.4223070005,
+                -70.7181050001
+            ],
+            [
+                -33.4217550005,
+                -70.7179660001
+            ],
+            [
+                -33.4216660005,
+                -70.7179460001
+            ],
+            [
+                -33.4211510005,
+                -70.7178200001
+            ],
+            [
+                -33.4194780005,
+                -70.7174120001
+            ],
+            [
+                -33.4192290005,
+                -70.7173670001
+            ],
+            [
+                -33.4185540005,
+                -70.7172100001
+            ],
+            [
+                -33.4184830005,
+                -70.7171930001
+            ],
+            [
+                -33.4179540005,
+                -70.7170730001
+            ],
+            [
+                -33.4174520005,
+                -70.7169500001
+            ],
+            [
+                -33.4173530005,
+                -70.7169270001
+            ],
+            [
+                -33.4165740005,
+                -70.7167530001
+            ],
+            [
+                -33.4164690005,
+                -70.7167200001
+            ],
+            [
+                -33.4163990005,
+                -70.7166970001
+            ],
+            [
+                -33.4162060005,
+                -70.7165740001
+            ],
+            [
+                -33.4160530005,
+                -70.7164780001
+            ],
+            [
+                -33.4158690005,
+                -70.7163640001
+            ],
+            [
+                -33.4156610005,
+                -70.7162330001
+            ],
+            [
+                -33.4155380005,
+                -70.7161560001
+            ],
+            [
+                -33.4153690005,
+                -70.7160530001
+            ],
+            [
+                -33.4153670005,
+                -70.7160510001
+            ],
+            [
+                -33.4151730005,
+                -70.7159170001
+            ],
+            [
+                -33.4152010005,
+                -70.7158500001
+            ],
+            [
+                -33.4152380005,
+                -70.7157490001
+            ],
+            [
+                -33.4154240005,
+                -70.7152670001
+            ],
+            [
+                -33.4155450005,
+                -70.7149370001
+            ],
+            [
+                -33.4157630005,
+                -70.7144140001
+            ],
+            [
+                -33.4158360005,
+                -70.7142330001
+            ],
+            [
+                -33.4160360005,
+                -70.7137790001
+            ],
+            [
+                -33.4161970005,
+                -70.7133670001
+            ],
+            [
+                -33.4162320005,
+                -70.7132260001
+            ],
+            [
+                -33.4162540005,
+                -70.7131450001
+            ],
+            [
+                -33.4162870005,
+                -70.7129730001
+            ],
+            [
+                -33.4163150005,
+                -70.7127420001
+            ],
+            [
+                -33.4163480005,
+                -70.7124590001
+            ],
+            [
+                -33.4163490005,
+                -70.7123490001
+            ],
+            [
+                -33.4163500005,
+                -70.7123120001
+            ],
+            [
+                -33.4163690005,
+                -70.7121880001
+            ],
+            [
+                -33.4163910005,
+                -70.7120540001
+            ],
+            [
+                -33.4164590005,
+                -70.7118140001
+            ],
+            [
+                -33.4163680005,
+                -70.7117500001
+            ],
+            [
+                -33.4159980005,
+                -70.7115980001
+            ],
+            [
+                -33.4156960005,
+                -70.7114720001
+            ],
+            [
+                -33.4153170005,
+                -70.7113180001
+            ],
+            [
+                -33.4152130005,
+                -70.7116440001
+            ],
+            [
+                -33.4151210005,
+                -70.7119470001
+            ],
+            [
+                -33.4150060005,
+                -70.7122950001
+            ],
+            [
+                -33.4148920005,
+                -70.7126750001
+            ],
+            [
+                -33.4147600005,
+                -70.7130860001
+            ],
+            [
+                -33.4146570005,
+                -70.7134050001
+            ],
+            [
+                -33.4145040005,
+                -70.7138510001
+            ],
+            [
+                -33.4143530005,
+                -70.7142940001
+            ],
+            [
+                -33.4143310005,
+                -70.7143630001
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 12266,
+                "cod": "PJ1586",
+                "num": 10,
+                "pos": [
+                    -33.444963,
+                    -70.7228799
+                ],
+                "name": "Neptuno esq. Avenida Portales",
+                "comuna": "LO PRADO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 180,
+                        "cod": "511",
+                        "destino": "Cerro Navia",
+                        "orden": 68,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Cerro Navia"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 754,
+                        "cod": "541n",
+                        "destino": "El Tranque",
+                        "orden": 61,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Tranque"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 132,
+                        "cod": "412",
+                        "destino": "ENEA",
+                        "orden": 69,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "ENEA"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 35,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 23,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 1,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994659,
+                    "stopCoordenadaX": "-33.4449630",
+                    "stopCoordenadaY": "-70.7228799"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ1586",
+                "distancia": 0.0
+            },
+            {
+                "id": 12271,
+                "cod": "PJ559",
+                "num": 0,
+                "pos": [
+                    -33.441931,
+                    -70.723078
+                ],
+                "name": "Neptuno esq. Yolanda",
+                "comuna": "LO PRADO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 721,
+                        "cod": "J18",
+                        "destino": "Enea",
+                        "orden": 3,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Enea"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 708,
+                        "cod": "J13",
+                        "destino": "El Montijo",
+                        "orden": 20,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 132,
+                        "cod": "412",
+                        "destino": "ENEA",
+                        "orden": 70,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "ENEA"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 723,
+                        "cod": "J18c",
+                        "destino": "El Tranque",
+                        "orden": 3,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Tranque"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 754,
+                        "cod": "541n",
+                        "destino": "El Tranque",
+                        "orden": 62,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Tranque"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 710,
+                        "cod": "J13c",
+                        "destino": "El Montijo",
+                        "orden": 3,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 36,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 24,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 2,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994886,
+                    "stopCoordenadaX": "-33.4419310",
+                    "stopCoordenadaY": "-70.7230780"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ559",
+                "distancia": 0.0
+            },
+            {
+                "id": 12269,
+                "cod": "PJ560",
+                "num": 0,
+                "pos": [
+                    -33.440673,
+                    -70.7229349
+                ],
+                "name": "Neptuno esq. Los Copihues",
+                "comuna": "LO PRADO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 25,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 37,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 754,
+                        "cod": "541n",
+                        "destino": "El Tranque",
+                        "orden": 63,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Tranque"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 723,
+                        "cod": "J18c",
+                        "destino": "El Tranque",
+                        "orden": 4,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Tranque"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 710,
+                        "cod": "J13c",
+                        "destino": "El Montijo",
+                        "orden": 4,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 708,
+                        "cod": "J13",
+                        "destino": "El Montijo",
+                        "orden": 21,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 721,
+                        "cod": "J18",
+                        "destino": "Enea",
+                        "orden": 4,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Enea"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 132,
+                        "cod": "412",
+                        "destino": "ENEA",
+                        "orden": 71,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "ENEA"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 3,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994887,
+                    "stopCoordenadaX": "-33.4406730",
+                    "stopCoordenadaY": "-70.7229349"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ560",
+                "distancia": 0.0
+            },
+            {
+                "id": 12267,
+                "cod": "PJ561",
+                "num": 0,
+                "pos": [
+                    -33.439003,
+                    -70.722383
+                ],
+                "name": "Neptuno esq. Av. San Francisco",
+                "comuna": "LO PRADO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 710,
+                        "cod": "J13c",
+                        "destino": "El Montijo",
+                        "orden": 5,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 4,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 723,
+                        "cod": "J18c",
+                        "destino": "El Tranque",
+                        "orden": 5,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Tranque"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 708,
+                        "cod": "J13",
+                        "destino": "El Montijo",
+                        "orden": 22,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 38,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 754,
+                        "cod": "541n",
+                        "destino": "El Tranque",
+                        "orden": 64,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Tranque"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 26,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 132,
+                        "cod": "412",
+                        "destino": "ENEA",
+                        "orden": 72,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "ENEA"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 721,
+                        "cod": "J18",
+                        "destino": "Enea",
+                        "orden": 5,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Enea"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994888,
+                    "stopCoordenadaX": "-33.4390030",
+                    "stopCoordenadaY": "-70.7223830"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ561",
+                "distancia": 0.0
+            },
+            {
+                "id": 12277,
+                "cod": "PJ562",
+                "num": 0,
+                "pos": [
+                    -33.4369131,
+                    -70.721559
+                ],
+                "name": "Neptuno esq. Camino De Loyola",
+                "comuna": "LO PRADO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 27,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 39,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 5,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 708,
+                        "cod": "J13",
+                        "destino": "El Montijo",
+                        "orden": 23,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 683,
+                        "cod": "J02",
+                        "destino": "(M) ULA",
+                        "orden": 23,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) ULA"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 710,
+                        "cod": "J13c",
+                        "destino": "El Montijo",
+                        "orden": 6,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994889,
+                    "stopCoordenadaX": "-33.4369131",
+                    "stopCoordenadaY": "-70.7215590"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ562",
+                "distancia": 0.0
+            },
+            {
+                "id": 11975,
+                "cod": "PJ563",
+                "num": 0,
+                "pos": [
+                    -33.4344811,
+                    -70.7210289
+                ],
+                "name": "Neptuno esq. Vicu\u00f1a Rozas",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 708,
+                        "cod": "J13",
+                        "destino": "El Montijo",
+                        "orden": 24,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 710,
+                        "cod": "J13c",
+                        "destino": "El Montijo",
+                        "orden": 7,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "El Montijo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 28,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 6,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 683,
+                        "cod": "J02",
+                        "destino": "(M) ULA",
+                        "orden": 24,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) ULA"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 40,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994890,
+                    "stopCoordenadaX": "-33.4344811",
+                    "stopCoordenadaY": "-70.7210289"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ563",
+                "distancia": 0.0
+            },
+            {
+                "id": 11974,
+                "cod": "PJ564",
+                "num": 0,
+                "pos": [
+                    -33.4308891,
+                    -70.7202459
+                ],
+                "name": "Neptuno esq. Av. Jos\u00e9 J. P\u00e9rez",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 7,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 41,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 29,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994891,
+                    "stopCoordenadaX": "-33.4308891",
+                    "stopCoordenadaY": "-70.7202459"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ564",
+                "distancia": 0.0
+            },
+            {
+                "id": 11973,
+                "cod": "PJ565",
+                "num": 0,
+                "pos": [
+                    -33.4279781,
+                    -70.7195189
+                ],
+                "name": "Neptuno esq. P. Lorenzo Eiting",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 42,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 30,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 8,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994892,
+                    "stopCoordenadaX": "-33.4279781",
+                    "stopCoordenadaY": "-70.7195189"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ565",
+                "distancia": 0.0
+            },
+            {
+                "id": 11972,
+                "cod": "PJ566",
+                "num": 0,
+                "pos": [
+                    -33.4258471,
+                    -70.718956
+                ],
+                "name": "Neptuno esq. Avenida Mapocho",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 9,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 31,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 43,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994893,
+                    "stopCoordenadaX": "-33.4258471",
+                    "stopCoordenadaY": "-70.7189560"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ566",
+                "distancia": 0.0
+            },
+            {
+                "id": 11971,
+                "cod": "PJ567",
+                "num": 0,
+                "pos": [
+                    -33.4230981,
+                    -70.718214
+                ],
+                "name": "Neptuno esq. Manantiales",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 32,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 44,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 10,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994894,
+                    "stopCoordenadaX": "-33.4230981",
+                    "stopCoordenadaY": "-70.7182140"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ567",
+                "distancia": 0.0
+            },
+            {
+                "id": 11970,
+                "cod": "PJ568",
+                "num": 0,
+                "pos": [
+                    -33.4219281,
+                    -70.7179555
+                ],
+                "name": "Neptuno esq. Salvador Guti\u00e9rrez",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 11,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 33,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 698,
+                        "cod": "J08",
+                        "destino": "Lo Franco",
+                        "orden": 45,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Franco"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994895,
+                    "stopCoordenadaX": "-33.4219281",
+                    "stopCoordenadaY": "-70.7179555"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ568",
+                "distancia": 0.0
+            },
+            {
+                "id": 11969,
+                "cod": "PJ569",
+                "num": 0,
+                "pos": [
+                    -33.4187198,
+                    -70.7172027
+                ],
+                "name": "Neptuno esq. Sara Gajardo",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 34,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 12,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994896,
+                    "stopCoordenadaX": "-33.4187198",
+                    "stopCoordenadaY": "-70.7172027"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ569",
+                "distancia": 0.0
+            },
+            {
+                "id": 11968,
+                "cod": "PJ570",
+                "num": 0,
+                "pos": [
+                    -33.4176681,
+                    -70.7169459
+                ],
+                "name": "Neptuno esq. Heriberto Rojas",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 13,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 35,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994897,
+                    "stopCoordenadaX": "-33.4176681",
+                    "stopCoordenadaY": "-70.7169459"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ570",
+                "distancia": 0.0
+            },
+            {
+                "id": 11976,
+                "cod": "PJ571",
+                "num": 0,
+                "pos": [
+                    -33.4153365,
+                    -70.7159638
+                ],
+                "name": "Neptuno esq. Avenida Carrascal",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 36,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Carrascal",
+                        "orden": 14,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Carrascal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994898,
+                    "stopCoordenadaX": "-33.4153365",
+                    "stopCoordenadaY": "-70.7159638"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ571",
+                "distancia": 0.0
+            },
+            {
+                "id": 12035,
+                "cod": "PJ572",
+                "num": 0,
+                "pos": [
+                    -33.4154671,
+                    -70.7113277
+                ],
+                "name": "Samuel Izquierdo esq. Emilio Campod\u00f3nico",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 680,
+                        "cod": "J01",
+                        "destino": "(M) Quinta Normal",
+                        "orden": 37,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Quinta Normal"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 1023,
+                        "cod": "J01c",
+                        "destino": "Fin de recorrido",
+                        "orden": 15,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994899,
+                    "stopCoordenadaX": "-33.4154671",
+                    "stopCoordenadaY": "-70.7113277"
+                },
+                "eje": "Samuel Izquierdo",
+                "codSimt": "PJ572",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "Carrascal",
+        "itinerario": false
+    },
+    "regreso": {
+        "id": 682,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "06:30",
+                "fin": "08:47"
+            }
+        ],
+        "path": [
+            [
+                -33.4143310005,
+                -70.7143630001
+            ],
+            [
+                -33.4144010005,
+                -70.7144040001
+            ],
+            [
+                -33.4149420005,
+                -70.7146620001
+            ],
+            [
+                -33.4154100005,
+                -70.7148920001
+            ],
+            [
+                -33.4154640005,
+                -70.7149230001
+            ],
+            [
+                -33.4150940005,
+                -70.7158600001
+            ],
+            [
+                -33.4151730005,
+                -70.7159170001
+            ],
+            [
+                -33.4153670005,
+                -70.7160510001
+            ],
+            [
+                -33.4153690005,
+                -70.7160530001
+            ],
+            [
+                -33.4155380005,
+                -70.7161560001
+            ],
+            [
+                -33.4156610005,
+                -70.7162330001
+            ],
+            [
+                -33.4158690005,
+                -70.7163640001
+            ],
+            [
+                -33.4160530005,
+                -70.7164780001
+            ],
+            [
+                -33.4162060005,
+                -70.7165740001
+            ],
+            [
+                -33.4163990005,
+                -70.7166970001
+            ],
+            [
+                -33.4164690005,
+                -70.7167200001
+            ],
+            [
+                -33.4165740005,
+                -70.7167530001
+            ],
+            [
+                -33.4173530005,
+                -70.7169270001
+            ],
+            [
+                -33.4174520005,
+                -70.7169500001
+            ],
+            [
+                -33.4179540005,
+                -70.7170730001
+            ],
+            [
+                -33.4184830005,
+                -70.7171930001
+            ],
+            [
+                -33.4185540005,
+                -70.7172100001
+            ],
+            [
+                -33.4192290005,
+                -70.7173670001
+            ],
+            [
+                -33.4194780005,
+                -70.7174120001
+            ],
+            [
+                -33.4211510005,
+                -70.7178200001
+            ],
+            [
+                -33.4216660005,
+                -70.7179460001
+            ],
+            [
+                -33.4217550005,
+                -70.7179660001
+            ],
+            [
+                -33.4223070005,
+                -70.7181050001
+            ],
+            [
+                -33.4223650005,
+                -70.7181030001
+            ],
+            [
+                -33.4224270005,
+                -70.7181080001
+            ],
+            [
+                -33.4239940005,
+                -70.7184930001
+            ],
+            [
+                -33.4240770005,
+                -70.7185410001
+            ],
+            [
+                -33.4242460005,
+                -70.7185980001
+            ],
+            [
+                -33.4248520005,
+                -70.7187550001
+            ],
+            [
+                -33.4255970005,
+                -70.7189530001
+            ],
+            [
+                -33.4267220005,
+                -70.7192470001
+            ],
+            [
+                -33.4268130005,
+                -70.7192700001
+            ],
+            [
+                -33.4276350005,
+                -70.7194870001
+            ],
+            [
+                -33.4277070005,
+                -70.7195050001
+            ],
+            [
+                -33.4286150005,
+                -70.7197420001
+            ],
+            [
+                -33.4296290005,
+                -70.7200090001
+            ],
+            [
+                -33.4304630005,
+                -70.7202180001
+            ],
+            [
+                -33.4306180005,
+                -70.7202550001
+            ],
+            [
+                -33.4306850005,
+                -70.7202720001
+            ],
+            [
+                -33.4317330005,
+                -70.7205000001
+            ],
+            [
+                -33.4318240005,
+                -70.7205150001
+            ],
+            [
+                -33.4318890005,
+                -70.7205260001
+            ],
+            [
+                -33.4322040005,
+                -70.7206000001
+            ],
+            [
+                -33.4322050005,
+                -70.7206000001
+            ],
+            [
+                -33.4325380005,
+                -70.7206690001
+            ],
+            [
+                -33.4326510005,
+                -70.7206920001
+            ],
+            [
+                -33.4330780005,
+                -70.7207780001
+            ],
+            [
+                -33.4336620005,
+                -70.7209090001
+            ],
+            [
+                -33.4341570005,
+                -70.7210190001
+            ],
+            [
+                -33.4352090005,
+                -70.7212420001
+            ],
+            [
+                -33.4352140005,
+                -70.7212440001
+            ],
+            [
+                -33.4366290005,
+                -70.7215460001
+            ],
+            [
+                -33.4367050005,
+                -70.7215420001
+            ],
+            [
+                -33.4369410005,
+                -70.7216180001
+            ],
+            [
+                -33.4371770005,
+                -70.7217050001
+            ],
+            [
+                -33.4375900005,
+                -70.7218740001
+            ],
+            [
+                -33.4379300005,
+                -70.7220130001
+            ],
+            [
+                -33.4384590005,
+                -70.7222260001
+            ],
+            [
+                -33.4385850005,
+                -70.7222840001
+            ],
+            [
+                -33.4387380005,
+                -70.7223350001
+            ],
+            [
+                -33.4389370005,
+                -70.7224150001
+            ],
+            [
+                -33.4397470005,
+                -70.7227480001
+            ],
+            [
+                -33.4400410005,
+                -70.7228750001
+            ],
+            [
+                -33.4400900005,
+                -70.7229230001
+            ],
+            [
+                -33.4404240005,
+                -70.7229480001
+            ],
+            [
+                -33.4414330005,
+                -70.7230790001
+            ],
+            [
+                -33.4416940005,
+                -70.7231060001
+            ],
+            [
+                -33.4425500005,
+                -70.7232020001
+            ],
+            [
+                -33.4426200005,
+                -70.7231790001
+            ],
+            [
+                -33.4430130005,
+                -70.7232320001
+            ],
+            [
+                -33.4433850005,
+                -70.7232680001
+            ],
+            [
+                -33.4434400005,
+                -70.7233110001
+            ],
+            [
+                -33.4442580005,
+                -70.7234370001
+            ],
+            [
+                -33.4448110005,
+                -70.7234320001
+            ],
+            [
+                -33.4456670005,
+                -70.7233780001
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 11942,
+                "cod": "PJ604",
+                "num": 0,
+                "pos": [
+                    -33.4150332,
+                    -70.7147569
+                ],
+                "name": "La Frontera esq. Avenida Carrascal",
+                "comuna": "QUINTA NORMAL",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 1,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 26,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994934,
+                    "stopCoordenadaX": "-33.4150332",
+                    "stopCoordenadaY": "-70.7147569"
+                },
+                "eje": "La Frontera",
+                "codSimt": "PJ604",
+                "distancia": 0.0
+            },
+            {
+                "id": 13083,
+                "cod": "PJ605",
+                "num": 0,
+                "pos": [
+                    -33.4155448,
+                    -70.7162416
+                ],
+                "name": "Neptuno esq. Ralf Bunche",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 27,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 2,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994935,
+                    "stopCoordenadaX": "-33.4155448",
+                    "stopCoordenadaY": "-70.7162416"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ605",
+                "distancia": 0.0
+            },
+            {
+                "id": 13074,
+                "cod": "PJ606",
+                "num": 0,
+                "pos": [
+                    -33.4172781,
+                    -70.7169888
+                ],
+                "name": "Neptuno esq. Heriberto Rojas",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 28,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 3,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994936,
+                    "stopCoordenadaX": "-33.4172781",
+                    "stopCoordenadaY": "-70.7169888"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ606",
+                "distancia": 0.0
+            },
+            {
+                "id": 13075,
+                "cod": "PJ607",
+                "num": 0,
+                "pos": [
+                    -33.4184309,
+                    -70.7172388
+                ],
+                "name": "Neptuno esq. Sara Gajardo",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 29,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 4,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994937,
+                    "stopCoordenadaX": "-33.4184309",
+                    "stopCoordenadaY": "-70.7172388"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ607",
+                "distancia": 0.0
+            },
+            {
+                "id": 13076,
+                "cod": "PJ608",
+                "num": 0,
+                "pos": [
+                    -33.4215466,
+                    -70.7179828
+                ],
+                "name": "Neptuno esq. Salvador Guti\u00e9rrez",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 5,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 30,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994938,
+                    "stopCoordenadaX": "-33.4215466",
+                    "stopCoordenadaY": "-70.7179828"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ608",
+                "distancia": 0.0
+            },
+            {
+                "id": 13079,
+                "cod": "PJ609",
+                "num": 0,
+                "pos": [
+                    -33.4252891,
+                    -70.7189249
+                ],
+                "name": "Neptuno esq. Avenida Mapocho",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 15,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 6,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 31,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994939,
+                    "stopCoordenadaX": "-33.4252891",
+                    "stopCoordenadaY": "-70.7189249"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ609",
+                "distancia": 0.0
+            },
+            {
+                "id": 13077,
+                "cod": "PJ610",
+                "num": 0,
+                "pos": [
+                    -33.4273781,
+                    -70.7194839
+                ],
+                "name": "Neptuno esq. Cauquenes",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 16,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 7,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 32,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994940,
+                    "stopCoordenadaX": "-33.4273781",
+                    "stopCoordenadaY": "-70.7194839"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ610",
+                "distancia": 0.0
+            },
+            {
+                "id": 13078,
+                "cod": "PJ611",
+                "num": 0,
+                "pos": [
+                    -33.4301501,
+                    -70.7202179
+                ],
+                "name": "Neptuno esq. Av. Jos\u00e9 J. P\u00e9rez",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 8,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 17,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 33,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994941,
+                    "stopCoordenadaX": "-33.4301501",
+                    "stopCoordenadaY": "-70.7202179"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ611",
+                "distancia": 0.0
+            },
+            {
+                "id": 13080,
+                "cod": "PJ612",
+                "num": 0,
+                "pos": [
+                    -33.4314761,
+                    -70.720499
+                ],
+                "name": "Neptuno esq. Membrillar",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 9,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 18,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 34,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994942,
+                    "stopCoordenadaX": "-33.4314761",
+                    "stopCoordenadaY": "-70.7204990"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ612",
+                "distancia": 0.0
+            },
+            {
+                "id": 13081,
+                "cod": "PJ613",
+                "num": 0,
+                "pos": [
+                    -33.4338431,
+                    -70.721001
+                ],
+                "name": "Neptuno esq. Vicu\u00f1a Rozas",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 19,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 10,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 35,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994943,
+                    "stopCoordenadaX": "-33.4338431",
+                    "stopCoordenadaY": "-70.7210010"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ613",
+                "distancia": 0.0
+            },
+            {
+                "id": 13082,
+                "cod": "PJ614",
+                "num": 0,
+                "pos": [
+                    -33.4363441,
+                    -70.7215419
+                ],
+                "name": "Neptuno esq. Camino de Loyola",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 711,
+                        "cod": "J13c",
+                        "destino": "(M) San Pablo",
+                        "orden": 28,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 36,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 709,
+                        "cod": "J13",
+                        "destino": "(M) Estaci\u00f3n Central",
+                        "orden": 31,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Estaci\u00f3n Central"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 11,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 20,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 684,
+                        "cod": "J02",
+                        "destino": "Enea",
+                        "orden": 23,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Enea"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994944,
+                    "stopCoordenadaX": "-33.4363441",
+                    "stopCoordenadaY": "-70.7215419"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ614",
+                "distancia": 0.0
+            },
+            {
+                "id": 13084,
+                "cod": "PJ615",
+                "num": 0,
+                "pos": [
+                    -33.4383201,
+                    -70.7222189
+                ],
+                "name": "Neptuno esq. Av. San Francisco",
+                "comuna": "CERRO NAVIA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 711,
+                        "cod": "J13c",
+                        "destino": "(M) San Pablo",
+                        "orden": 29,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 21,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 709,
+                        "cod": "J13",
+                        "destino": "(M) Estaci\u00f3n Central",
+                        "orden": 32,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Estaci\u00f3n Central"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 12,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 37,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 684,
+                        "cod": "J02",
+                        "destino": "Enea",
+                        "orden": 24,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Enea"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994945,
+                    "stopCoordenadaX": "-33.4383201",
+                    "stopCoordenadaY": "-70.7222189"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ615",
+                "distancia": 0.0
+            },
+            {
+                "id": 12268,
+                "cod": "PJ616",
+                "num": 0,
+                "pos": [
+                    -33.440193,
+                    -70.723001
+                ],
+                "name": "Neptuno esq. Los Copihues",
+                "comuna": "LO PRADO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 13,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 720,
+                        "cod": "J18",
+                        "destino": "(M) San Pablo",
+                        "orden": 30,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 22,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 709,
+                        "cod": "J13",
+                        "destino": "(M) Estaci\u00f3n Central",
+                        "orden": 33,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Estaci\u00f3n Central"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 753,
+                        "cod": "541n",
+                        "destino": "Col\u00f3n",
+                        "orden": 32,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Col\u00f3n"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 131,
+                        "cod": "412",
+                        "destino": "La Reina",
+                        "orden": 43,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "La Reina"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 38,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 722,
+                        "cod": "J18c",
+                        "destino": "(M) San Pablo",
+                        "orden": 23,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 711,
+                        "cod": "J13c",
+                        "destino": "(M) San Pablo",
+                        "orden": 30,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994946,
+                    "stopCoordenadaX": "-33.4401930",
+                    "stopCoordenadaY": "-70.7230010"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ616",
+                "distancia": 0.0
+            },
+            {
+                "id": 12270,
+                "cod": "PJ617",
+                "num": 0,
+                "pos": [
+                    -33.4418535,
+                    -70.7231591
+                ],
+                "name": "Neptuno esq. Santa Luisa",
+                "comuna": "LO PRADO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 720,
+                        "cod": "J18",
+                        "destino": "(M) San Pablo",
+                        "orden": 31,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 753,
+                        "cod": "541n",
+                        "destino": "Col\u00f3n",
+                        "orden": 33,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Col\u00f3n"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 699,
+                        "cod": "J08",
+                        "destino": "Pudahuel Sur",
+                        "orden": 23,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 131,
+                        "cod": "412",
+                        "destino": "La Reina",
+                        "orden": 44,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "La Reina"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 722,
+                        "cod": "J18c",
+                        "destino": "(M) San Pablo",
+                        "orden": 24,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 709,
+                        "cod": "J13",
+                        "destino": "(M) Estaci\u00f3n Central",
+                        "orden": 34,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Estaci\u00f3n Central"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 681,
+                        "cod": "J01",
+                        "destino": "Pudahuel Sur",
+                        "orden": 39,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Pudahuel Sur"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "(M) San Pablo",
+                        "orden": 14,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 711,
+                        "cod": "J13c",
+                        "destino": "(M) San Pablo",
+                        "orden": 31,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) San Pablo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994947,
+                    "stopCoordenadaX": "-33.4418535",
+                    "stopCoordenadaY": "-70.7231591"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ617",
+                "distancia": 0.0
+            },
+            {
+                "id": 12272,
+                "cod": "PJ618",
+                "num": 9,
+                "pos": [
+                    -33.443844,
+                    -70.723419
+                ],
+                "name": "Neptuno esq. Av. San Pablo",
+                "comuna": "LO PRADO",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 709,
+                        "cod": "J13",
+                        "destino": "(M) Estaci\u00f3n Central",
+                        "orden": 35,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Estaci\u00f3n Central"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 722,
+                        "cod": "J18c",
+                        "destino": "Fin de recorrido",
+                        "orden": 25,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 711,
+                        "cod": "J13c",
+                        "destino": "Fin de recorrido",
+                        "orden": 32,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 720,
+                        "cod": "J18",
+                        "destino": "Fin de recorrido",
+                        "orden": 32,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    },
+                    {
+                        "id": 131,
+                        "cod": "412",
+                        "destino": "La Reina",
+                        "orden": 45,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "La Reina"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 682,
+                        "cod": "J01c",
+                        "destino": "Fin de recorrido",
+                        "orden": 15,
+                        "color": "#0093B3",
+                        "negocio": {
+                            "nombre": "Buses Metropolitana S.A.",
+                            "color": "#0093B3"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U5"
+                    }
+                ],
+                "stop": {
+                    "stopId": 994966,
+                    "stopCoordenadaX": "-33.4438440",
+                    "stopCoordenadaY": "-70.7234190"
+                },
+                "eje": "Neptuno",
+                "codSimt": "PJ618",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "(M) San Pablo",
+        "itinerario": false
+    }
+}

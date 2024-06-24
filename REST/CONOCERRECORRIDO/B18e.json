@@ -1,0 +1,3267 @@
+{
+    "negocio": {
+        "id": 8,
+        "nombre": "Alfa US1",
+        "color": "#CF152D",
+        "url": "https://www.dtpm.cl/index.php/sistema-transporte-publico-santiago/buses"
+    },
+    "ida": {
+        "id": 1311,
+        "horarios": [
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "05:30",
+                "fin": "23:00"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "05:30",
+                "fin": "00:00"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "05:30",
+                "fin": "23:00"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "05:30",
+                "fin": "00:00"
+            },
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "05:30",
+                "fin": "22:40"
+            }
+        ],
+        "path": [
+            [
+                -33.3753500005,
+                -70.7246170001
+            ],
+            [
+                -33.3763830005,
+                -70.7252830001
+            ],
+            [
+                -33.3764990005,
+                -70.7252060001
+            ],
+            [
+                -33.3768120005,
+                -70.7247930001
+            ],
+            [
+                -33.3769710005,
+                -70.7245950001
+            ],
+            [
+                -33.3772370005,
+                -70.7242610001
+            ],
+            [
+                -33.3782140005,
+                -70.7230380001
+            ],
+            [
+                -33.3785210005,
+                -70.7226530001
+            ],
+            [
+                -33.3785670005,
+                -70.7226710001
+            ],
+            [
+                -33.3795420005,
+                -70.7232910001
+            ],
+            [
+                -33.3803250005,
+                -70.7237740001
+            ],
+            [
+                -33.3804730005,
+                -70.7238790001
+            ],
+            [
+                -33.3805430005,
+                -70.7239270001
+            ],
+            [
+                -33.3805800005,
+                -70.7239410001
+            ],
+            [
+                -33.3805120005,
+                -70.7240870001
+            ],
+            [
+                -33.3793600005,
+                -70.7254960001
+            ],
+            [
+                -33.3786130005,
+                -70.7263950001
+            ],
+            [
+                -33.3766100005,
+                -70.7251050001
+            ],
+            [
+                -33.3764990005,
+                -70.7252060001
+            ],
+            [
+                -33.3763940005,
+                -70.7253150001
+            ],
+            [
+                -33.3760770005,
+                -70.7257220001
+            ],
+            [
+                -33.3758500005,
+                -70.7260050001
+            ],
+            [
+                -33.3756250005,
+                -70.7262820001
+            ],
+            [
+                -33.3753060005,
+                -70.7266850001
+            ],
+            [
+                -33.3750770005,
+                -70.7269670001
+            ],
+            [
+                -33.3750340005,
+                -70.7270170001
+            ],
+            [
+                -33.3748510005,
+                -70.7272590001
+            ],
+            [
+                -33.3738560005,
+                -70.7285010001
+            ],
+            [
+                -33.3728270005,
+                -70.7297810001
+            ],
+            [
+                -33.3726760005,
+                -70.7299370001
+            ],
+            [
+                -33.3727990005,
+                -70.7289060001
+            ],
+            [
+                -33.3728460005,
+                -70.7284750001
+            ],
+            [
+                -33.3735070005,
+                -70.7227800001
+            ],
+            [
+                -33.3735800005,
+                -70.7220700001
+            ],
+            [
+                -33.3738740005,
+                -70.7196430001
+            ],
+            [
+                -33.3738790005,
+                -70.7195590001
+            ],
+            [
+                -33.3738830005,
+                -70.7194390001
+            ],
+            [
+                -33.3739270005,
+                -70.7192650001
+            ],
+            [
+                -33.3741190005,
+                -70.7176860001
+            ],
+            [
+                -33.3742270005,
+                -70.7168120001
+            ],
+            [
+                -33.3742800005,
+                -70.7163000001
+            ],
+            [
+                -33.3743000005,
+                -70.7157690001
+            ],
+            [
+                -33.3743080005,
+                -70.7155710001
+            ],
+            [
+                -33.3743110005,
+                -70.7152460001
+            ],
+            [
+                -33.3743110005,
+                -70.7151600001
+            ],
+            [
+                -33.3742900005,
+                -70.7147890001
+            ],
+            [
+                -33.3742570005,
+                -70.7144230001
+            ],
+            [
+                -33.3742380005,
+                -70.7143020001
+            ],
+            [
+                -33.3742070005,
+                -70.7141010001
+            ],
+            [
+                -33.3740920005,
+                -70.7134530001
+            ],
+            [
+                -33.3740230005,
+                -70.7131090001
+            ],
+            [
+                -33.3739380005,
+                -70.7127650001
+            ],
+            [
+                -33.3738260005,
+                -70.7124180001
+            ],
+            [
+                -33.3737570005,
+                -70.7122200001
+            ],
+            [
+                -33.3736540005,
+                -70.7119660001
+            ],
+            [
+                -33.3736120005,
+                -70.7119080001
+            ],
+            [
+                -33.3735250005,
+                -70.7117030001
+            ],
+            [
+                -33.3733440005,
+                -70.7113050001
+            ],
+            [
+                -33.3731390005,
+                -70.7109310001
+            ],
+            [
+                -33.3729130005,
+                -70.7105520001
+            ],
+            [
+                -33.3723410005,
+                -70.7096580001
+            ],
+            [
+                -33.3721800005,
+                -70.7093550001
+            ],
+            [
+                -33.3712810005,
+                -70.7079240001
+            ],
+            [
+                -33.3702690005,
+                -70.7063090001
+            ],
+            [
+                -33.3700130005,
+                -70.7060430001
+            ],
+            [
+                -33.3699490005,
+                -70.7059970001
+            ],
+            [
+                -33.3697610005,
+                -70.7057080001
+            ],
+            [
+                -33.3693410005,
+                -70.7050420001
+            ],
+            [
+                -33.3688800005,
+                -70.7043200001
+            ],
+            [
+                -33.3686400005,
+                -70.7039410001
+            ],
+            [
+                -33.3684060005,
+                -70.7036070001
+            ],
+            [
+                -33.3679480005,
+                -70.7029680001
+            ],
+            [
+                -33.3677100005,
+                -70.7026330001
+            ],
+            [
+                -33.3676670005,
+                -70.7025680001
+            ],
+            [
+                -33.3676200005,
+                -70.7024980001
+            ],
+            [
+                -33.3673670005,
+                -70.7021640001
+            ],
+            [
+                -33.3670430005,
+                -70.7017080001
+            ],
+            [
+                -33.3669410005,
+                -70.7015710001
+            ],
+            [
+                -33.3669290005,
+                -70.7015550001
+            ],
+            [
+                -33.3667450005,
+                -70.7012830001
+            ],
+            [
+                -33.3665820005,
+                -70.7010100001
+            ],
+            [
+                -33.3665140005,
+                -70.7008070001
+            ],
+            [
+                -33.3664050005,
+                -70.7005320001
+            ],
+            [
+                -33.3663190005,
+                -70.7002930001
+            ],
+            [
+                -33.3663180005,
+                -70.7002900001
+            ],
+            [
+                -33.3662810005,
+                -70.7001770001
+            ],
+            [
+                -33.3662660005,
+                -70.7001310001
+            ],
+            [
+                -33.3662450005,
+                -70.7000670001
+            ],
+            [
+                -33.3662250005,
+                -70.6999940001
+            ],
+            [
+                -33.3662100005,
+                -70.6999390001
+            ],
+            [
+                -33.3661810005,
+                -70.6998100001
+            ],
+            [
+                -33.3661380005,
+                -70.6995980001
+            ],
+            [
+                -33.3661130005,
+                -70.6994780001
+            ],
+            [
+                -33.3660580005,
+                -70.6991490001
+            ],
+            [
+                -33.3660230005,
+                -70.6987010001
+            ],
+            [
+                -33.3659890005,
+                -70.6982590001
+            ],
+            [
+                -33.3659730005,
+                -70.6979300001
+            ],
+            [
+                -33.3659720005,
+                -70.6975390001
+            ],
+            [
+                -33.3659390005,
+                -70.6966850001
+            ],
+            [
+                -33.3659510005,
+                -70.6960620001
+            ],
+            [
+                -33.3659900005,
+                -70.6960180001
+            ],
+            [
+                -33.3660130005,
+                -70.6957170001
+            ],
+            [
+                -33.3660560005,
+                -70.6953960001
+            ],
+            [
+                -33.3660810005,
+                -70.6950960001
+            ],
+            [
+                -33.3660670005,
+                -70.6948170001
+            ],
+            [
+                -33.3660570005,
+                -70.6945980001
+            ],
+            [
+                -33.3660590005,
+                -70.6943690001
+            ],
+            [
+                -33.3661240005,
+                -70.6933680001
+            ],
+            [
+                -33.3662200005,
+                -70.6918720001
+            ],
+            [
+                -33.3662460005,
+                -70.6915390001
+            ],
+            [
+                -33.3663080005,
+                -70.6907420001
+            ],
+            [
+                -33.3663440005,
+                -70.6902840001
+            ],
+            [
+                -33.3664230005,
+                -70.6899180001
+            ],
+            [
+                -33.3664900005,
+                -70.6896090001
+            ],
+            [
+                -33.3665230005,
+                -70.6894530001
+            ],
+            [
+                -33.3665520005,
+                -70.6893420001
+            ],
+            [
+                -33.3665770005,
+                -70.6891590001
+            ],
+            [
+                -33.3663320005,
+                -70.6891170001
+            ],
+            [
+                -33.3663180005,
+                -70.6891140001
+            ],
+            [
+                -33.3660790005,
+                -70.6890710001
+            ],
+            [
+                -33.3660720005,
+                -70.6890700001
+            ],
+            [
+                -33.3659890005,
+                -70.6890580001
+            ],
+            [
+                -33.3659740005,
+                -70.6890540001
+            ],
+            [
+                -33.3659200005,
+                -70.6890380001
+            ],
+            [
+                -33.3659160005,
+                -70.6890870001
+            ],
+            [
+                -33.3658660005,
+                -70.6896780001
+            ],
+            [
+                -33.3658420005,
+                -70.6898130001
+            ],
+            [
+                -33.3658340005,
+                -70.6899170001
+            ],
+            [
+                -33.3658240005,
+                -70.6900360001
+            ],
+            [
+                -33.3658150005,
+                -70.6901450001
+            ],
+            [
+                -33.3657910005,
+                -70.6902870001
+            ],
+            [
+                -33.3657620005,
+                -70.6907320001
+            ],
+            [
+                -33.3657330005,
+                -70.6910880001
+            ],
+            [
+                -33.3656660005,
+                -70.6922610001
+            ],
+            [
+                -33.3655820005,
+                -70.6934600001
+            ],
+            [
+                -33.3654920005,
+                -70.6935010001
+            ],
+            [
+                -33.3643640005,
+                -70.6935700001
+            ],
+            [
+                -33.3642790005,
+                -70.6933940001
+            ],
+            [
+                -33.3642720005,
+                -70.6932570001
+            ],
+            [
+                -33.3643630005,
+                -70.6931080001
+            ],
+            [
+                -33.3652430005,
+                -70.6931380001
+            ],
+            [
+                -33.3652620005,
+                -70.6920540001
+            ],
+            [
+                -33.3652890005,
+                -70.6910150001
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 2408,
+                "cod": "PB1679",
+                "num": 0,
+                "pos": [
+                    -33.378449,
+                    -70.72282
+                ],
+                "name": "Ismael Brice\u00f1o esq. Alc. Juan Larenas",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 1,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 1,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 1,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998029,
+                    "stopCoordenadaX": "-33.3784490",
+                    "stopCoordenadaY": "-70.7228200"
+                },
+                "eje": "Ismael Brice\u00f1o",
+                "codSimt": "PB1679",
+                "distancia": 0.0
+            },
+            {
+                "id": 13261,
+                "cod": "PB1876",
+                "num": 0,
+                "pos": [
+                    -33.3798986,
+                    -70.7247613
+                ],
+                "name": "Pedro Riveros esq. Avenida Las Torres",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 2,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 2,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 2,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998030,
+                    "stopCoordenadaX": "-33.3798986",
+                    "stopCoordenadaY": "-70.7247613"
+                },
+                "eje": "Pedro Riveros",
+                "codSimt": "PB1876",
+                "distancia": 0.0
+            },
+            {
+                "id": 2485,
+                "cod": "PB1685",
+                "num": 0,
+                "pos": [
+                    -33.3787296,
+                    -70.7262026
+                ],
+                "name": "Pedro Riveros esq. Avenida Las Torres",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 3,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 3,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 3,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998031,
+                    "stopCoordenadaX": "-33.3787296",
+                    "stopCoordenadaY": "-70.7262026"
+                },
+                "eje": "Pedro Riveros",
+                "codSimt": "PB1685",
+                "distancia": 0.0
+            },
+            {
+                "id": 2407,
+                "cod": "PB1339",
+                "num": 0,
+                "pos": [
+                    -33.375747,
+                    -70.726042
+                ],
+                "name": "Ismael Brice\u00f1o esq. Calle 1",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 4,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 4,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 4,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998032,
+                    "stopCoordenadaX": "-33.3757470",
+                    "stopCoordenadaY": "-70.7260420"
+                },
+                "eje": "Ismael Brice\u00f1o",
+                "codSimt": "PB1339",
+                "distancia": 0.0
+            },
+            {
+                "id": 13228,
+                "cod": "PB1869",
+                "num": 0,
+                "pos": [
+                    -33.3744299,
+                    -70.7278099
+                ],
+                "name": "Ismael Brice\u00f1o esq. Av. A. Vespucio",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 5,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 5,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 5,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998033,
+                    "stopCoordenadaX": "-33.3744299",
+                    "stopCoordenadaY": "-70.7278099"
+                },
+                "eje": "Ismael Brice\u00f1o",
+                "codSimt": "PB1869",
+                "distancia": 0.0
+            },
+            {
+                "id": 2405,
+                "cod": "PB1340",
+                "num": 0,
+                "pos": [
+                    -33.3730629,
+                    -70.729391
+                ],
+                "name": "Ismael Brice\u00f1o esq. Av. A. Vespucio",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 6,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 6,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 6,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998034,
+                    "stopCoordenadaX": "-33.3730629",
+                    "stopCoordenadaY": "-70.7293910"
+                },
+                "eje": "Ismael Brice\u00f1o",
+                "codSimt": "PB1340",
+                "distancia": 0.0
+            },
+            {
+                "id": 2213,
+                "cod": "PB490",
+                "num": 0,
+                "pos": [
+                    -33.373495,
+                    -70.723211
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. Alc. Juan Larenas",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 7,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 7,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1086,
+                        "cod": "428e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 13,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1089,
+                        "cod": "429c",
+                        "destino": "(M) Tobalaba",
+                        "orden": 6,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Tobalaba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 7,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996793,
+                    "stopCoordenadaX": "-33.3734950",
+                    "stopCoordenadaY": "-70.7232110"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB490",
+                "distancia": 0.0
+            },
+            {
+                "id": 2214,
+                "cod": "PB491",
+                "num": 0,
+                "pos": [
+                    -33.3743342,
+                    -70.7157729
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. Lo Campino",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 9,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 8,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1086,
+                        "cod": "428e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 15,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1089,
+                        "cod": "429c",
+                        "destino": "(M) Tobalaba",
+                        "orden": 8,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Tobalaba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 8,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996795,
+                    "stopCoordenadaX": "-33.3743342",
+                    "stopCoordenadaY": "-70.7157729"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB491",
+                "distancia": 0.0
+            },
+            {
+                "id": 2215,
+                "cod": "PB468",
+                "num": 0,
+                "pos": [
+                    -33.3713933,
+                    -70.707989
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. Luis Olea",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 975,
+                        "cod": "430",
+                        "destino": "La Dehesa",
+                        "orden": 18,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "La Dehesa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1094,
+                        "cod": "435",
+                        "destino": "Vitacura",
+                        "orden": 18,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Vitacura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 265,
+                        "cod": "315e",
+                        "destino": "(M) Santa Luc\u00eda",
+                        "orden": 31,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Santa Luc\u00eda"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1089,
+                        "cod": "429c",
+                        "destino": "(M) Tobalaba",
+                        "orden": 9,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Tobalaba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1309,
+                        "cod": "B18",
+                        "destino": "(M) Vespucio Norte",
+                        "orden": 9,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Vespucio Norte"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 95,
+                        "cod": "308",
+                        "destino": "Mapocho",
+                        "orden": 24,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Mapocho"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1050,
+                        "cod": "B11",
+                        "destino": "El Salto",
+                        "orden": 21,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "El Salto"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1081,
+                        "cod": "425",
+                        "destino": "Lo Hermida",
+                        "orden": 27,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Hermida"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1319,
+                        "cod": "B32",
+                        "destino": "Muni. Quilicura",
+                        "orden": 10,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Muni. Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1086,
+                        "cod": "428e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 16,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 97,
+                        "cod": "314",
+                        "destino": "Plaza Italia",
+                        "orden": 23,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Plaza Italia"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 9,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 990854,
+                    "stopCoordenadaX": "-33.3713933",
+                    "stopCoordenadaY": "-70.7079890"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB468",
+                "distancia": 0.0
+            },
+            {
+                "id": 13574,
+                "cod": "PB1979",
+                "num": 1,
+                "pos": [
+                    -33.3652496,
+                    -70.6927348
+                ],
+                "name": "EIM Los Libertadores esq. Cal. Gral. Sn. Mart\u00edn",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1229,
+                        "cod": "B33",
+                        "destino": "Fin de recorrido",
+                        "orden": 25,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 1224,
+                        "cod": "B04",
+                        "destino": "Fin de recorrido",
+                        "orden": 39,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "Omega US2",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U9"
+                    },
+                    {
+                        "id": 1210,
+                        "cod": "B05",
+                        "destino": "Fin de recorrido",
+                        "orden": 41,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1086,
+                        "cod": "428e",
+                        "destino": "Fin de recorrido",
+                        "orden": 17,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1311,
+                        "cod": "B18e",
+                        "destino": "Fin de recorrido",
+                        "orden": 10,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 802,
+                        "cod": "307c",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 19,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1318,
+                        "cod": "B26",
+                        "destino": "Fin de recorrido",
+                        "orden": 59,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1322,
+                        "cod": "B36",
+                        "destino": "Fin de recorrido",
+                        "orden": 21,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 991294,
+                    "stopCoordenadaX": "-33.3652496",
+                    "stopCoordenadaY": "-70.6927348"
+                },
+                "eje": "EIM Los Libertadores",
+                "codSimt": "PB1979",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "(M) Los Libertadores",
+        "itinerario": false
+    },
+    "regreso": {
+        "id": 1312,
+        "horarios": [
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "05:00",
+                "fin": "23:30"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "05:00",
+                "fin": "22:30"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "05:00",
+                "fin": "23:30"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "05:00",
+                "fin": "22:30"
+            },
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "05:30",
+                "fin": "22:40"
+            }
+        ],
+        "path": [
+            [
+                -33.3652890005,
+                -70.6910150001
+            ],
+            [
+                -33.3653690005,
+                -70.6909140001
+            ],
+            [
+                -33.3655170005,
+                -70.6908960001
+            ],
+            [
+                -33.3655720005,
+                -70.6910390001
+            ],
+            [
+                -33.3656660005,
+                -70.6922610001
+            ],
+            [
+                -33.3657840005,
+                -70.6939080001
+            ],
+            [
+                -33.3658340005,
+                -70.6942260001
+            ],
+            [
+                -33.3658290005,
+                -70.6949510001
+            ],
+            [
+                -33.3658280005,
+                -70.6951350001
+            ],
+            [
+                -33.3658250005,
+                -70.6956120001
+            ],
+            [
+                -33.3658190005,
+                -70.6965170001
+            ],
+            [
+                -33.3658530005,
+                -70.6976590001
+            ],
+            [
+                -33.3658940005,
+                -70.6985200001
+            ],
+            [
+                -33.3659290005,
+                -70.6990430001
+            ],
+            [
+                -33.3659930005,
+                -70.6996210001
+            ],
+            [
+                -33.3660890005,
+                -70.7000550001
+            ],
+            [
+                -33.3661030005,
+                -70.7001180001
+            ],
+            [
+                -33.3661250005,
+                -70.7001940001
+            ],
+            [
+                -33.3661280005,
+                -70.7002060001
+            ],
+            [
+                -33.3661730005,
+                -70.7003590001
+            ],
+            [
+                -33.3662280005,
+                -70.7004970001
+            ],
+            [
+                -33.3663830005,
+                -70.7009020001
+            ],
+            [
+                -33.3665040005,
+                -70.7011340001
+            ],
+            [
+                -33.3668110005,
+                -70.7016310001
+            ],
+            [
+                -33.3668390005,
+                -70.7016700001
+            ],
+            [
+                -33.3668480005,
+                -70.7016830001
+            ],
+            [
+                -33.3671260005,
+                -70.7020780001
+            ],
+            [
+                -33.3675080005,
+                -70.7025780001
+            ],
+            [
+                -33.3675490005,
+                -70.7026350001
+            ],
+            [
+                -33.3675900005,
+                -70.7026920001
+            ],
+            [
+                -33.3679680005,
+                -70.7032230001
+            ],
+            [
+                -33.3682080005,
+                -70.7035620001
+            ],
+            [
+                -33.3684290005,
+                -70.7038750001
+            ],
+            [
+                -33.3686000005,
+                -70.7041490001
+            ],
+            [
+                -33.3688010005,
+                -70.7044700001
+            ],
+            [
+                -33.3692590005,
+                -70.7052020001
+            ],
+            [
+                -33.3699020005,
+                -70.7062460001
+            ],
+            [
+                -33.3706480005,
+                -70.7074610001
+            ],
+            [
+                -33.3709040005,
+                -70.7078270001
+            ],
+            [
+                -33.3715030005,
+                -70.7087830001
+            ],
+            [
+                -33.3716650005,
+                -70.7090760001
+            ],
+            [
+                -33.3721520005,
+                -70.7098400001
+            ],
+            [
+                -33.3727280005,
+                -70.7107660001
+            ],
+            [
+                -33.3727960005,
+                -70.7108780001
+            ],
+            [
+                -33.3728490005,
+                -70.7109660001
+            ],
+            [
+                -33.3728670005,
+                -70.7109960001
+            ],
+            [
+                -33.3730400005,
+                -70.7112960001
+            ],
+            [
+                -33.3732040005,
+                -70.7116520001
+            ],
+            [
+                -33.3733770005,
+                -70.7120510001
+            ],
+            [
+                -33.3734920005,
+                -70.7123250001
+            ],
+            [
+                -33.3735520005,
+                -70.7127060001
+            ],
+            [
+                -33.3735670005,
+                -70.7128470001
+            ],
+            [
+                -33.3736000005,
+                -70.7130090001
+            ],
+            [
+                -33.3737130005,
+                -70.7134270001
+            ],
+            [
+                -33.3738120005,
+                -70.7139310001
+            ],
+            [
+                -33.3738690005,
+                -70.7143080001
+            ],
+            [
+                -33.3739150005,
+                -70.7148380001
+            ],
+            [
+                -33.3739290005,
+                -70.7152290001
+            ],
+            [
+                -33.3739300005,
+                -70.7152380001
+            ],
+            [
+                -33.3739380005,
+                -70.7154880001
+            ],
+            [
+                -33.3739160005,
+                -70.7158330001
+            ],
+            [
+                -33.3738770005,
+                -70.7163240001
+            ],
+            [
+                -33.3738290005,
+                -70.7167760001
+            ],
+            [
+                -33.3737470005,
+                -70.7174790001
+            ],
+            [
+                -33.3735360005,
+                -70.7193580001
+            ],
+            [
+                -33.3734160005,
+                -70.7203600001
+            ],
+            [
+                -33.3732830005,
+                -70.7215480001
+            ],
+            [
+                -33.3731890005,
+                -70.7223320001
+            ],
+            [
+                -33.3730860005,
+                -70.7231560001
+            ],
+            [
+                -33.3730160005,
+                -70.7237040001
+            ],
+            [
+                -33.3730030005,
+                -70.7238030001
+            ],
+            [
+                -33.3729900005,
+                -70.7238890001
+            ],
+            [
+                -33.3729770005,
+                -70.7240360001
+            ],
+            [
+                -33.3729560005,
+                -70.7241960001
+            ],
+            [
+                -33.3729460005,
+                -70.7243080001
+            ],
+            [
+                -33.3729130005,
+                -70.7245430001
+            ],
+            [
+                -33.3728040005,
+                -70.7255530001
+            ],
+            [
+                -33.3726590005,
+                -70.7267460001
+            ],
+            [
+                -33.3725270005,
+                -70.7279100001
+            ],
+            [
+                -33.3723440005,
+                -70.7294830001
+            ],
+            [
+                -33.3722460005,
+                -70.7303250001
+            ],
+            [
+                -33.3722130005,
+                -70.7306260001
+            ],
+            [
+                -33.3718040005,
+                -70.7339200001
+            ],
+            [
+                -33.3717380005,
+                -70.7345380001
+            ],
+            [
+                -33.3717070005,
+                -70.7348380001
+            ],
+            [
+                -33.3715080005,
+                -70.7367770001
+            ],
+            [
+                -33.3714320005,
+                -70.7378030001
+            ],
+            [
+                -33.3718450005,
+                -70.7375910001
+            ],
+            [
+                -33.3718750005,
+                -70.7371330001
+            ],
+            [
+                -33.3719770005,
+                -70.7361040001
+            ],
+            [
+                -33.3720820005,
+                -70.7351740001
+            ],
+            [
+                -33.3721280005,
+                -70.7347100001
+            ],
+            [
+                -33.3721610005,
+                -70.7345630001
+            ],
+            [
+                -33.3722750005,
+                -70.7335870001
+            ],
+            [
+                -33.3725780005,
+                -70.7307320001
+            ],
+            [
+                -33.3726760005,
+                -70.7299370001
+            ],
+            [
+                -33.3728270005,
+                -70.7297810001
+            ],
+            [
+                -33.3738560005,
+                -70.7285010001
+            ],
+            [
+                -33.3748510005,
+                -70.7272590001
+            ],
+            [
+                -33.3750340005,
+                -70.7270170001
+            ],
+            [
+                -33.3750770005,
+                -70.7269670001
+            ],
+            [
+                -33.3753060005,
+                -70.7266850001
+            ],
+            [
+                -33.3756250005,
+                -70.7262820001
+            ],
+            [
+                -33.3758500005,
+                -70.7260050001
+            ],
+            [
+                -33.3760770005,
+                -70.7257220001
+            ],
+            [
+                -33.3763940005,
+                -70.7253150001
+            ],
+            [
+                -33.3764990005,
+                -70.7252060001
+            ],
+            [
+                -33.3764390005,
+                -70.7253130001
+            ],
+            [
+                -33.3783880005,
+                -70.7265710001
+            ],
+            [
+                -33.3784460005,
+                -70.7266230001
+            ],
+            [
+                -33.3784750005,
+                -70.7265950001
+            ],
+            [
+                -33.3786130005,
+                -70.7263950001
+            ],
+            [
+                -33.3793600005,
+                -70.7254960001
+            ],
+            [
+                -33.3805120005,
+                -70.7240870001
+            ],
+            [
+                -33.3805800005,
+                -70.7239410001
+            ],
+            [
+                -33.3805430005,
+                -70.7239270001
+            ],
+            [
+                -33.3804730005,
+                -70.7238790001
+            ],
+            [
+                -33.3803250005,
+                -70.7237740001
+            ],
+            [
+                -33.3795420005,
+                -70.7232910001
+            ],
+            [
+                -33.3785670005,
+                -70.7226710001
+            ],
+            [
+                -33.3785210005,
+                -70.7226530001
+            ],
+            [
+                -33.3782140005,
+                -70.7230380001
+            ],
+            [
+                -33.3772370005,
+                -70.7242610001
+            ],
+            [
+                -33.3769710005,
+                -70.7245950001
+            ],
+            [
+                -33.3768120005,
+                -70.7247930001
+            ],
+            [
+                -33.3764990005,
+                -70.7252060001
+            ],
+            [
+                -33.3765510005,
+                -70.7250690001
+            ],
+            [
+                -33.3754640005,
+                -70.7243780001
+            ],
+            [
+                -33.3753500005,
+                -70.7246170001
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 13564,
+                "cod": "PB1982",
+                "num": 4,
+                "pos": [
+                    -33.3652691,
+                    -70.6917002
+                ],
+                "name": "EIM Los Libertadores esq. Cal. Gral. Sn. Mart\u00edn",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 1,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998038,
+                    "stopCoordenadaX": "-33.3652691",
+                    "stopCoordenadaY": "-70.6917002"
+                },
+                "eje": "EIM Los Libertadores",
+                "codSimt": "PB1982",
+                "distancia": 0.0
+            },
+            {
+                "id": 2207,
+                "cod": "PB1531",
+                "num": 0,
+                "pos": [
+                    -33.3736883,
+                    -70.7134542
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. Lo Campino",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1090,
+                        "cod": "429c",
+                        "destino": "Quilicura",
+                        "orden": 31,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1386,
+                        "cod": "B43",
+                        "destino": "Lo Marcoleta",
+                        "orden": 8,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Marcoleta"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1092,
+                        "cod": "430",
+                        "destino": "Quilicura",
+                        "orden": 44,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 2,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1310,
+                        "cod": "B18",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 19,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 266,
+                        "cod": "315e",
+                        "destino": "Rigoberto Jara",
+                        "orden": 8,
+                        "color": "#00A77E",
+                        "negocio": {
+                            "nombre": "Buses Vule S.A.",
+                            "color": "#00A77E"
+                        },
+                        "recorrido": {
+                            "destino": "Rigoberto Jara"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U3"
+                    },
+                    {
+                        "id": 1095,
+                        "cod": "435",
+                        "destino": "Quilicura",
+                        "orden": 22,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1049,
+                        "cod": "B11",
+                        "destino": "Lo Marcoleta",
+                        "orden": 36,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Lo Marcoleta"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 991343,
+                    "stopCoordenadaX": "-33.3736883",
+                    "stopCoordenadaY": "-70.7134542"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB1531",
+                "distancia": 0.0
+            },
+            {
+                "id": 2196,
+                "cod": "PB1845",
+                "num": 0,
+                "pos": [
+                    -33.3735336,
+                    -70.7190314
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. Alc. Juan Larenas",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 3,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1090,
+                        "cod": "429c",
+                        "destino": "Quilicura",
+                        "orden": 32,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996828,
+                    "stopCoordenadaX": "-33.3735336",
+                    "stopCoordenadaY": "-70.7190314"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB1845",
+                "distancia": 0.0
+            },
+            {
+                "id": 2197,
+                "cod": "PB1711",
+                "num": 0,
+                "pos": [
+                    -33.3729722,
+                    -70.723587
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. Manuel Rodr\u00edguez",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1090,
+                        "cod": "429c",
+                        "destino": "Quilicura",
+                        "orden": 33,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 4,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996829,
+                    "stopCoordenadaX": "-33.3729722",
+                    "stopCoordenadaY": "-70.7235870"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB1711",
+                "distancia": 0.0
+            },
+            {
+                "id": 2198,
+                "cod": "PB1712",
+                "num": 0,
+                "pos": [
+                    -33.3721383,
+                    -70.7307609
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. Manuel Rodr\u00edguez",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1090,
+                        "cod": "429c",
+                        "destino": "Quilicura",
+                        "orden": 34,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 5,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996830,
+                    "stopCoordenadaX": "-33.3721383",
+                    "stopCoordenadaY": "-70.7307609"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB1712",
+                "distancia": 0.0
+            },
+            {
+                "id": 2199,
+                "cod": "PB1713",
+                "num": 0,
+                "pos": [
+                    -33.3715108,
+                    -70.7364137
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. San Mart\u00edn",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1090,
+                        "cod": "429c",
+                        "destino": "Quilicura",
+                        "orden": 35,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Quilicura"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 6,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996831,
+                    "stopCoordenadaX": "-33.3715108",
+                    "stopCoordenadaY": "-70.7364137"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB1713",
+                "distancia": 0.0
+            },
+            {
+                "id": 2212,
+                "cod": "PB489",
+                "num": 0,
+                "pos": [
+                    -33.3726689,
+                    -70.730364
+                ],
+                "name": "Av. Am\u00e9rico Vespucio esq. Ismael Brice\u00f1o",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1089,
+                        "cod": "429c",
+                        "destino": "(M) Tobalaba",
+                        "orden": 5,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Tobalaba"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1086,
+                        "cod": "428e",
+                        "destino": "(M) Los Libertadores",
+                        "orden": 12,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US6",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Libertadores"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U13"
+                    },
+                    {
+                        "id": 1320,
+                        "cod": "B32",
+                        "destino": "Valle Lo Campino",
+                        "orden": 10,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Valle Lo Campino"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 7,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1310,
+                        "cod": "B18",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 31,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996792,
+                    "stopCoordenadaX": "-33.3726689",
+                    "stopCoordenadaY": "-70.7303640"
+                },
+                "eje": "Av. Am\u00e9rico Vespucio",
+                "codSimt": "PB489",
+                "distancia": 0.0
+            },
+            {
+                "id": 2409,
+                "cod": "PB1345",
+                "num": 0,
+                "pos": [
+                    -33.3730739,
+                    -70.7295539
+                ],
+                "name": "Ismael Brice\u00f1o esq. Calle 1",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1310,
+                        "cod": "B18",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 32,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 8,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1320,
+                        "cod": "B32",
+                        "destino": "Valle Lo Campino",
+                        "orden": 11,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Valle Lo Campino"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998035,
+                    "stopCoordenadaX": "-33.3730739",
+                    "stopCoordenadaY": "-70.7295539"
+                },
+                "eje": "Ismael Brice\u00f1o",
+                "codSimt": "PB1345",
+                "distancia": 0.0
+            },
+            {
+                "id": 13227,
+                "cod": "PB1870",
+                "num": 0,
+                "pos": [
+                    -33.3746669,
+                    -70.7275519
+                ],
+                "name": "Ismael Brice\u00f1o esq. Calle 1",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1320,
+                        "cod": "B32",
+                        "destino": "Valle Lo Campino",
+                        "orden": 12,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Valle Lo Campino"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 9,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1310,
+                        "cod": "B18",
+                        "destino": "Villa Pucar\u00e1",
+                        "orden": 33,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Villa Pucar\u00e1"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998036,
+                    "stopCoordenadaX": "-33.3746669",
+                    "stopCoordenadaY": "-70.7275519"
+                },
+                "eje": "Ismael Brice\u00f1o",
+                "codSimt": "PB1870",
+                "distancia": 0.0
+            },
+            {
+                "id": 2406,
+                "cod": "PB1346",
+                "num": 0,
+                "pos": [
+                    -33.375556,
+                    -70.726446
+                ],
+                "name": "Ismael Brice\u00f1o esq. Calle 1",
+                "comuna": "QUILICURA",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1312,
+                        "cod": "B18e",
+                        "destino": "Fin de recorrido",
+                        "orden": 10,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1310,
+                        "cod": "B18",
+                        "destino": "Fin de recorrido",
+                        "orden": 34,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    },
+                    {
+                        "id": 1320,
+                        "cod": "B32",
+                        "destino": "Fin de recorrido",
+                        "orden": 13,
+                        "color": "#CF152D",
+                        "negocio": {
+                            "nombre": "Alfa US1",
+                            "color": "#CF152D"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U8"
+                    }
+                ],
+                "stop": {
+                    "stopId": 998037,
+                    "stopCoordenadaX": "-33.3755560",
+                    "stopCoordenadaY": "-70.7264460"
+                },
+                "eje": "Ismael Brice\u00f1o",
+                "codSimt": "PB1346",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "Villa Pucar\u00e1",
+        "itinerario": false
+    }
+}

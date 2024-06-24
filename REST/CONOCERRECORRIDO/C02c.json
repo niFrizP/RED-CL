@@ -1,0 +1,4408 @@
+{
+    "negocio": {
+        "id": 6,
+        "nombre": "Redbus Urbano S.A.",
+        "color": "#ED1C24",
+        "url": "http://www.transantiago.cl/es/empresas/redbus.html"
+    },
+    "ida": {
+        "id": 386,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "06:30",
+                "fin": "21:18"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "07:00",
+                "fin": "22:40"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "06:30",
+                "fin": "22:40"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "07:00",
+                "fin": "22:40"
+            },
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "06:30",
+                "fin": "21:18"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "06:30",
+                "fin": "22:40"
+            }
+        ],
+        "path": [
+            [
+                -33.3972270005,
+                -70.500398
+            ],
+            [
+                -33.3971760005,
+                -70.500663
+            ],
+            [
+                -33.3967930005,
+                -70.502561
+            ],
+            [
+                -33.3966890005,
+                -70.502967
+            ],
+            [
+                -33.3965160005,
+                -70.503701
+            ],
+            [
+                -33.3964250005,
+                -70.503754
+            ],
+            [
+                -33.3962670005,
+                -70.504663
+            ],
+            [
+                -33.3960360005,
+                -70.505831
+            ],
+            [
+                -33.3960240005,
+                -70.505909
+            ],
+            [
+                -33.3959790005,
+                -70.506121
+            ],
+            [
+                -33.3961030005,
+                -70.50604
+            ],
+            [
+                -33.3966290005,
+                -70.506133
+            ],
+            [
+                -33.3971370005,
+                -70.506232
+            ],
+            [
+                -33.3975180005,
+                -70.50632
+            ],
+            [
+                -33.3979990005,
+                -70.506408
+            ],
+            [
+                -33.3989470005,
+                -70.506512
+            ],
+            [
+                -33.3994670005,
+                -70.506552
+            ],
+            [
+                -33.3995510005,
+                -70.506642
+            ],
+            [
+                -33.3996010005,
+                -70.506747
+            ],
+            [
+                -33.4000930005,
+                -70.506639
+            ],
+            [
+                -33.4005740005,
+                -70.506549
+            ],
+            [
+                -33.4010100005,
+                -70.506439
+            ],
+            [
+                -33.4011820005,
+                -70.506382
+            ],
+            [
+                -33.4011570005,
+                -70.506443
+            ],
+            [
+                -33.4011150005,
+                -70.506552
+            ],
+            [
+                -33.4010680005,
+                -70.506767
+            ],
+            [
+                -33.4010540005,
+                -70.506901
+            ],
+            [
+                -33.4010490005,
+                -70.507015
+            ],
+            [
+                -33.4010500005,
+                -70.50711
+            ],
+            [
+                -33.4010570005,
+                -70.507371
+            ],
+            [
+                -33.4010940005,
+                -70.508414
+            ],
+            [
+                -33.4010970005,
+                -70.508452
+            ],
+            [
+                -33.4010970005,
+                -70.508477
+            ],
+            [
+                -33.4011050005,
+                -70.508675
+            ],
+            [
+                -33.4011210005,
+                -70.508864
+            ],
+            [
+                -33.4011460005,
+                -70.50902
+            ],
+            [
+                -33.4011800005,
+                -70.509176
+            ],
+            [
+                -33.4012230005,
+                -70.509321
+            ],
+            [
+                -33.4012890005,
+                -70.509493
+            ],
+            [
+                -33.4013950005,
+                -70.509709
+            ],
+            [
+                -33.4015290005,
+                -70.509939
+            ],
+            [
+                -33.4014210005,
+                -70.51007
+            ],
+            [
+                -33.4013690005,
+                -70.510113
+            ],
+            [
+                -33.4013130005,
+                -70.510146
+            ],
+            [
+                -33.4012600005,
+                -70.510156
+            ],
+            [
+                -33.4012100005,
+                -70.510157
+            ],
+            [
+                -33.4010900005,
+                -70.510158
+            ],
+            [
+                -33.4007280005,
+                -70.510168
+            ],
+            [
+                -33.4001300005,
+                -70.510161
+            ],
+            [
+                -33.3996870005,
+                -70.510161
+            ],
+            [
+                -33.3996060005,
+                -70.510152
+            ],
+            [
+                -33.3996470005,
+                -70.510272
+            ],
+            [
+                -33.3996900005,
+                -70.510461
+            ],
+            [
+                -33.3998270005,
+                -70.510936
+            ],
+            [
+                -33.4000470005,
+                -70.511716
+            ],
+            [
+                -33.4002450005,
+                -70.512413
+            ],
+            [
+                -33.4003350005,
+                -70.512728
+            ],
+            [
+                -33.4004610005,
+                -70.51317
+            ],
+            [
+                -33.4005880005,
+                -70.513445
+            ],
+            [
+                -33.4007490005,
+                -70.513594
+            ],
+            [
+                -33.4008830005,
+                -70.513767
+            ],
+            [
+                -33.4009040005,
+                -70.513852
+            ],
+            [
+                -33.4009220005,
+                -70.513939
+            ],
+            [
+                -33.4009370005,
+                -70.51404
+            ],
+            [
+                -33.4009710005,
+                -70.514384
+            ],
+            [
+                -33.4010370005,
+                -70.51507
+            ],
+            [
+                -33.4010610005,
+                -70.515292
+            ],
+            [
+                -33.4011210005,
+                -70.515847
+            ],
+            [
+                -33.4011860005,
+                -70.516383
+            ],
+            [
+                -33.4012600005,
+                -70.517135
+            ],
+            [
+                -33.4012630005,
+                -70.517359
+            ],
+            [
+                -33.4013120005,
+                -70.517951
+            ],
+            [
+                -33.4014200005,
+                -70.518979
+            ],
+            [
+                -33.4014890005,
+                -70.519712
+            ],
+            [
+                -33.4014780005,
+                -70.519857
+            ],
+            [
+                -33.4014490005,
+                -70.520008
+            ],
+            [
+                -33.4014390005,
+                -70.52008
+            ],
+            [
+                -33.4014260005,
+                -70.520443
+            ],
+            [
+                -33.4014550005,
+                -70.520932
+            ],
+            [
+                -33.4014710005,
+                -70.521396
+            ],
+            [
+                -33.4014530005,
+                -70.521777
+            ],
+            [
+                -33.4014220005,
+                -70.522151
+            ],
+            [
+                -33.4013600005,
+                -70.522868
+            ],
+            [
+                -33.4013580005,
+                -70.522987
+            ],
+            [
+                -33.4012830005,
+                -70.523939
+            ],
+            [
+                -33.4012300005,
+                -70.524614
+            ],
+            [
+                -33.4011320005,
+                -70.525957
+            ],
+            [
+                -33.4010700005,
+                -70.526746
+            ],
+            [
+                -33.4008930005,
+                -70.529009
+            ],
+            [
+                -33.4008970005,
+                -70.529075
+            ],
+            [
+                -33.4009030005,
+                -70.529212
+            ],
+            [
+                -33.4008990005,
+                -70.529558
+            ],
+            [
+                -33.4009050005,
+                -70.529818
+            ],
+            [
+                -33.4009370005,
+                -70.530125
+            ],
+            [
+                -33.4009610005,
+                -70.530357
+            ],
+            [
+                -33.4009830005,
+                -70.530484
+            ],
+            [
+                -33.4010370005,
+                -70.530795
+            ],
+            [
+                -33.4011140005,
+                -70.531159
+            ],
+            [
+                -33.4012000005,
+                -70.531437
+            ],
+            [
+                -33.4012690005,
+                -70.531658
+            ],
+            [
+                -33.4013290005,
+                -70.531822
+            ],
+            [
+                -33.4014140005,
+                -70.532039
+            ],
+            [
+                -33.4015290005,
+                -70.532311
+            ],
+            [
+                -33.4016640005,
+                -70.5326
+            ],
+            [
+                -33.4017340005,
+                -70.532736
+            ],
+            [
+                -33.4018310005,
+                -70.53291
+            ],
+            [
+                -33.4020390005,
+                -70.533253
+            ],
+            [
+                -33.4020350005,
+                -70.533289
+            ],
+            [
+                -33.4023740005,
+                -70.53381
+            ],
+            [
+                -33.4024690005,
+                -70.53391
+            ],
+            [
+                -33.4025550005,
+                -70.534015
+            ],
+            [
+                -33.4025470005,
+                -70.534067
+            ],
+            [
+                -33.4028400005,
+                -70.53447
+            ],
+            [
+                -33.4029080005,
+                -70.534486
+            ],
+            [
+                -33.4032390005,
+                -70.534946
+            ],
+            [
+                -33.4036880005,
+                -70.535585
+            ],
+            [
+                -33.4038690005,
+                -70.535878
+            ],
+            [
+                -33.4040540005,
+                -70.536233
+            ],
+            [
+                -33.4043270005,
+                -70.536803
+            ],
+            [
+                -33.4046960005,
+                -70.537625
+            ],
+            [
+                -33.4048490005,
+                -70.538047
+            ],
+            [
+                -33.4049500005,
+                -70.538327
+            ],
+            [
+                -33.4060080005,
+                -70.537913
+            ],
+            [
+                -33.4068790005,
+                -70.537551
+            ],
+            [
+                -33.4071780005,
+                -70.537423
+            ],
+            [
+                -33.4076070005,
+                -70.537243
+            ],
+            [
+                -33.4076580005,
+                -70.53723
+            ],
+            [
+                -33.4078500005,
+                -70.53782
+            ],
+            [
+                -33.4080390005,
+                -70.538389
+            ],
+            [
+                -33.4082130005,
+                -70.538951
+            ],
+            [
+                -33.4083140005,
+                -70.539249
+            ],
+            [
+                -33.4085770005,
+                -70.540084
+            ],
+            [
+                -33.4086960005,
+                -70.540416
+            ],
+            [
+                -33.4087410005,
+                -70.540575
+            ],
+            [
+                -33.4088620005,
+                -70.541008
+            ],
+            [
+                -33.4089800005,
+                -70.541501
+            ],
+            [
+                -33.4090370005,
+                -70.541697
+            ],
+            [
+                -33.4091740005,
+                -70.542285
+            ],
+            [
+                -33.4091530005,
+                -70.542377
+            ],
+            [
+                -33.4091680005,
+                -70.542472
+            ],
+            [
+                -33.4092120005,
+                -70.542617
+            ],
+            [
+                -33.4092390005,
+                -70.542736
+            ],
+            [
+                -33.4092450005,
+                -70.542845
+            ],
+            [
+                -33.4092620005,
+                -70.543206
+            ],
+            [
+                -33.4092700005,
+                -70.543382
+            ],
+            [
+                -33.4092710005,
+                -70.543505
+            ],
+            [
+                -33.4092680005,
+                -70.543594
+            ],
+            [
+                -33.4092650005,
+                -70.54383
+            ],
+            [
+                -33.4092590005,
+                -70.543889
+            ],
+            [
+                -33.4092480005,
+                -70.543976
+            ],
+            [
+                -33.4092300005,
+                -70.544036
+            ],
+            [
+                -33.4091820005,
+                -70.544155
+            ],
+            [
+                -33.4090760005,
+                -70.544409
+            ],
+            [
+                -33.4089430005,
+                -70.544606
+            ],
+            [
+                -33.4088180005,
+                -70.544741
+            ],
+            [
+                -33.4086990005,
+                -70.54485
+            ],
+            [
+                -33.4085810005,
+                -70.544932
+            ],
+            [
+                -33.4084910005,
+                -70.544979
+            ],
+            [
+                -33.4084100005,
+                -70.545008
+            ],
+            [
+                -33.4082890005,
+                -70.54505
+            ],
+            [
+                -33.4082470005,
+                -70.545056
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 3619,
+                "cod": "PC621",
+                "num": 0,
+                "pos": [
+                    -33.3963696,
+                    -70.5038019
+                ],
+                "name": "Cam. Las Flores esq. Avenida La Plaza",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1032,
+                        "cod": "C37",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 1,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 1,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1027,
+                        "cod": "C09c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 1,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 138,
+                        "cod": "421",
+                        "destino": "Maip\u00fa",
+                        "orden": 1,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 1,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1029,
+                        "cod": "C27",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 1,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995955,
+                    "stopCoordenadaX": "-33.3963696",
+                    "stopCoordenadaY": "-70.5038019"
+                },
+                "eje": "Cam. Las Flores",
+                "codSimt": "PC621",
+                "distancia": 0.0
+            },
+            {
+                "id": 3468,
+                "cod": "PC407",
+                "num": 0,
+                "pos": [
+                    -33.3993433,
+                    -70.5065979
+                ],
+                "name": "Avenida La Plaza esq. Camino El Alba",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1197,
+                        "cod": "C09",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 25,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1027,
+                        "cod": "C09c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 8,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 2,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 2,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996858,
+                    "stopCoordenadaX": "-33.3993433",
+                    "stopCoordenadaY": "-70.5065979"
+                },
+                "eje": "Avenida La Plaza",
+                "codSimt": "PC407",
+                "distancia": 0.0
+            },
+            {
+                "id": 3470,
+                "cod": "PC622",
+                "num": 0,
+                "pos": [
+                    -33.4008623,
+                    -70.5065159
+                ],
+                "name": "Avenida La Plaza esq. General Blanche",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1027,
+                        "cod": "C09c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 9,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1032,
+                        "cod": "C37",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 3,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1197,
+                        "cod": "C09",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 26,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 3,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 3,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996859,
+                    "stopCoordenadaX": "-33.4008623",
+                    "stopCoordenadaY": "-70.5065159"
+                },
+                "eje": "Avenida La Plaza",
+                "codSimt": "PC622",
+                "distancia": 0.0
+            },
+            {
+                "id": 3663,
+                "cod": "PC623",
+                "num": 0,
+                "pos": [
+                    -33.4013923,
+                    -70.5098209
+                ],
+                "name": "General Blanche esq. Sn. C. de Apoquindo",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 4,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1197,
+                        "cod": "C09",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 27,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 4,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1032,
+                        "cod": "C37",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 4,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1027,
+                        "cod": "C09c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 10,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996860,
+                    "stopCoordenadaX": "-33.4013923",
+                    "stopCoordenadaY": "-70.5098209"
+                },
+                "eje": "General Blanche",
+                "codSimt": "PC623",
+                "distancia": 0.0
+            },
+            {
+                "id": 3725,
+                "cod": "PC624",
+                "num": 0,
+                "pos": [
+                    -33.3998613,
+                    -70.510124
+                ],
+                "name": "Sn. C. de Apoquindo esq. Camino El Alba",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 5,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 5,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996861,
+                    "stopCoordenadaX": "-33.3998613",
+                    "stopCoordenadaY": "-70.5101240"
+                },
+                "eje": "Sn. C. de Apoquindo",
+                "codSimt": "PC624",
+                "distancia": 0.0
+            },
+            {
+                "id": 3601,
+                "cod": "PC1047",
+                "num": 0,
+                "pos": [
+                    -33.4005142,
+                    -70.513438
+                ],
+                "name": "Camino El Alba esq. Cerro San Ram\u00f3n",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 6,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 6,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996862,
+                    "stopCoordenadaX": "-33.4005142",
+                    "stopCoordenadaY": "-70.5134380"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC1047",
+                "distancia": 0.0
+            },
+            {
+                "id": 3598,
+                "cod": "PC1048",
+                "num": 0,
+                "pos": [
+                    -33.4012291,
+                    -70.5176723
+                ],
+                "name": "Camino El Alba esq. Camino Oto\u00f1al",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 7,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 7,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996863,
+                    "stopCoordenadaX": "-33.4012291",
+                    "stopCoordenadaY": "-70.5176723"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC1048",
+                "distancia": 0.0
+            },
+            {
+                "id": 3596,
+                "cod": "PC626",
+                "num": 0,
+                "pos": [
+                    -33.4013231,
+                    -70.5227019
+                ],
+                "name": "Camino El Alba esq. Camino La Fuente",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 8,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 8,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996864,
+                    "stopCoordenadaX": "-33.4013231",
+                    "stopCoordenadaY": "-70.5227019"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC626",
+                "distancia": 0.0
+            },
+            {
+                "id": 3594,
+                "cod": "PC627",
+                "num": 0,
+                "pos": [
+                    -33.4008552,
+                    -70.5287003
+                ],
+                "name": "Camino El Alba esq. Camino Mirasol",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 9,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 9,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996865,
+                    "stopCoordenadaX": "-33.4008552",
+                    "stopCoordenadaY": "-70.5287003"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC627",
+                "distancia": 0.0
+            },
+            {
+                "id": 3605,
+                "cod": "PC420",
+                "num": 0,
+                "pos": [
+                    -33.402156,
+                    -70.533543
+                ],
+                "name": "Camino El Alba esq. Vital Apoquindo",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 138,
+                        "cod": "421",
+                        "destino": "Maip\u00fa",
+                        "orden": 13,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 10,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1029,
+                        "cod": "C27",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 12,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 10,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995967,
+                    "stopCoordenadaX": "-33.4021560",
+                    "stopCoordenadaY": "-70.5335430"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC420",
+                "distancia": 0.0
+            },
+            {
+                "id": 3591,
+                "cod": "PC421",
+                "num": 0,
+                "pos": [
+                    -33.403779,
+                    -70.5359029
+                ],
+                "name": "Camino El Alba esq. Cam. del Observatorio",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 11,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1029,
+                        "cod": "C27",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 13,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 11,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 138,
+                        "cod": "421",
+                        "destino": "Maip\u00fa",
+                        "orden": 14,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995968,
+                    "stopCoordenadaX": "-33.4037790",
+                    "stopCoordenadaY": "-70.5359029"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC421",
+                "distancia": 0.0
+            },
+            {
+                "id": 3590,
+                "cod": "PC422",
+                "num": 0,
+                "pos": [
+                    -33.4045589,
+                    -70.537499
+                ],
+                "name": "Camino El Alba esq. Cam. del Observatorio",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1029,
+                        "cod": "C27",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 14,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 384,
+                        "cod": "C02",
+                        "destino": "(M) Escuela Militar",
+                        "orden": 12,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Escuela Militar"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 138,
+                        "cod": "421",
+                        "destino": "Maip\u00fa",
+                        "orden": 15,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Maip\u00fa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 12,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995969,
+                    "stopCoordenadaX": "-33.4045589",
+                    "stopCoordenadaY": "-70.5374990"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC422",
+                "distancia": 0.0
+            },
+            {
+                "id": 3535,
+                "cod": "PC171",
+                "num": 0,
+                "pos": [
+                    -33.4074529,
+                    -70.5373739
+                ],
+                "name": "Avenida Paul Harris esq. General Blanche",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1028,
+                        "cod": "C09c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 4,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 13,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 121,
+                        "cod": "407",
+                        "destino": "Las Condes",
+                        "orden": 82,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Las Condes"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1198,
+                        "cod": "C09",
+                        "destino": "La Dehesa",
+                        "orden": 3,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "La Dehesa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1029,
+                        "cod": "C27",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 15,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1031,
+                        "cod": "C37",
+                        "destino": "San Ram\u00f3n Oriente",
+                        "orden": 2,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Ram\u00f3n Oriente"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995686,
+                    "stopCoordenadaX": "-33.4074529",
+                    "stopCoordenadaY": "-70.5373739"
+                },
+                "eje": "Avenida Paul Harris",
+                "codSimt": "PC171",
+                "distancia": 0.0
+            },
+            {
+                "id": 3667,
+                "cod": "PC1020",
+                "num": 0,
+                "pos": [
+                    -33.4087097,
+                    -70.5406521
+                ],
+                "name": "General Blanche esq. C\u00edrculo Apolo",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1197,
+                        "cod": "C09",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 43,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1027,
+                        "cod": "C09c",
+                        "destino": "Fin de recorrido",
+                        "orden": 26,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 386,
+                        "cod": "C02c",
+                        "destino": "Fin de recorrido",
+                        "orden": 14,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1032,
+                        "cod": "C37",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 26,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1029,
+                        "cod": "C27",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 17,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996866,
+                    "stopCoordenadaX": "-33.4087097",
+                    "stopCoordenadaY": "-70.5406521"
+                },
+                "eje": "General Blanche",
+                "codSimt": "PC1020",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "(M) Los Dominicos",
+        "itinerario": false
+    },
+    "regreso": {
+        "id": 387,
+        "horarios": [
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "06:30",
+                "fin": "21:18"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "06:30",
+                "fin": "22:40"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "07:00",
+                "fin": "22:40"
+            },
+            {
+                "tipoDia": "S\u00e1bado",
+                "inicio": "06:30",
+                "fin": "22:40"
+            },
+            {
+                "tipoDia": "Lunes a Viernes",
+                "inicio": "06:30",
+                "fin": "21:18"
+            },
+            {
+                "tipoDia": "Domingo y Festivos",
+                "inicio": "07:00",
+                "fin": "22:40"
+            }
+        ],
+        "path": [
+            [
+                -33.4078900005,
+                -70.545057
+            ],
+            [
+                -33.4077510005,
+                -70.545035
+            ],
+            [
+                -33.4074500005,
+                -70.544975
+            ],
+            [
+                -33.4072710005,
+                -70.544908
+            ],
+            [
+                -33.4070780005,
+                -70.544806
+            ],
+            [
+                -33.4070430005,
+                -70.544788
+            ],
+            [
+                -33.4069650005,
+                -70.544731
+            ],
+            [
+                -33.4068400005,
+                -70.54465
+            ],
+            [
+                -33.4067380005,
+                -70.544532
+            ],
+            [
+                -33.4066400005,
+                -70.544406
+            ],
+            [
+                -33.4064940005,
+                -70.544207
+            ],
+            [
+                -33.4064670005,
+                -70.544163
+            ],
+            [
+                -33.4063890005,
+                -70.543968
+            ],
+            [
+                -33.4063390005,
+                -70.543835
+            ],
+            [
+                -33.4063380005,
+                -70.543833
+            ],
+            [
+                -33.4062050005,
+                -70.543481
+            ],
+            [
+                -33.4061680005,
+                -70.543346
+            ],
+            [
+                -33.4060870005,
+                -70.543087
+            ],
+            [
+                -33.4060090005,
+                -70.542821
+            ],
+            [
+                -33.4058920005,
+                -70.542341
+            ],
+            [
+                -33.4057240005,
+                -70.541598
+            ],
+            [
+                -33.4056260005,
+                -70.541158
+            ],
+            [
+                -33.4053880005,
+                -70.540057
+            ],
+            [
+                -33.4052010005,
+                -70.539195
+            ],
+            [
+                -33.4052200005,
+                -70.539109
+            ],
+            [
+                -33.4051530005,
+                -70.538824
+            ],
+            [
+                -33.4051030005,
+                -70.538644
+            ],
+            [
+                -33.4050280005,
+                -70.538397
+            ],
+            [
+                -33.4050050005,
+                -70.538331
+            ],
+            [
+                -33.4049500005,
+                -70.538327
+            ],
+            [
+                -33.4048490005,
+                -70.538047
+            ],
+            [
+                -33.4046960005,
+                -70.537625
+            ],
+            [
+                -33.4043270005,
+                -70.536803
+            ],
+            [
+                -33.4040540005,
+                -70.536233
+            ],
+            [
+                -33.4038690005,
+                -70.535878
+            ],
+            [
+                -33.4036880005,
+                -70.535585
+            ],
+            [
+                -33.4032390005,
+                -70.534946
+            ],
+            [
+                -33.4029080005,
+                -70.534486
+            ],
+            [
+                -33.4029030005,
+                -70.534403
+            ],
+            [
+                -33.4026090005,
+                -70.534002
+            ],
+            [
+                -33.4025550005,
+                -70.534015
+            ],
+            [
+                -33.4024690005,
+                -70.53391
+            ],
+            [
+                -33.4024620005,
+                -70.533786
+            ],
+            [
+                -33.4021000005,
+                -70.533279
+            ],
+            [
+                -33.4020390005,
+                -70.533253
+            ],
+            [
+                -33.4018310005,
+                -70.53291
+            ],
+            [
+                -33.4017340005,
+                -70.532736
+            ],
+            [
+                -33.4016640005,
+                -70.5326
+            ],
+            [
+                -33.4015290005,
+                -70.532311
+            ],
+            [
+                -33.4014140005,
+                -70.532039
+            ],
+            [
+                -33.4013290005,
+                -70.531822
+            ],
+            [
+                -33.4012690005,
+                -70.531658
+            ],
+            [
+                -33.4012000005,
+                -70.531437
+            ],
+            [
+                -33.4011140005,
+                -70.531159
+            ],
+            [
+                -33.4010370005,
+                -70.530795
+            ],
+            [
+                -33.4009830005,
+                -70.530484
+            ],
+            [
+                -33.4009610005,
+                -70.530357
+            ],
+            [
+                -33.4009370005,
+                -70.530125
+            ],
+            [
+                -33.4009050005,
+                -70.529818
+            ],
+            [
+                -33.4008990005,
+                -70.529558
+            ],
+            [
+                -33.4009030005,
+                -70.529212
+            ],
+            [
+                -33.4008970005,
+                -70.529075
+            ],
+            [
+                -33.4008930005,
+                -70.529009
+            ],
+            [
+                -33.4010700005,
+                -70.526746
+            ],
+            [
+                -33.4011320005,
+                -70.525957
+            ],
+            [
+                -33.4012300005,
+                -70.524614
+            ],
+            [
+                -33.4012830005,
+                -70.523939
+            ],
+            [
+                -33.4013580005,
+                -70.522987
+            ],
+            [
+                -33.4013600005,
+                -70.522868
+            ],
+            [
+                -33.4014220005,
+                -70.522151
+            ],
+            [
+                -33.4014530005,
+                -70.521777
+            ],
+            [
+                -33.4014710005,
+                -70.521396
+            ],
+            [
+                -33.4014550005,
+                -70.520932
+            ],
+            [
+                -33.4014260005,
+                -70.520443
+            ],
+            [
+                -33.4014390005,
+                -70.52008
+            ],
+            [
+                -33.4014490005,
+                -70.520008
+            ],
+            [
+                -33.4014780005,
+                -70.519857
+            ],
+            [
+                -33.4014890005,
+                -70.519712
+            ],
+            [
+                -33.4014200005,
+                -70.518979
+            ],
+            [
+                -33.4013120005,
+                -70.517951
+            ],
+            [
+                -33.4012630005,
+                -70.517359
+            ],
+            [
+                -33.4012600005,
+                -70.517135
+            ],
+            [
+                -33.4011860005,
+                -70.516383
+            ],
+            [
+                -33.4011210005,
+                -70.515847
+            ],
+            [
+                -33.4010610005,
+                -70.515292
+            ],
+            [
+                -33.4010370005,
+                -70.51507
+            ],
+            [
+                -33.4009710005,
+                -70.514384
+            ],
+            [
+                -33.4009370005,
+                -70.51404
+            ],
+            [
+                -33.4009220005,
+                -70.513939
+            ],
+            [
+                -33.4009040005,
+                -70.513852
+            ],
+            [
+                -33.4008830005,
+                -70.513767
+            ],
+            [
+                -33.4007490005,
+                -70.513594
+            ],
+            [
+                -33.4005880005,
+                -70.513445
+            ],
+            [
+                -33.4004610005,
+                -70.51317
+            ],
+            [
+                -33.4003350005,
+                -70.512728
+            ],
+            [
+                -33.4002450005,
+                -70.512413
+            ],
+            [
+                -33.4000470005,
+                -70.511716
+            ],
+            [
+                -33.3998270005,
+                -70.510936
+            ],
+            [
+                -33.3996900005,
+                -70.510461
+            ],
+            [
+                -33.3996470005,
+                -70.510272
+            ],
+            [
+                -33.3996860005,
+                -70.510277
+            ],
+            [
+                -33.4009900005,
+                -70.510257
+            ],
+            [
+                -33.4011800005,
+                -70.510256
+            ],
+            [
+                -33.4012430005,
+                -70.510252
+            ],
+            [
+                -33.4012890005,
+                -70.510241
+            ],
+            [
+                -33.4013340005,
+                -70.510224
+            ],
+            [
+                -33.4013860005,
+                -70.510198
+            ],
+            [
+                -33.4014300005,
+                -70.51017
+            ],
+            [
+                -33.4014660005,
+                -70.510137
+            ],
+            [
+                -33.4015140005,
+                -70.510084
+            ],
+            [
+                -33.4015740005,
+                -70.510002
+            ],
+            [
+                -33.4016330005,
+                -70.509923
+            ],
+            [
+                -33.4015870005,
+                -70.509845
+            ],
+            [
+                -33.4015230005,
+                -70.509741
+            ],
+            [
+                -33.4014420005,
+                -70.50958
+            ],
+            [
+                -33.4013840005,
+                -70.50945
+            ],
+            [
+                -33.4013430005,
+                -70.509331
+            ],
+            [
+                -33.4013010005,
+                -70.509215
+            ],
+            [
+                -33.4012600005,
+                -70.509072
+            ],
+            [
+                -33.4012340005,
+                -70.508908
+            ],
+            [
+                -33.4012020005,
+                -70.508687
+            ],
+            [
+                -33.4011820005,
+                -70.508503
+            ],
+            [
+                -33.4011830005,
+                -70.508459
+            ],
+            [
+                -33.4011920005,
+                -70.508409
+            ],
+            [
+                -33.4011810005,
+                -70.508076
+            ],
+            [
+                -33.4011730005,
+                -70.507918
+            ],
+            [
+                -33.4011420005,
+                -70.507081
+            ],
+            [
+                -33.4011490005,
+                -70.506902
+            ],
+            [
+                -33.4011590005,
+                -70.506811
+            ],
+            [
+                -33.4011690005,
+                -70.506726
+            ],
+            [
+                -33.4011880005,
+                -70.506644
+            ],
+            [
+                -33.4012070005,
+                -70.506571
+            ],
+            [
+                -33.4012350005,
+                -70.506491
+            ],
+            [
+                -33.4012750005,
+                -70.5064
+            ],
+            [
+                -33.4013030005,
+                -70.50634
+            ],
+            [
+                -33.4013240005,
+                -70.50627
+            ],
+            [
+                -33.4013600005,
+                -70.506209
+            ],
+            [
+                -33.4013900005,
+                -70.506151
+            ],
+            [
+                -33.4012490005,
+                -70.506223
+            ],
+            [
+                -33.4012150005,
+                -70.50624
+            ],
+            [
+                -33.4011860005,
+                -70.50626
+            ],
+            [
+                -33.4011480005,
+                -70.506278
+            ],
+            [
+                -33.4008160005,
+                -70.506374
+            ],
+            [
+                -33.4007290005,
+                -70.506397
+            ],
+            [
+                -33.4007000005,
+                -70.506362
+            ],
+            [
+                -33.4006720005,
+                -70.506397
+            ],
+            [
+                -33.4002030005,
+                -70.50646
+            ],
+            [
+                -33.4001830005,
+                -70.506434
+            ],
+            [
+                -33.4001620005,
+                -70.506467
+            ],
+            [
+                -33.3997420005,
+                -70.506534
+            ],
+            [
+                -33.3996210005,
+                -70.506551
+            ],
+            [
+                -33.3995510005,
+                -70.506642
+            ],
+            [
+                -33.3994670005,
+                -70.506552
+            ],
+            [
+                -33.3989470005,
+                -70.506512
+            ],
+            [
+                -33.3979990005,
+                -70.506408
+            ],
+            [
+                -33.3975180005,
+                -70.50632
+            ],
+            [
+                -33.3971370005,
+                -70.506232
+            ],
+            [
+                -33.3966290005,
+                -70.506133
+            ],
+            [
+                -33.3961030005,
+                -70.50604
+            ],
+            [
+                -33.3961380005,
+                -70.50586
+            ],
+            [
+                -33.3965390005,
+                -70.503788
+            ],
+            [
+                -33.3965160005,
+                -70.503701
+            ],
+            [
+                -33.3966890005,
+                -70.502967
+            ],
+            [
+                -33.3967930005,
+                -70.502561
+            ],
+            [
+                -33.3971760005,
+                -70.500663
+            ],
+            [
+                -33.3972270005,
+                -70.500398
+            ]
+        ],
+        "paraderos": [
+            {
+                "id": 3611,
+                "cod": "PC1064",
+                "num": 1,
+                "pos": [
+                    -33.4072788,
+                    -70.5448659
+                ],
+                "name": "Camino El Alba esq. Av. Padre A. Hurtado",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1029,
+                        "cod": "C27",
+                        "destino": "(M) Los Dominicos",
+                        "orden": 18,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "(M) Los Dominicos"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 1,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 925,
+                        "cod": "421",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 83,
+                        "color": "#FFD400",
+                        "negocio": {
+                            "nombre": "Servicio de Transportes de Personas",
+                            "color": "#FFD400"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U7"
+                    },
+                    {
+                        "id": 1028,
+                        "cod": "C09c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 1,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 12,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1197,
+                        "cod": "C09",
+                        "destino": "Fin de recorrido",
+                        "orden": 44,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995938,
+                    "stopCoordenadaX": "-33.4072788",
+                    "stopCoordenadaY": "-70.5448659"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC1064",
+                "distancia": 0.0
+            },
+            {
+                "id": 3610,
+                "cod": "PC138",
+                "num": 0,
+                "pos": [
+                    -33.4056614,
+                    -70.5408333
+                ],
+                "name": "Camino El Alba esq. Cardenal Newman",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 13,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 2,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 121,
+                        "cod": "407",
+                        "destino": "Las Condes",
+                        "orden": 80,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Las Condes"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1032,
+                        "cod": "C37",
+                        "destino": "Fin de recorrido",
+                        "orden": 28,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 925,
+                        "cod": "421",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 84,
+                        "color": "#FFD400",
+                        "negocio": {
+                            "nombre": "Servicio de Transportes de Personas",
+                            "color": "#FFD400"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U7"
+                    },
+                    {
+                        "id": 1028,
+                        "cod": "C09c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 2,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1029,
+                        "cod": "C27",
+                        "destino": "Fin de recorrido",
+                        "orden": 19,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1198,
+                        "cod": "C09",
+                        "destino": "La Dehesa",
+                        "orden": 1,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "La Dehesa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995684,
+                    "stopCoordenadaX": "-33.4056614",
+                    "stopCoordenadaY": "-70.5408333"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC138",
+                "distancia": 0.0
+            },
+            {
+                "id": 3607,
+                "cod": "PC170",
+                "num": 0,
+                "pos": [
+                    -33.4050869,
+                    -70.538391
+                ],
+                "name": "Camino El Alba esq. Av. Paul Harris",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1030,
+                        "cod": "C27",
+                        "destino": "Rep\u00fablica de Honduras",
+                        "orden": 1,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Rep\u00fablica de Honduras"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 925,
+                        "cod": "421",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 85,
+                        "color": "#FFD400",
+                        "negocio": {
+                            "nombre": "Servicio de Transportes de Personas",
+                            "color": "#FFD400"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U7"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 3,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1028,
+                        "cod": "C09c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 3,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 14,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 121,
+                        "cod": "407",
+                        "destino": "Las Condes",
+                        "orden": 81,
+                        "color": "#F7941D",
+                        "negocio": {
+                            "nombre": "Express de Santiago Uno S.A.",
+                            "color": "#F7941D"
+                        },
+                        "recorrido": {
+                            "destino": "Las Condes"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U4"
+                    },
+                    {
+                        "id": 1031,
+                        "cod": "C37",
+                        "destino": "San Ram\u00f3n Oriente",
+                        "orden": 1,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Ram\u00f3n Oriente"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1198,
+                        "cod": "C09",
+                        "destino": "La Dehesa",
+                        "orden": 2,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "La Dehesa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995685,
+                    "stopCoordenadaX": "-33.4050869",
+                    "stopCoordenadaY": "-70.5383910"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC170",
+                "distancia": 0.0
+            },
+            {
+                "id": 3592,
+                "cod": "PC396",
+                "num": 0,
+                "pos": [
+                    -33.404005,
+                    -70.535972
+                ],
+                "name": "Camino El Alba esq. Vital Apoquindo",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1030,
+                        "cod": "C27",
+                        "destino": "Rep\u00fablica de Honduras",
+                        "orden": 2,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Rep\u00fablica de Honduras"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 925,
+                        "cod": "421",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 86,
+                        "color": "#FFD400",
+                        "negocio": {
+                            "nombre": "Servicio de Transportes de Personas",
+                            "color": "#FFD400"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U7"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 15,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 4,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995939,
+                    "stopCoordenadaX": "-33.4040050",
+                    "stopCoordenadaY": "-70.5359720"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC396",
+                "distancia": 0.0
+            },
+            {
+                "id": 3609,
+                "cod": "PC397",
+                "num": 0,
+                "pos": [
+                    -33.402415,
+                    -70.533629
+                ],
+                "name": "Camino El Alba esq. Cam. del Algarrobo",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1030,
+                        "cod": "C27",
+                        "destino": "Rep\u00fablica de Honduras",
+                        "orden": 3,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "Rep\u00fablica de Honduras"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 16,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 5,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 925,
+                        "cod": "421",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 87,
+                        "color": "#FFD400",
+                        "negocio": {
+                            "nombre": "Servicio de Transportes de Personas",
+                            "color": "#FFD400"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U7"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995940,
+                    "stopCoordenadaX": "-33.4024150",
+                    "stopCoordenadaY": "-70.5336290"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC397",
+                "distancia": 0.0
+            },
+            {
+                "id": 3593,
+                "cod": "PC628",
+                "num": 0,
+                "pos": [
+                    -33.400959,
+                    -70.5292439
+                ],
+                "name": "Camino El Alba esq. Camino Mirasol",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 6,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 17,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996867,
+                    "stopCoordenadaX": "-33.4009590",
+                    "stopCoordenadaY": "-70.5292439"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC628",
+                "distancia": 0.0
+            },
+            {
+                "id": 3595,
+                "cod": "PC629",
+                "num": 0,
+                "pos": [
+                    -33.4013871,
+                    -70.523171
+                ],
+                "name": "Camino El Alba esq. Camino La Fuente",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 18,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 7,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996868,
+                    "stopCoordenadaX": "-33.4013871",
+                    "stopCoordenadaY": "-70.5231710"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC629",
+                "distancia": 0.0
+            },
+            {
+                "id": 3597,
+                "cod": "PC630",
+                "num": 0,
+                "pos": [
+                    -33.4015052,
+                    -70.519923
+                ],
+                "name": "Camino El Alba esq. Camino Oto\u00f1al",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 8,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 19,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996869,
+                    "stopCoordenadaX": "-33.4015052",
+                    "stopCoordenadaY": "-70.5199230"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC630",
+                "distancia": 0.0
+            },
+            {
+                "id": 3599,
+                "cod": "PC1049",
+                "num": 0,
+                "pos": [
+                    -33.4011552,
+                    -70.5155159
+                ],
+                "name": "Camino El Alba esq. Antonio Valech",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 20,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 9,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996870,
+                    "stopCoordenadaX": "-33.4011552",
+                    "stopCoordenadaY": "-70.5155159"
+                },
+                "eje": "Camino El Alba",
+                "codSimt": "PC1049",
+                "distancia": 0.0
+            },
+            {
+                "id": 3724,
+                "cod": "PC633",
+                "num": 0,
+                "pos": [
+                    -33.3999883,
+                    -70.510321
+                ],
+                "name": "Sn. C. de Apoquindo esq. General Blanche",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 10,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 21,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996871,
+                    "stopCoordenadaX": "-33.3999883",
+                    "stopCoordenadaY": "-70.5103210"
+                },
+                "eje": "Sn. C. de Apoquindo",
+                "codSimt": "PC633",
+                "distancia": 0.0
+            },
+            {
+                "id": 3665,
+                "cod": "PC634",
+                "num": 4,
+                "pos": [
+                    -33.4018191,
+                    -70.5101591
+                ],
+                "name": "General Blanche esq. Sn. C. de Apoquindo",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 22,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1031,
+                        "cod": "C37",
+                        "destino": "San Ram\u00f3n Oriente",
+                        "orden": 20,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Ram\u00f3n Oriente"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1028,
+                        "cod": "C09c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 18,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 11,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1198,
+                        "cod": "C09",
+                        "destino": "La Dehesa",
+                        "orden": 17,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "La Dehesa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996872,
+                    "stopCoordenadaX": "-33.4018191",
+                    "stopCoordenadaY": "-70.5101591"
+                },
+                "eje": "General Blanche",
+                "codSimt": "PC634",
+                "distancia": 0.0
+            },
+            {
+                "id": 3664,
+                "cod": "PC635",
+                "num": 0,
+                "pos": [
+                    -33.4012735,
+                    -70.5067616
+                ],
+                "name": "General Blanche esq. Avenida La Plaza",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 12,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1198,
+                        "cod": "C09",
+                        "destino": "La Dehesa",
+                        "orden": 18,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "La Dehesa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 23,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1028,
+                        "cod": "C09c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 19,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1031,
+                        "cod": "C37",
+                        "destino": "San Ram\u00f3n Oriente",
+                        "orden": 21,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Ram\u00f3n Oriente"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996873,
+                    "stopCoordenadaX": "-33.4012735",
+                    "stopCoordenadaY": "-70.5067616"
+                },
+                "eje": "General Blanche",
+                "codSimt": "PC635",
+                "distancia": 0.0
+            },
+            {
+                "id": 3469,
+                "cod": "PC636",
+                "num": 0,
+                "pos": [
+                    -33.3998773,
+                    -70.5064749
+                ],
+                "name": "Avenida La Plaza esq. Camino El Alba",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 24,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1031,
+                        "cod": "C37",
+                        "destino": "San Ram\u00f3n Oriente",
+                        "orden": 22,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Ram\u00f3n Oriente"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1028,
+                        "cod": "C09c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 20,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 13,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1198,
+                        "cod": "C09",
+                        "destino": "La Dehesa",
+                        "orden": 19,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "La Dehesa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    }
+                ],
+                "stop": {
+                    "stopId": 996874,
+                    "stopCoordenadaX": "-33.3998773",
+                    "stopCoordenadaY": "-70.5064749"
+                },
+                "eje": "Avenida La Plaza",
+                "codSimt": "PC636",
+                "distancia": 0.0
+            },
+            {
+                "id": 3467,
+                "cod": "PC637",
+                "num": 0,
+                "pos": [
+                    -33.3964233,
+                    -70.5059839
+                ],
+                "name": "Avenida La Plaza esq. Camino Las Flores",
+                "comuna": "LAS CONDES",
+                "type": 0,
+                "servicios": [
+                    {
+                        "id": 1031,
+                        "cod": "C37",
+                        "destino": "San Ram\u00f3n Oriente",
+                        "orden": 23,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Ram\u00f3n Oriente"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 1198,
+                        "cod": "C09",
+                        "destino": "La Dehesa",
+                        "orden": 20,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "La Dehesa"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 387,
+                        "cod": "C02c",
+                        "destino": "Fin de recorrido",
+                        "orden": 14,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    },
+                    {
+                        "id": 1028,
+                        "cod": "C09c",
+                        "destino": "San Carlos de Apoquindo",
+                        "orden": 21,
+                        "color": "#cf152d",
+                        "negocio": {
+                            "nombre": "RBU US4",
+                            "color": "#cf152d"
+                        },
+                        "recorrido": {
+                            "destino": "San Carlos de Apoquindo"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U11"
+                    },
+                    {
+                        "id": 925,
+                        "cod": "421",
+                        "destino": "Fin de recorrido",
+                        "orden": 101,
+                        "color": "#FFD400",
+                        "negocio": {
+                            "nombre": "Servicio de Transportes de Personas",
+                            "color": "#FFD400"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U7"
+                    },
+                    {
+                        "id": 385,
+                        "cod": "C02",
+                        "destino": "Fin de recorrido",
+                        "orden": 25,
+                        "color": "#ED1C24",
+                        "negocio": {
+                            "nombre": "Redbus Urbano S.A.",
+                            "color": "#ED1C24"
+                        },
+                        "recorrido": {
+                            "destino": "Fin de recorrido"
+                        },
+                        "horarios": [
+                            {}
+                        ],
+                        "paradas": [],
+                        "shapes": [],
+                        "itinerario": false,
+                        "codigo": "U6"
+                    }
+                ],
+                "stop": {
+                    "stopId": 995954,
+                    "stopCoordenadaX": "-33.3964233",
+                    "stopCoordenadaY": "-70.5059839"
+                },
+                "eje": "Avenida La Plaza",
+                "codSimt": "PC637",
+                "distancia": 0.0
+            }
+        ],
+        "destino": "San Carlos de Apoquindo",
+        "itinerario": false
+    }
+}
